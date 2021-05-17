@@ -495,7 +495,6 @@ We conducted an empirical analysis using daily and 30 min KOSPI200 futures index
 Comparing the performance of machine learning methods and HSPF model for runoff simulation	머신러닝기법과 HSPF 모형의 유출량 모의 성능 비교
 In this paper, we propose an end-to-end automatic word spacing by using deep neural network.	본 논문에서는 심층 신경망을 이용한 종단 간(end-to-end) 한국어 문장 자동 띄어쓰기 시스템을 제안한다.
 In this paper, the prediction of the power consumption based on the deep learning can be used as a basis to reduce the power reserve ratio so as not to excessively produce extra power.	본 논문에서 딥러닝 기반 전력 소비량 예측을 통해서 여분의 전력을 과도하게 생산하지 않도록 전력 예비율을 감소시킬 수 있는 기반을 마련할 수 있다.
-So we proposed the autonomous machine learning to reach to the network equilibrium state by reducing the flow toward the input to weights of output layer neurons.	
 Malware Classification Possibility based on Sequence Information	순서 정보 기반 악성코드 분류 가능성
 Scene Recognition Using Local and Global Features	지역적, 전역적 특징을 이용한 환경 인식
 Comparison of CNN Structures for Detection of Surface Defects	표면 결함 검출을 위한 CNN 구조의 비교

@@ -1730,7 +1730,6 @@ However, statistical and machine learning models show different optimal performa
 Also, if a text document is encrypted by substitution, the accuracy of encoding detection is 99.26%, the accuracy of language detection is 99.77%.	또한 문서가 치환 암호에 의해 암호화된 경우에는 제안하는 방법의 인코딩 판별 정확도는 99.26%이며, 언어 판별 정확도는 99.77%로 매우 뛰어나다.
 Design and Implementation of Hardware for various vision applications	컴퓨터 비전응용을 위한 하드웨어 설계 및 구현
 A Study on the Fault Diagnosis Applied to the Grinding Power Signals	영상처리 기법을 통한 RBFNN 패턴 분류기 기반 개선된 지문인식 시스템 설계
-
 Single Image Super-Resolution using Residual Image based on CNN with a Deconvolutional Layer	디컨볼루셔널 레이어를 포함하는 CNN 기반 레지듀얼 이미지 이용 단일 영상 초해상도 복원
 A Study on 3D Panoramic Generation using Depth-map	깊이지도를 이용한 3D 파노라마 생성에 관한 연구
 In the experiments using AIMed, which is the most famous collection used for PPI extraction, the proposed model shows state-of-the art scores(78.0 F-score) revealing the best performance so far in this domain.	PPI 추출에 사용되는 가장 유명한 컬렉션인 AIMed를 사용한 실험에서, 제안된 모델은 이 영역에서 지금까지 최고의 성능을 보여주는 SOTA 점수(78.0 F-스코어)를 보여준다.
@@ -2733,7 +2732,6 @@ Identification of Bolt Coating Defects Using CNN and Grad-CAM	CNN 및 모델 시
 An LSTM Neural Network Model for Forecasting Daily Peak Electric Load of EV Charging Stations	EV 충전소의 일별 최대전력부하 예측을 위한 LSTM 신경망 모델
 Research on Intelligent Game Character through Performance Enhancements of Physics Engine in Computer Games	컴퓨터 게임을 위한 물리 엔진의 성능 향상 및 이를 적용한 지능적인 게임 캐릭터에 관한 연구
 Feature-Based Light and Shadow Estimation for Video Compositing and Editing	동영상 합성 및 편집을 위한 특징점 기반조명 및 그림자 추정
-
 In this paper, we propose a ‘sliding time step normalization’ method that can normalize non-stationary data and LSTM autoencoder to compress variables from all variables, and ‘moving transfer learning’, which divides periods and performs transfer learning.	본 논문에서는 비정상성 데이터를 정규화할 수 있는 슬라이딩 '타임스텝 정규화' 방법과 LSTM 형태의 오토인코더(AutoEncoder)를 사용하여 모든 변수로부터 압축된 변수로 미래 주가를 예측하는 방법, 기간을 나누어 전이 학습을 하는 '이동 전이 학습'을 제안한다.
 The proposed method uses a recurrent neural network model to naturally express postpositions connected to foreign words.	제안하는 방법은 순환신경망 모델을 이용하여 외국어에 연결된 조사를 자연스럽게 표현하는 것이다.
 However, most research to date has focused mainly on the topology of nodes, and there are few studies on graph embedding for weighted graphs, which has an arbitrary weight on the edges between the nodes.	그러나 대부분의 연구는 그래프의 노드 간 연결 구조에 집중하고 노드간 간선에 임의의 가중치를 갖는 가중 그래프에 대한 임베딩 기법에 대해서 많은 연구가 진행되지 않았다.
@@ -3314,7 +3312,6 @@ In this paper, we propose a method to classify malicious codes when the amount o
 In the experiments, the proposed stock price prediction reduces the test error by 3.19%, which is over other techniques by about 19%.	제안된 주가 예측 방식은 실제 주가를 대상으로 한 실험에서 3.19%로 테스트 오차를 줄였으며, 다른 방법보다 약 19%의 성능 향상을 거둘 수 있었다.
 Sign Language Translation System Using CNN	CNN을 활용한 수화 번역 시스템
 Ambiguity Resolution of Complement Transfer in Chinese‐to‐Korean Machine Translation	중한번역기의 보어 전달의 모호성
-The manual coding is very labor intensive and expensive task. Furthermore, inconsistent coding is resulted from the ability of human experts and their working environments.	
 A Study to collect large face dataset for machine learning	기계학습을 위한 대규모 얼굴 데이터 수집 및 DB 구축 방법
 In this paper, we propose a classification method for radar signals depending on the type of threat by applying machine learning to parameter data of radar signals .	이 논문에서는 레이다 신호의 파라미터 데이터에 기계학습 방법을 적용하여 위협 형태에 따라 레이다 신호를 분류하는 방법을 제시한다.
 Machine Learning-based Network Slicing Resource Reservation Scheme in 5G Network	5G 네트워크에서 기계학습 기반 트래픽 예측을 통한 네트워크 슬라이싱 자원 예약 기법
