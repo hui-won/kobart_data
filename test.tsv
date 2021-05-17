@@ -1,0 +1,1002 @@
+en	kr
+This paper proposes the CatAmRes model, which resolves the part-of-speech ambiguity, and compares the performance with that of other part-of-speech tagging methods.	본 논문에서는 이러한 문제점을 해결하기 위해 어휘 분석 이후 구문 분석 이전에 품사 모호성을 해소하려 하였으며 품사 모호성을 해소하기 위한 CatAmRes 모델을 제안하고 다른 품사태깅 방법과 성능 비교를 하였다.
+With the recent developments in computer technology, there has been an increasing interest in the field of machine learning. 	최근 컴퓨터 기술이 발전하면서 기계학습 분야에 관한 관심이 높아지고 있다.
+Recently, use of sEMG signals to recognize sign language signals have been investigated.	최근에는 수화 신호를 인식하기 위한 sEMG 신호 사용이 조사되었다.
+Simultaneous Tracking of Multiple Construction Workers Using Stereo-Vision	다수의 건설인력 위치 추적을 위한 스테레오 비전의 활용
+LSTM Hyperparameter Optimization for an EEG-Based Efficient Emotion Classification in BCI	BCI에서 EEG 기반 효율적인 감정 분류를 위한 LSTM 하이퍼파라미터 최적화
+In addition, the statutory statements related to the Defense Acquisition Program have the tendency to cause serious issues even if only a single expression is wrong within the sentence.	한편, 방위사업 관련 실무자들이 문장 내에서 표현 하나만 잘못되더라도 심각한 문제를 유발하는 특징을 가지고 있다.
+Document Classification using Recurrent Neural Network with Word Sense and Contexts	단어의 의미와 문맥을 고려한 순환신경망 기반의 문서 분류
+Its characteristicscan be summarized as follows.	그 특징은 다음과같이 요약할 수 있다.
+In the second place, if we say around the metaphor, life and machine are two different perspectives according to which we observe and describe the same beings.	둘째, 은유를 중심으로 볼 때, 생명과 기계는 같은 존재자에 대해 관찰하고 서술하는 상이한 관점이다.
+In this paper, we use the LSTM model to predict and compare the economic growth rates of the fourth quarter and the second quarter of 2018.	이에 본 논문은 LSTM 모형을 이용하여 2018년 2분기 이후 4분기 경제성장률을 예측하고 비교분석 하였다 .
+Multi-layer Neural Network with Hybrid Learning Rules for Improved Robust Capability	Robustness를 형성시키기 위한 Hybrid 학습법칙을 갖는 다층구조 신경회로망
+An Application of Computer Vision System for the Determination of Object Position in the Plane	평면상에 있는 물체 위치 결정을 위한 컴퓨터 비젼 시스템의 응용
+A Study on Solar Radiation Forecasting Based on Long Short-term Memory Considering Hourly Weather Changes	시간별 기상 변화를 고려한 LSTM 기반 일사량 예측에 관한 연구
+Enhancing Mobility Using Optical flow Estimation of a Tracked Mobile Robot on Unstructured Environments	옵티컬 플로우 추정을 이용한 비정형 환경에서의 무한궤도형 모바일 로봇의 이동성 향상
+A Study for Estimation of High Resolution Temperature Using Satellite Imagery and Machine Learning Models during Heat Waves	위성영상과 머신러닝 모델을 이용한 폭염기간 고해상도 기온 추정 연구
+Malicious Codes Re-grouping Methods using Fuzzy Clustering based on Native API Frequency	Native API 빈도 기반의 퍼지 군집화를 이용한 악성코드 재그룹화 기법연구
+In this process, as a result of road surface analysis, there was a problem that the quality of the image was degraded and the micro-crack on the road surface disappeared.	이 과정에서 노면 분석 결과 화질이 저하되고 노면의 미세 균열이 사라지는 문제가 발생했다.
+A Virtual Reality System for Molecular Modeling	분자 모델링을 위한 가상현실 시스템
+In recent, the hydrological regime of the Mekong river is changing drastically due to climate change and haphazard watershed development.	최근 기후변화 및 유역개발로 인하여 메콩강 유역의 수문환경이 급격히 변화하고 있다.
+Noise reduction using patch-based CNN in images	영상에서 패치기반 CNN 모형을 이용한 잡음제거
+This paper explain trends based on in-depth image processing analysis techniques.	본 동향지에서는 딥러닝 기반의 영상 처리 분석 기술 동향을 소개 및 서술한다.
+The argument for the impossibility of a moral machine states that in order for an entity to have true moral autonomy, its will must be fundamentally "self-generated, self-established, self-directed, self-selective" entity.	도덕적 기계의 불가능성을 주장하는 견해에 의하면 한 존재가 진정한 의미의 도덕적 자율성을 갖기 위해서는 ‘자기생성적, 자기정립적, 자기목적적, 자기선택적’ 주체이어야 한다.
+An Automatic Analysis of Public Debate of Local Assembly by Utilizing a Facet Analysis	패싯분석을 활용한 지방의회 공적토론에 대한 자동분석 방법의 시론적 연구
+In the second part, the convergence network is used to perform convolution operation using the Alexnet convolution neural network.	두 번째 부분은 Convolution network 부분으로 Alexnet convolution 신경망을 사용하여 Convolution 연산을 수행하여 특징을 추출한다.
+A Study of Threat Evaluation using Learning Bayesian Network on Air Defense	베이지안 네트워크 학습을 이용한 방공 무기 체계에서의 위협평가 기법연구
+A Design of Parallel Module Neural Network for Robot Manipulators having a fast Learning Speed	빠른 학습 속도를 갖는 로보트 매니퓰레이터의 병렬 모듈 신경제어기 설계
+Machine Learning Based Model for Global Horizontal Irradiance using COMS Imagery	COMS 위성영상을 활용한 기계학습 기반 수평면 전일사량 모델 산정
+A Study on Methodology for Air Target Dynamic Targeting Applying Machine Learning	기계학습을 활용한 항공표적 긴급표적처리 발전방안 연구
+Scanline Based Metric for Evaluating the Accuracy of Automatic Fracture Survey Methods	자동 균열 조사기법의 정확도 평가를 위한 조사선 기반의 지표 제안
+In this paper, we propose a deep learning model based on Gated Recurrent Unit(GRU) as an artificialintelligence(AI) network that can effectively perform pattern recognition of time series data such as the powerconsumption, and analyze performance of the prediction based on real household power usage data.	본 연구에서는 전력량 데이터와 같은 시계열 데이터에 대해 효율적으로 패턴인식을 수행하는 인공지능 네트워크인 Gated Recurrent Unit(GRU)을 기반으로 딥 러닝 모델을제안하고, 실제 가정의 전력사용량 데이터를 토대로 예측 성능을 분석한다.
+Gesture recognition with wearable device based on deep learning	딥러닝 기반의 웨어러블 디바이스에서의 제스처 인식
+A Comparative Study of R Packages for Learning from Data	데이터학습을 위한 R 패키지의 비교연구
+A Survey of Shape Descriptors in Computer Vision	컴퓨터비전에서 사용되는 모양표시자의 현황
+Analyses of Steady State Mixing Process of Two-Liquids Using Artificial Intelligence	Gamma 다층 신경망을 이용한 비선형 적응예측
+Driver face localization using morphological analysis and multi-layer preceptron as a skin-color model	형태분석과 피부색모델을 다층 퍼셉트론으로 사용한 운전자 얼굴추출 기법
+Since most of the derived process models are very complicated, an accurate analysis is impossible due to the limitations of human cognition ability, and most of the process mining algorithms go through an abstraction process.	특히 대부분의 도출된 프로세스 모델이 매우 복잡하기 때문에 사람의 인식 능력의 한계로 인해 정확한 분석이 불가능하여 대부분의 프로세스 마이닝 알고리즘에서는 추상화 과정을 거친다.
+Flaw Evaluation of Bogie connected Part for Railway Vehicle Based on Convolutional Neural Network	CNN 기반 철도차량 차체-대차 연결부의 결함 평가기법 연구
+Autobiographical Case Study on Motivation, Progress and  Performance of Creating Hooded Crane Dancing	흑두루미춤 창작 동기, 과정 및 공연에 관한  자전적 사례 탐구
+LSTM-based Anomaly Prediction Gateway for Smart Factory	스마트팩토리 환경에서 LSTM 기반 설비 이상 예측 게이트웨이 개발 연구
+Breaking character and natural image based CAPTCHA using feature classification	특징 분리를 통한 자연 배경을 지닌 글자 기반 CAPTCHA 공격
+Drowsy driving which drops the driver's perception, recognition, and vehicle control ability is one of the fatal factors that cause a lot of traffic accidents each year.	졸음운전은 운전자의 지각, 인식 및 차량 제어 능력의 현저한 저하를 야기하여 매년 교통사고의 원인에 상당히 기여하고 있는 위험 요인 중의 하나이다.
+Estimation of Mechanical Performance of Lightweight Concrete with Suggesting Optimized Mix Proportion Using Machine Learning	머신러닝을 이용한 경량 콘크리트의 역학적 특성 평가 및 최적 배합비 도출
+As a result of learning and verifying the groundwater level variation using the LSTM neural network, the coefficient of determination was 0.98 on average, indicating that the predictive model developed was very accurate.	LSTM 모델을 이용하여 지하수위 변화를 학습시키고 검증한 결과 결정계수가 평균 0.98로 나타나 개발된 예측모델의 적합성이 매우 높은 것으로 확인되었다.
+3D Human Posture Estimation Based on Capsule Network	캡슐네트워크 기반 3차원 자세 예측
+Characteristic Analysis of Vibration Signal for Fault Diagnosis of Cam and Cam Follower Based on Machine Learning	캠과 캠팔로워의 머신러닝 기반 고장진단을 위한 진동신호 특성 분석
+The earlier studies in this research area used the reviews data of shopping mal, but the research data used in the recent studies uses the data for stock market trends, blogs, news articles, weather forecasts, IMDB, and facebook etc.	초기의 감성분석 연구에서는 쇼핑몰 상품의 리뷰 중심으로 진행되었지만, 최근에는 블로그, 뉴스기사, 날씨 예보, 영화 리뷰, SNS, 주식시장의 동향 등 다양한 분야에 적용되고 있다.
+Modeling of RF Sputtering Process for ZnO Thin film Deposition using Neural Network	GPS L1 C/A 신호를 위한 심층신경망을 이용한 단일 연속파 재밍 검출기법
+Specifically, we propose suitable selection methods of initializers of weights and bias, regularizers to avoid over-fitting, activation functions and optimization methods.	크게 가중치와 바이어스에 대한 초기화 대상과 설정 방법, 과적합을 피하기 위한 정규화 적용 대상과 설정 방법, 활성화 함수 적용 방법, 최적화 알고리즘 선택 등을 제시한다.
+Vibration Control a Flexible Single Link Robot Manipulator Using Neural Networks	심층신경망을 활용한 Cochlodinium polykrikoides 적조 발생 예측 연구
+Implementation of Reinforcement Learning Agent to Avoid Blocks in Block Avoidance Game	블록 피하기 게임에서 강화 학습을 이용한 블록 피하기 에이전트 구현
+PCA Dimensionality Reduction using K-means Clustering Algorithm for Special Data Sets	특수 데이터 집합에 대한 K-means clustering 알고리즘을 사용한 PCA 차원 감소
+In addition, the number of internal MAC units and the size of SRAM vary substantially between different types of architectures.	또한 내부 MAC 장치의 수와 SRAM 크기는 아키텍처 유형에 따라 크게 다르다.
+In addition, we proposed a method for constructing a CNN that combines basic operation blocks using integer arithmetic only operation and a method for verifying the precision of each layer.	그리고 오직 정수 연산만을 사용하는 기본 연산 블록들을 CNN으로 구성 및 계층 별 정밀도를 검증하는 기법을 제안한다.
+The Estimation of Arctic Air Temperature in Summer Based on Machine Learning Approaches Using IABP Buoy and AMSR2 Satellite Data	기계학습 기반의 IABP 부이 자료와 AMSR2 위성영상을 이용한 여름철 북극 대기 온도 추정
+In applying machine learning for the emotion recognition, the efforts to reduce the complexity of the algorithm and improve the accuracy are required.	감정 인식에 기계학습을 적용하는데 있어서는 알고리즘의 복잡성을 줄이고 정확도를 향상시키기 위한 노력이 필요하다.
+In order to utilize machine learning and deep learning, which are the basis for automatic bookkeeping service, data must be available to learn.	자동 기장서비스의 기반이 되는 머신러닝 및 딥러닝을 활용기 위해서는 이를 학습시킬데이터가 확보되어야한다.
+Compressed Representation of CNN for Image Compression in MPEG-NNR	MPEG-NNR 의 영상 압축을 위한 CNN 의 압축 표현 기법
+On-line Learning Prediction of Machine Condition	온라인 학습에 의한 기계상태의 예측
+Automatic Visual Inspection System - Detection of Insulator's Minute Crack -	자동 시각 검사 시스템
+Multimodal Stacked Bidirectional LSTM for 3D Localization using Range-only Measurements	Multimodal Stacked Bidirectional LSTM 구조를 활용한 거리 센서 기반의 3D 위치 인식
+Two-way LED-to-LED Visible Light Communication SystemUsing Machine Learning	머신러닝을 사용한 양방향 LED-to-LED 가시광통신시스템
+A Machine Learning-Based Method to Predict Engine Power	머신러닝을 이용한 기관 출력 예측 방법에 관한 연구
+Intrusion Detection System based on Support Vector Machine	Support Vector Machine을 기반으로 한 침입 탐지 시스템
+3D Laser Scanner and Calibration Using Mirrors	거울을 이용한 3차원 레이저 스캐너 및 캘리브레이션 방법
+We propose a deep multiple kernel least squares support vector regression machine (LS-SVRM) for regression, which consists of the input layer, two hidden layers and the output layer.	본 논문에서는 회귀모형을 위한 심층 다중 커널 최소제곱 서포트 벡터 회귀 기계 (least squares support vector regression machine; LS-SVRM)을 제안하며, 제안된 모형은 입력층, 2개의 은닉층 및 출력층으로 구성된다.
+Coupled Line Cameras as a New Geometric Tool for Quadrilateral Reconstruction	사각형 복원을 위한 새로운 기하학적 도구로서의 선분 카메라 쌍
+Human Activity Recognition System Using Multimodal Sensor and Deep Learning Based on LSTM	다중모드 센서와 LSTM 기반의 딥 러닝을 이용한 인간의 행동인식 시스템
+We proposed a LSTM-based RNN model that can effectively perform the automatic spacing characteristics.	자동 띄어쓰기 특성을 효과적으로 처리할 수 있는 LSTM(Long Short-Term Memory Neural Networks) 기반의 RNN 모델을 제시했다.
+Indoor positioning system for naval ship personnel using beacon	비콘을 활용한 함정 인원 위치 확인 시스템
+Photometric Stereo Calibration using Constraint on Light Source Directions	광원 방향에 대한 제한조건을 이용한 Photometric Stereo Calibration
+Lane Detection Using a Fusion of Two Different CNN Architectures	두 개의 이종 CNN 융합을 이용한 차선 검출
+Construction of System for Water Quality Forecasting at Dalchun Using Neural Network Model	뉴럴 네트워크의 최적화에 따른 유사태풍 예측에 관한 연구
+In particular, the constrained forecast combination method is known to improve the prediction accuracy and stability by imposing the sum of predicted values' weights up to one.	특히, 본 연구에서는 각 머신러닝 기법 예측값들에 부여되는 가중치의 합을 1로 설정하는 제약하의 예측조합 기법을 사용하여 예측의 정확성과 안정성을 확보하고자 하였다.
+In general, the groundwater level in Jeju Island is highly autocorrelated with tides and reflected the effects of precipitation.	제주도의 지하수위는 일반적으로 조석에 의한 자기상관성이 높고 강수에 의한 영향이 잘 반영되는 것으로 알려져 있다.
+In this paper, we propose a method to detect anomalies using generative adversarial networks.	본 연구는 이러한 추세에 발맞춰 적대적 생성 신경망을 활용하여 이상 탐지하는 방법을 제안하고자 한다.
+In this paper, we propose a machine learning-based channel estimation and tracking algorithm for vehicle-to-infrastructure mmWave communications.	본 논문에서는 V2I(Vehicle-to-Infrastructure) 밀리미터파 통신에서 기계학습 기반 채널 추정 및 추적 알고리즘을 제안한다.
+A Study on the Spoken Digit Recognition of the Output Layer Recurrent Multi-layered Neural Network	출력층회귀 다층신경망의 숫자음 인식에 관한 연구
+Development of a Method to Measure Droplet Size and Spray Deposition Using Computer Vision	컴퓨터 시각에 의한 분무입자 크기와 분무량 측정법 개발
+In this paper, we propose a spectrum sensing scheme based on the learned iterative shrinkage thresholding algorithm for wideband signals with sparse characteristics in the frequency domain.	본 논문에서는 주파수 영역에서 성긴 특성을 갖는 광대역 신호를 위한 learned iterative shrinkage thresholding algorithm (LISTA) 기반의 스펙트럼 센싱 기법을 제안한다.
+Feature-based Trend Monitoring of Vibration Signals According to Severity of Gear Tooth Breakage	기어 이 파손 정도에 따른 진동신호의 특징기반 경향 감시
+Multi-layered Identity of the UN Memorial Cemetery in Korea and its structural problem	유엔기념공원의 중층적 정체성과 구조적 문제점－묘역의 공간구성과 의미구조를 중심으로－
+We have used machine learning to predict resource utilization based on user demand over a particular time span for resource management and improved ant colony algorithm to job scheduling.	우리의 논문에서는 기계 학습을 사용하여 리소스 관리를 위한 특정기간 동안의 수요 리소스 활용도를 예측하고, 작업 스케줄링 개선을 위하여 향상된 개미 군체(ant colony) 알고리즘을 사용한다.
+Player’s pose classification using CNN	CNN을 활용한 운동선수 자세 분류
+Characteristics of noise cancellation for MCG signals using wavelet packets	웨이브렛 패킷을 이용한 심자도 신호의 잡음 제거 특성
+Development of a Vision-based Lane Change Assistance System for Safe Driving	안전주행을 위한 비전 기반의 차선변경보조시스템 개발
+The image to be used for CNN learning is based on the binary image based on skin color, and the hand feature enhancement method is used to improve CNN"s hand pose recognition performance.	CNN 학습에 사용할 이미지는 피부색을 기준으로 이진화된 이미지를 사용했고 CNN의 손 포즈 인식 성능을 향상시키기 위하여 손의 특징을 강화하는 방법을 사용하였다.
+Image Translation: Verifiable Image Transformation Networks for Face Sketch-Photo and Photo-Sketch	영상변형:얼굴 스케치와 사진간의 증명가능한 영상변형 네트워크
+Enhancing Technology Learning Capabilities for Catch-up and Post Catch-up Innovations	기술학습역량 강화를 통한 추격 및 탈추격 혁신 촉진
+In particular, an SRGB(Sequential RGB)-3 Layer CNN was used on tracked objects to emphasize the features of moving people.	특히 움직이는 사람의 특징을 강조하기 위해 추적된 객체에 대해 SRGB-3 Layer CNN을 사용하였다.
+Processing of missing values is essential for hydrological assessment using groundwater level time series, interaction analysis between surface and ground water, and estimation of natural recharge rate.	지하수위 자료를 활용한 수문 평가, 지표수와 지하수의 연계 분석 및 지하수 함양량 산정 등을 위하여 결측 자료의 처리는 필수적이다.
+The proposed method first generates 2D images from IP and ports of transmitters and receivers, and extracts linear patterns and high intensity values from the images, representing traffic attacks.	본 논문에서 제안된 방법은 먼저 송신자와 수신자의 IP 와 포트 정보를 2차원의 영상으로 시각화한 후, 시각화된 영상으로부터 트래픽의 공격을 의미하는 라인과 명암값이 높은 패턴을 추출한다.
+In addition to the protection of such personal information, depending on the type of chatbot, it may be related to advertisement regulation, and the remedy for damages that occurred during the use of the chatbot, or the validity of transactions in the case of e-commerce using the chatbot, is also a problem.	이러한 개인정보 보호뿐만 아니라, 챗봇의 종류에 따라서는 광고규제와 연관이 되기도 하고, 챗봇의 사용 과정에서 나타난 손해에 대한 구제나 챗봇을 이용한 전자상거래의 경우 거래의 유효 여부도 문제된다.
+Human-centered HCI for Presentation Slide Control	프리젠테이션 슬라이드 제어를 위한 인간 중심 휴먼 컴퓨터 인터페이스
+Literal Review of Clinical Practice Supervision for Speech Language Pathology	언어치료 수퍼비전에 대한 문헌 연구
+Background subtraction using LSTM and spatial recurrent neural network	장단기 기억 신경망과 공간적 순환 신경망을 이용한 배경차분
+However, since the supervised learning method shows low performance when the data is insufficient, recently, a transfer learning method of fine-tuning using the pre-training model based on a large amount of monolingual data such as BERT and MASS has been mainly studied in the field of natural language processing	그러나, 지도 학습 방법은 데이터가 부족한 경우에는 낮은 성능을 보이기 때문에, 최근에는 BERT와 MASS 같은 대량의 단일 언어 데이터 기반 사전학습 모델을 이용하여 미세조정을 하는 전이 학습 방법이 자연어 처리 분야에서 주로 연구되고 있다. 
+However, the forecasting outflow tends to be underestimated and overestimated in extreme sections.	다만, 극값에서는 예측 값이 과소 및 과대 산정되는 경향을 보인다.
+In the field of education, machine learning and deep learning, which are used in artificial intelligence technology, are deeply interested in how to learn on their own.	교육에 있어서 인공지능 기술에 활용되는 기계학습(machine learning)과 딥러닝(deep learning)으로 스스로 학습하는 방법에 대한 관심을 가지게 되었다. 
+Diagnosis of Disease Using Support Vector Machine	서포트 벡터 머신을 이용한 질병의 진단에 관한 연구
+In this paper, various legal issues will be examined in connection with not only the chatbot algorithm but also general AI algorithms comparable to those.	본고에서는 이와 같은 다양한 법률적 쟁점에 대하여 챗봇 알고리즘뿐만 아니라 그와 비견되는 일반 인공지능 알고리즘과도 연계시켜 다각도로 검토하여 보기로 한다.
+A Study on Unconsciousness Authentication Technique Using Machine Learning in Online Easy Payment Service	온라인 간편 결제 환경에서 기계학습을 이용한 무자각 인증 기술 연구
+Object location information extraction using CNN Heatmaps	CNN 히트맵을 이용한 물체위치정보 검출방법
+In this paper, a few CNN models of MobileNetV2, ResNet50, and VGG-16 are compressed by applying the methods of pruning and matrix decomposition.	본 논문에서는 가지치기(pruning) 및 행렬 분해 방법을 적용하여 MobileNetV2, ResNet50 및 VGG-16의 몇 가지 CNN 모델을 압축한다.
+Human Activity Recognition using Deep Convolutional Neural Networks based on PCA	PCA기반 CNN을 이용한 사용자 행위 인식
+KNU Korean Sentiment Lexicon: Bi-LSTM-based Method for Building a Korean Sentiment Lexicon	Bi-LSTM 기반의 한국어 감성사전 구축 방안
+Queue Detection using Fuzzy-Based Neural Network Model	퍼지기반 신경망모형을 이용한 대기행렬 검지
+Short Term Forecast Model for Solar  Power Generation using RNN-LSTM	RNN-LSTM을 이용한 태양광 발전량 단기 예측 모델
+Thinning was used to eliminate hand features that were not needed for hand pose recognition, and convex hulls were used to find fingertip points and enhance handtip points.	세선화를 이용하여 손 포즈 인식에 필요 없는 손의 특징들을 소거했고 컨벡스 헐을 통하여 손가락 끝 점들을 찾고 손 끝 점들을 강화하였다.
+To achieve this, residual network for rain removal and Fast RCNN network for object detection are trained separately, and then object detection performance before and after rain removal is compared.	이를 위해, 빗줄기 제거를 위한 잔차 네트워크와 객체 검출을 위한 Fast RCNN 네트워크를 각각 학습한 후, 빗줄기 제거 전후의 객체 검출 성능을 비교한다.
+An analysis of learning performance changes in spiking neural networks(SNN)	Spiking Neural Networks(SNN) 구조에서 뉴런의 개수와 학습량에 따른 학습 성능 변화 분석
+Moving Shadow Detection using Deep Learning and Markov Random Field	딥 러닝과 마르코프 랜덤필드를 이용한 동영상 내 그림자 검출
+Unmanned Vehicle System Design using 1/10 Scale Vehicle	모형차량을 이용한 무인자동차의 시스템 개발
+In this paper, first, we optimized a neural machine translation model architecture that uses bidirectional RNN, LSTM, and the attention mechanism through data cleansing and changing the dictionary size.	본 논문에서는 먼저 데이터 클렌징 및 사전 크기 변경을 통해 양방향 RNN, LSTM 및 어텐션 메커니즘을 사용하는 신경 기계 번역 모델 아키텍처를 최적화하였다.
+Classification of Texture Images Using Deep Learning Based on Global and Local Features	전역특징과 국소특징 기반 심층학습에 의한 질감영상의 분류
+Big Data Analysis: Application to Environmental Research and Service	환경 빅데이터 분석 및 서비스 개발
+Algorithms that integrate information ex-tracted from news and macroeconomic effects together are applied to LSTM networks suitable for handling time series data and string data.	뉴스에서 추출한 정보와 거시 경제적인 영향을 함께 통합하는 알고리즘은 시계열 데이터와 문자열 데이터를 다루기에 적절한 LSTM 네트워크에 적용한다.
+As a result, the detection rate increases as the type of image augmentation increases.	그 결과, 이미지 오그멘테이션의 종류가 늘어날수록 검출률이 상승한다.
+This study proposes a short-term deep learning prediction model of solar power generation using meteorological data from Mokpo meteorological agency and generation data of Yeongam solar power plant.	본 연구는 목포 기상대에서 예보하는 기상 데이터와 영암 태양광 발전소의 발전량 데이터를 이용하여 태양광 발전량 단기 딥러닝 예측모델을 제안하였다.
+Application of Recurrent Neural Network for Enhancing Damage Detection of Structures	구조물 손상 예측 향상을 위한 순환신경망 방법론의 적용
+Total of 28 proposed word-based American Sign Language were collected during the experiment, while 156 features were extracted from the collected data for classification.	실험 동안 총 28개의 제안된 단어 기반 미국 수화가 수집되었고, 분류를 위해 수집된 데이터에서 156개의 피쳐가 추출되었다.
+A Study on the Development of Backlight Surface Defect Inspection System using Computer Vision	컴퓨터비젼을 이용한 백라이트 표면결함 검사시스템 개발에 관한 연구
+CNN-based 4D Effect Scene Detection from Untrimmed Video	비분절 영상에서의 CNN기반 4D 실감효과 구간 검출
+Machine Learning Based Optimal AP Selection Technique for Video Service in SDN Environment	SDN 환경에서 머신러닝 기반 비디오 서비스를 위한 최적 AP 선택기법
+Design and Implementation of Routing System Using Artificial Neural Network	응급실 방문 노인 환자의 사망률 예측
+Steering Gaze of a Camera in an Active Vision System: Fusion Theme of Computer Vision and Control	능동적인 비전 시스템에서 카메라의 시선 조정: 컴퓨터 비전과 제어의 융합 테마
+A Study on Gait Recognition using Deep Neural Network Ensemble	심층 신경회로망 앙상블을 이용한 걸음걸이 인식에 대한 연구
+Development of Performance Evaluation System for Plant Management Appling BSC Concept	BSC를 이용한 설비관리 업무의 성과평가시스템 개발
+A review of artificial intelligence based demand forecasting techniques	인공지능 기반 수요예측 기법의 리뷰
+Performance Evaluation of Sentence Reconstruction using RNN-based Sequence-to-Sequence Learning	RNN 기반 Sequence-to-Sequence 학습을 이용한 문장 복원 성능 평가
+Design of Output-Feedback Adaptive Control System with State Estimator	상태 추정기를 적용한 출력기반 적응제어 시스템 설계에 대한 연구
+In this paper, we propose an enhanced sparse representation (SR) based classifier using Fisher discrimination dictionary learning.	본 논문에서는 피셔 분별 사전학습을 통해 개선된 Sparse 표현(SR) 기반 분류방법을 제안한다.
+Therefore, while maintaining the structure of the CNN, quantization research that can optimize computational complexity and memory usage by lowering the precision is being actively conducted.	따라서 CNN의 구조를 유지한 채 정밀도를 낮추어 연산 복잡도 및 메모리 사용량을 최적화할 수 있는 양자화 연구가 활발히 진행되고 있다.
+Automatic Detection of Morpho-syntactic Errors in English Writing using Association Rule Mining	연관 규칙 마이닝을 이용한 영작문 형태-통사 오류 자동 탐지
+Intelligent AGV Machine-Learning System based on Self-Driving Simulator for Smart Factory	스마트 팩토리를 위한 자율주행 시뮬레이터 기반 지능형 AGV 머신러닝 시스템
+Machine Diagnosis and Maintenance Policy Generation Using Adaptive Decision Tree and Shortest Path Problem	적응형 의사결정 트리와 최단 경로법을 이용한 기계 진단 및 보전 정책 수립
+Secure Communication of HyperChaos Circuits using SC-CNN	SC-CNN을 이용한 하이퍼카오스 회로에서의 비밀 통신
+Implementaion Memristor-based CNN Hardware with Radix-X Weights	Radix-X 가중치를 갖는 멤리스터 기반의 CNN 하드웨어 구현
+After setting the direction of artificial intelligence education content, we constructed educational content suitable for secondary SW convergence gifted education, and designed and developed it in detail.	인공지능 교육 콘텐츠의 방향을 설정 후, 인공지능 중에서도 중등 SW융합영재 교육에 적합한 교육 콘텐츠를 구성하여 상세 설계 및 개발하였다.
+Multivariate process control procedure using a decision tree learning technique	의사결정나무를 이용한 다변량 공정관리 절차
+The Improvement Method of Shutdown System Applied Machine Learning Technology	머신러닝 기술을 적용한 셧다운제 개선 방안
+Robust to light change for crop pest image recognition Algorithm	조명 변화에 강인한 농작물 병해충 영상 분류 알고리즘
+The Information Security Risks of Smart Age and EU5’s Responses	스마트 시대의 보안 위협
+Effects of Learning Together cooperative learning using real materials on academic achievement in the lesson ofMachine Elementof Technology․Home Economics subject in middle school	중학교 기술·가정 교과 '기계 요소' 단원에서 실물을 활용한 함께 배우기 협동학습이 학업성취도에 미치는 효과
+In this paper, we propose a probabilistic short-term solar radiation prediction model based on long short-term memory(LSTM) networks.	이에 본 논문은 장단기 메모리 네트워크 기반의 확률론적 단기 일사량 예측 모델을 제안한다.
+A Study on the Measurement of Flank Wear Area and Its Maximal Length of Indexable End Mill based on Image Processing Techniques Using Image Pyramids and Edge Overlays	이미지 피라미드와 중첩을 활용한 영상처리 기반의 인덱서블 엔드밀 공구마모영역 및 마모최대폭 측정기법
+The Optimization of Hidden layer of Multilayer Neural Network	다층 신경회로망 은닉층의 최적화
+Prediction of IoT-based temperature information for product quality in a smart factory environment	스마트팩토리환경에서 제품품질을 위한 IoT기반 온도정보 예측에 대한 연구
+Comparing the performance of machine learning methods and HSPF model for runoff simulation	머신러닝기법과 HSPF 모형의 유출량 모의 성능 비교
+As the result of cluster recognition, we could see that recognized jellyfish group was better than recognizing individual jellyfish.	군집인식을 수행한 결과, 해파리 개체를 인식하는 것보다 해파리 무리를 인식하는 것이 좋은 성능을 나타내는 것을 볼 수 있었다.
+The incremental amount of data has made job scheduling and resource management an essential and challenging component of modern-day data centers.	데이터 양이 증가함에 따라 작 업 스케줄링과 자원 관리는 매우 중요한 요소이다.
+An Adaptive M-estimators Robust Estimation Algorithm	적응적 M-estimators 강건 예측 알고리즘
+Image Restoration Network with Adaptive Channel Attention Modules for Combined Distortions	적응형 채널 어텐션 모듈을 활용한 복합 열화 복원 네트워크
+However, since lyrics are becoming one of the means of expressing human emotions in music, the role of the lyrics is increasing, so a study of emotion classification based on lyrics is needed.	하지만 음악에서 가사는 인간의 감정을 표현하는 수단 중의 하나로 역할 비중이 점점 높아지고 있기 때문에 가사를 기반으로 한 감정 분류 연구가 필요하다.
+This problem is considered to be a problem that needs to be solved because it increases the possibility of mistranslation.	이러한 문제점은 오번역의 가능성을 높이기 때문에 해결해야 될 사안으로 여겨진다.
+(LSTM based sequence-to-sequence Model for Korean Automatic Word-spacing	LSTM 기반의 sequence-to-sequence 모델을 이용한 한글 자동 띄어쓰기
+Fast 3D Detection of Vehicles Using Density Image of Lidar	라이다의 밀집도 영상을 이용한 고속 3차원 차량 검출 방법
+Therefore, neural network compression algorithms for reducing the model size while keeping the performance have been being studied.	따라서 성능을 유지하면서 모델 크기를 줄이는 신경망 압축 알고리즘이 연구되고 있다.
+Separating Line Detection Method based On Convolutional Neural Network System For Initial Registration Between CT and Laser Scan Data	CT 데이터와 레이저 스캔 데이터의 초기 정합을 위한 CNN(Convolutional Neural Network)기반의 분리 라인 검출 기법
+With the development of deep learning and the advent of CNN(Convolutional Neural Network), research on image data classification has been actively conducted.	딥러닝의 발전과 CNN(Convolutional Neural Network)의 출현으로 이미지 데이터 분류에 관한 연구가 활발하게 진행되고 있다.
+Gendered innovation for algorithm through case studies	음성·영상 신호 처리 알고리즘 사례를 통해 본 젠더혁신의 필요성
+A Study of the Prediction on the Possibility of Socially Responsible Values of Artificial Intelligence Speakers Applying Machine Learning Algorithms	인공지능(AI) 스피커의 사회적 가치 실현 가능성 예측 머신러닝 알고리즘의 적용
+A Study on The Prediction of The Fine-Dust Concentration Using RNN/LSTM	딥러닝 분석을 이용한 미세먼지 농도 예측에 관한 연구
+Comparison study of classification methods for image data	이미지 데이터에 대한 분류 방법의 비교 연구
+Analysis and Recognition of Depressive Emotion through NLP and Machine Learning	자연어처리와 기계학습을 통한 우울 감정 분석과 인식
+Morphological Synthesis and Analysis of Korean : A Machine Learning Approach	기계학습을 이용한 한국어 형태소 합성 및 분석
+In this paper, we propose a malicious code detection method based on deep learning of files access behaviors.	본 논문에서는 딥러닝을 통해 다양한 악성 코드의 파일 접근 행태를 학습하고 이를 실시간으로 탐지하는 방법을 제안하였다.
+Predicting Demographics from Satellite Imagery based on Convolutional Neural Network and Transfer Learning	위성사진과 CNN 기반 전이 학습을 통한 인구 통계 예측
+Due to the advance of e-commerce systems, the number of people using online shopping and products has significantly increased.	전자상거래 발전에 따라 온라인 쇼핑을 이용하는 사람들이 증가하였고 제품 또한 다양해지고 있다.
+Extraction of the Final Diagnosis from Medical Treatment Record Based on Deep Learning for the Automatic Labeling	진단명 자동 레이블링을 위한 딥러닝기반 판독기록문으로부터 최종 진단명 추출
+In line with the trend of industrial innovation, IoT technology utilized in a variety of fields is emerging as a key element in creation of new business models and the provision of user-friendly services through the combination of big data.	산업혁신의 흐름에 발맞추어 다양한 분야에서 활용되고 있는 IoT 기술은 빅데이터의 접목을 통한 새로운 비즈니스 모델의 창출 및 사용자 친화적 서비스 제공의 핵심적인 요소로 부각되고 있다.
+We use two data-driven techniques; one is the Latent Semantic Analysis and the other the Probabilistic Latent Semantic Analysis.	이를 위하여 은닉 의미 분석(Latent Semantic Analysis)과 확률적 은닉 의미 분석(Probabilistic LSA)을 적용한다.
+Detection of NoSQL Injection Attack in Non-Relational Database Using Convolutional Neural Network and Recurrent Neural Network	비관계형 데이터베이스 환경에서 CNN과 RNN을 활용한 NoSQL 삽입 공격 탐지 모델
+Detection and Impact of Outliers on the Evaluation of Residential Satisfaction in Housing Survey - Using Machine Learning Methods	기계학습을 이용한 주거환경 만족도평가에서의 이상치 검출에 관한 연구
+For this purpose, this study analysed the news items of CNNI(CNN International) focusing on the visual aspects.	이를 위해 본 연구는 시각적 측면에 초점을 맞춘 CNNI(CNN International)의 뉴스 항목을 분석했다.
+CNN-based Classification Methods for Filtering of Defect Pixel Circuit Images	픽셀 회로 이미지의 불량 개체 필터링을 위한 CNN 기반 분류 방법
+Detection Method for Road Pavement Defect of UAV Imagery Based on Computer Vision	컴퓨터 비전 기반 UAV 영상의 도로표면 결함탐지 방안
+Multivariate discriminant analysis, logit model, and Lasso regression model are used to select the optimal variable group.	이후 최적의 변수군을 선별하는 방식으로 다변량 판별분석, 로짓 모형, 그리고 Lasso 회귀분석 모형을 이용한다.
+Parallel Implementation of A Neural Network Ensemble on the Connection Machine CM-2	Connection Machine CM-2상에서 신경망군(群)의 병렬 구현
+A study on the development of severity-adjusted mortality prediction model for discharged patient with acute stroke using machine learning	머신러닝을 이용한 급성 뇌졸중 퇴원 환자의 중증도 보정 사망 예측 모형 개발에 관한 연구
+Long Short-Term Memory Based Prediction for Easterly Wind	LSTM 기반 동풍 예측
+In this paper, we propose an artificial water level prediction system for small river flood prediction.	본 논문에서는 소규모 강의 범람 예측을 위한 인공 수위 예측 시스템을 제안한다.
+A Machine Learning-Based Vocational Training Dropout Prediction Model Considering Structured and Unstructured Data	정형 데이터와 비정형 데이터를 동시에 고려하는 기계학습 기반의 직업훈련 중도탈락 예측 모형
+Query-based Answer Extraction using Korean Dependency Parsing	의존 구문 분석을 이용한 질의 기반 정답 추출
+Especially, it is necessary to analyze various large-scale IoT streaming sensor data generated in real time and provide various services through new meaningful prediction.	특히 실시간으로 생성되는 대규모의 IoT 스트리밍 센서 데이터를 분석하여 새로운 의미있는미래 예측을 통해 다양한 서비스를 제공하는 것이 필요하게되었다.
+Text Document Classification Based on Recurrent Neural Network Using Word2vec	Word2vec을 활용한 RNN기반의 문서 분류에 관한 연구
+In this paper, we use calling sequences of system calls in malware codes as input for malware classification to utilize the feature remembering previous states via LSTM.	본 논문에서는 LSTM 모델의 이전 상태를 기억하는 특성을 이용하며, 시간 순서에 따른 악성코드의 함수 호출 정보를 입력으로 사용한다.
+Speed Prediction of Urban Freeway Using LSTM and CNN-LSTM Neural Network	LSTM 및 CNN-LSTM 신경망을 활용한 도시부 간선도로 속도 예측
+Recently, sequence data containing time information, such as sensor measurement data and purchase history, has been generated in various applications.	최근 센서 측정 데이터, 구매이력 등과 같이 시간 정보를 포함하는 시퀀스(sequence) 데이터가 다양한 응용에서 발생되고 있다.
+Therefore, any fault diagnosis issue can be treated as a pattern recognition problem.	따라 서 기계 고장 진단의 문제를 패턴 인식 문제로 해결하고자 한다.
+Genetic Algorithm for Node Pruning of Neural Networks	신경망의 노드 가지치기를 위한 유전 알고리즘
+CNN based Reinforcement Learning for Driving Behavior of Simulated Self-Driving Car	시뮬레이티드 자율주행 자동차의 주행행동 학습을 위한 기반 강화학습
+Machine Learning-based mmWave Channel Estimation and Tracking Algorithm in V2I Communications	V2I 통신에서 기계학습 기반 밀리미터파 채널 추정 및 추적 알고리즘
+A Study on the Prediction interest rate using LSTM systems	LSTM 구조를 활용한 채권 데이터의 예측에 관한 연구
+Recognition rate at each repetition was calculated from test data.	각 반복 시 인식률은 테스트 데이터를 통해 계산되었다.
+Sentiment Analysis shows high classification performance for English single-domain datasets by pretrained sentence embedding models.	감성 분석 분야는 사전학습 모델을 전이 학습하여 단일 도메인 영어 데이터셋에 대해 높은 분류 정확도를 보여주고 있다.
+Solar photovoltaic can provide electrical energy with only radiation, and its use is expanding rapidly as a new energy source.	태양광 발전은 일사량만 있으면 전기에너지를 얻을 수 있기 때문에, 새로운 에너지 공급원으로 용도가 급증하고 있다.
+Implementation of Vision-based Wild Bird Detection and Repelling System using RaspberryPi	라즈베리파이를 활용한 비전기반 야생조류 침입 탐지 및 퇴치 시스템의 구현
+An Efficient Deep Learning Based Image Recognition Service System Using AWS Lambda Serverless Computing Technology	AWS Lambda Serverless Computing 기술을 활용한 효율적인 딥러닝 기반 이미지 인식 서비스 시스템
+Heuristic Designs of SAD Correlation Algorithm for Vision System	비전 시스템 구현을 위한 SAD 정합 알고리즘의 변형
+In this study, we recognized the limitation of real data collection and used both the auto-encoder, the unsupervised learning model, and the LSTM, the supervised learning model.	본 연구에서는 실데이터 수집에 한계가 있음을 인지하여 비지도 학습 모델인 오토인코더와 지도 학습 모델인 장· 단기 기억 모형을 동시에 사용했다.
+Symbolizing Numbers to Improve Neural Machine Translation	숫자 기호화를 통한 신경기계번역 성능 향상
+However, because CNN only learns local information limited by filter size, data arrays can have a significant impact on performance.	하지만 CNN은 필터 사이즈에 의해 제한된 로컬 정보만을 학습하기 때문에 데이터 배열이 성능에 큰 영향을 줄 수 있다.
+Task-Processor ILP Scheduling for CNN on Heterogeneous Computing environment Embedded Device	임베디드 기기의 이종 프로세서에 대한 CNN의 ILP-기반 스케줄링
+Korean Semantic Role Labeling using Stacked Bidirectional LSTM-CRFs	Stacked Bidirectional LSTM-CRFs를 이용한 한국어 의미역 결정
+This study finds examples of using unnatural postpositions when foreign words are included in Korean sentences and proposes a method for using natural postpositions by learning the final consonant pronunciation of nouns.	본 연구에서는 문장 내에 외국어가 포함 되어 있는 경우, 조사가 부자연스럽게 연결되는 예를 찾고 체언의 종성 발음을 학습하여 자연스러운 조사 연결을 위한 방법을 알아보고자 한다.
+CNN based battery SOC estimation using thermal distribution image	CNN 기반 열 분포 영상을 이용한 배터리 SOC 추정 연구
+To evaluate the performance of the methods proposed in this paper, we conducted comparative experiments with the existing knowledge completion studies on NELL-995 and FB15K-237 datasets, and obtained MAP 1.6%p and MRR 1.5%p higher than that of the previous studies.	본 논문에서 제안하는 방법의 성능을 평가하기 위해 데이터셋 NELL-995 와 FB15K-237을 대상으로 기존 지식 완성 연구들과 비교 실험을 진행하였으며 MAP이 1.6%p, MRR이 1.5%p 더 높은 성능을 보였다.
+As the largest port in Korea, Busan Port processes 75% of the country’s container cargo; the port is therefore extremely important in terms of the country’s national competitiveness.	부산항은 우리나라 최대의 항만으로 우리나라 컨테이너 운송의 75%가 부산항을 통해 운송되고 있으며, 국가 경쟁력 측면에서 그 중요성은 매우 크다.
+To achieve this purpose, various time series analysis and machine learning techniques have been used.	이를 위해 다양한 시계열 분석 기법과 머신러닝 기법 등이 사용되어 왔다.
+Research for Pixel Wise Inspection of Machin Vision Image Using Convolutional Encoder-Decoder	Convolutional Encoder-Decoder를 이용한 머신비전 영상의 픽셀 단위 검사에 관한 연구
+A Study on Chinese Ancient Poetry Creation Mechanism Based on Artificial Intelligence: Learning and Creation of Poem	AI의 중국 고전시가(古典詩歌) 창작 ―시어(詩語)의 학습과 생성
+Hybrid Structure based On-line Learning Method for Robust Pose Prediction	강인한 포즈 예측을 위한 하이브리드 구조 기반의 온라인 학습 기법
+Improved Handwritten Hangeul Recognition using Deep Learning based on GoogLenet	GoogLenet 기반의 딥 러닝을 이용한 향상된 한글 필기체 인식
+The Application Method of Machine Learning for Analyzing User Transaction Tendency in Big Data environments	빅데이터 환경에서 사용자 거래 성향분석을 위한 머신러닝 응용 기법
+Development of Peach Sorting Algorithm using Machine Vision	컴퓨터 시각 기술을 이용한 복숭아 선별 알고리즘 개발
+Comparison of Interest Point Operators for Image Matching	영상정합을 위한 특징점 추출 연산자의 비교
+Fourth, in the assessment and reflection, the boys evaluated it individually, and the girls showed their appearance to evaluate it by reflecting others’thinking.	넷째, 평가 및 반성 단계에서 남학생은 개별적으로 평가를 하였고 여학생은 다른 사람의 생각을 반영하여 평가하는 모습을 보였다.
+For this GPS jamming detection, we configured a multiple GPS receiver channels with different tolerance against GPS jamming and suggest how to detect GPS jamming types and signal strength using the distribution of latitude and longitude coordinates output from the receiver.	이러한 GPS 재밍탐지를 위해 GPS 재밍에 대한 내성이 다른 다중의 GPS 수신기 채널을 구성하고, 수신기에서 출력되는 경위도 좌표의 분포를 이용하여 GPS 재밍의 종류와 신호세기를 탐지하는 방법을 제시한다.
+Localization and Control of Multi-Robots based upon CNN Using 2D LiDAR Sensor	2D LiDAR 센서를 이용한 CNN 기반 군집 로봇의 위치 인식 및 제어
+Reducing the Learning Time of Code Change Recommendation System Using Recurrent Neural Network	순환 신경망을 활용한 코드 변경 추천 시스템의 학습 시간 단축 방법
+A Study on the Factors and Overcoming Methods of Extinction of Provinces in Korea: The Exploration with Machine Learning methods	한국 지방소멸 요인과 극복 방안에 관한 연구 : 머신러닝 방법을 통한 탐색
+A comparative Study on the Performance of Air Quality Prediction Model Based on DNN and LSTM	DNN 과 LSTM 기반의 대기질 예측 모델 성능 비교 연구
+Epileptic Seizure Detection for Multi-channel EEG with Recurrent Convolutional Neural Networks	순환 합성곱 신경망를 이용한다채널 뇌파 분석의 간질 발작 탐지
+Optimization of Machine Learning Techniques to Infer Driver's Lane-Change Intent	운전자 차선변경 의도 예측을 위한 머신러닝 기법의 최적화
+A Sparse Data Preprocessing Using Support Vector Regression	Support Vector Regression을 이용한 희소 데이터의 전처리
+The purpose of this study is to propose a power demand volatility evaluation system based on LSTM and not to verify the accuracy of the demand module which is a core module, but to recognize the sudden change of power pattern by using deeplearning in the actual power demand monitoring system.	본 연구는 LSTM기반의 전력수요 변동성 평가 시스템을 제안하고 핵심모듈인 수요예측모듈의 정확성을 증명하기 보다는 실제 전력수요 모니터링 시스템 내 딥러닝을 이용하여 갑작스러운 전력패턴의 변화를 인지할 수 있는 모듈에 대한 활용 가능성을 확인하고자 한다.
+Multiple Linear Regression(MLR) and Multi-Layer Perceptron(MLP) are used as compare performance of the proposed method.	제안된 방법의 성능을 비교하기 위해 Multiple Linear Regression(MLR), Multi-Layer Perceptron(MLP)과 비교하였다.
+Pitch Classification Based on Bidirectional LSTM with Probabilistic Attention for Speech Segregation from Speech-Music Mixtures	음성-음악 혼재 데이터에서의 음성분리를 위한 확률적 어텐션을 사용한 양방향 LSTM 기반 피치 분류
+Support Vector Regression based on Immune Algorithm for Software Cost Estimation	소프트웨어 비용산정을 위한 면역 알고리즘 기반의 서포트 벡터 회귀
+A Study on The Prediction of The Fine-Dust Concentration Using RNN/LSTM	딥러닝 분석을 이용한 미세먼지 농도 예측에 관한 연구
+Research Trends in Machine Learning Applications in Marketing	마케팅 분야의 머신러닝 연구 동향 분석
+A Comparison Analysis on the Prediction of Soil Humidity in the SVR and LSTM Models	SVR과 LSTM 모형의 토양습도 예측력 비교분석
+An LSTM Model for the Classification of Road Surface Condition based on the Inertial Sensor Data of Smartphones	스마트폰 관성센서 데이터 기반 도로 노면 상태 분류를 위한 LSTM 모형
+Prediction of Uniaxial Compressive Strength of Rock using Shield  TBM Machine Data and Machine Learning Technique	쉴드 TBM 기계 데이터 및 머신러닝 기법을 이용한 암석의 일축압축강도 예측
+Future work will improve the accuracy by weighting using bagging and boosting.	추후 연구에서는 배깅과 부스팅을 이용하여 가중치를 부여하여 정확도를 개선할 예정이다.
+Moving Target Indication using an Image Sensor for Small UAVs	소형 무인항공기용 영상센서 기반 이동표적표시 기법
+first frame object image, object image in a previous frame, and current search frame containing the object movement.	첫 번째 프레임 객체 이미지, 이전 프레임의 객체 이미지 및 객체 이동을 포함하는 현재 검색 프레임
+On the enhancement of the learning efficiency of the adaptive back propagation neural network using the generating and adding the hidden layer node	은닉층 노드의 생성추가를 이용한 적응 역전파 신경회로망의 학습능률 향상에 관한 연구
+The results from using LSTM network show more stable and competitively better forecasting performance than those from parametric long range dependent time series model autoregressive integrated moving average (ARIMA) model.	LSTM 네트워크를 이용한 예측은 모수적 예측 방법인 자기회귀이동평균(ARIMA) 모형보다 더 안정적이고 12개월을 한번에 예측하는 것이 보다 경쟁력 있는 결과를 보여주었다.
+The results using the optimal hyper-parameters found in this study are compared with those of RecSys Challenge 2015 participants.	실험에서 최적의 하이퍼파라미터를 적용한 결과는 RecSys Challenge 2015  참가자들의 결과와 비교하였다.
+To overcome these problems, this paper proposes a distributed processing method that uses reduced classification models to jointly perform inferences on multiple edge devices.	이러한 문제를 극복하기 위해 본 논문은 축소된 분류 모델을 사용하여 다중 엣지 디바이스에서 공동으로 추론을 수행하는 분산 처리 방법을 제안한다.
+In this paper, a counterfeit money detection algorithm using a general purpose scanner and computer system is proposed.	본 연구에서는 범용 스캐너와 컴퓨터 시스템을 활용하여 화폐의 위변조를 탐지하기 위한 알고리즘을 제안하였다.
+The log energy value of the Mel frequency band and the Fourier transform coefficients, which were extracted respectively from the ultrasonic Doppler signal and the speech signal, were used as the input and reference for training LSTM RNN.	LSTM 순환 신경망을 학습하기 위한 입력 및 기준값으로 초음파 도플러 신호와 음성 신호로부터 각각 추출된 멜 주파수 대역별 에너지 로그값과 푸리에 변환 계수가 사용되었다.
+Classifying Customer’s Written Questions by Topics Using Deep Learning (LSTM)	LSTM 알고리즘을 활용한 전기 수요고객의 온라인 질문에 대한 토픽분류
+The purpose of this study was to compare and analyze the trends of artificial intelligence-related research targeting the visually impaired, to immediately know the current status of domestic and foreign research, and to present the direction of artificial intelligence research for the visually impaired in the future.	본 연구는 시각장애인 대상의 인공지능 관련 연구 동향을 비교·분석하여 국내·외 연구의 현주소를 바로 알고 앞으로 시각장애인을 위한 인공지능 연구의 방향을 제시하고자 하였다.
+Implement Detecting Network Attack through Machine Learning in LoRaWAN Environment	LoRaWAN 환경에서의 머신러닝을 통한 네트워크 공격 탐지 구현
+As a result, it was confirmed that the prediction models performed well overall when dividing the spatial units by land-use type and road and off the road, and that the prediction models performed poorly when divided into district ‘gu’.	그 결과 토지이용유형, 도로 및 도로 외로 공간단위를 구분하였을 때 예측모델들이 전반적으로 좋은 성능을 보였으며, 자치구로 구분하였을 때 좋지 않은 성능을 보이는 것을 확인하였다.
+Development and Validation of Figure-Copy Test for Dementia Screening	치매 선별을 위한 도형모사검사 개발 및 타당화
+A preliminary study for development of an automatic incident detection system on CCTV in tunnels based on a machine learning algorithm	기계학습(machine learning) 기반 터널 영상유고 자동 감지 시스템 개발을 위한 사전검토 연구
+The experiment results show that the proposed pitch classification using bidirectional LSTM based on probabilistic attention outscores other speech segregation methods.	실험결과 확률적 어텐션 기반 양방향 LSTM이 다른 방법에 비해 더 좋은 음성분리 성능을 보여주었다.
+For the widely used encoding detection software “uchardet”, the accuracy of encoding detection of unmodified normal text document is 91.39%, but the accuracy of language detection is only 32.09%.	기존의 널리 쓰이는 인코딩 판별 소프트웨어인 “uchardet”의 경우 변조되지 않은 일반 문서의 인코딩 판별 정확도는 91.39% 이지만 언어 판별 정확도는 32.09%에 불과하다.
+In particular, we compared the performance of nine optimizers ranging from SGD, which is the most basic, to Momentum, NAG, AdaGrad, RMSProp, AdaDelta, Adam, AdaMax, and Nadam, using the MNIST, CIFAR-10, IRIS, TITANIC, and Boston Housing Price datasets.	특히, 가장 기본이 되는 SGD부터 Momentum, NAG, AdaGrad, RMSProp, AdaDelta, Adam, AdaMax, Nadam까지 총 9개의 옵티마이저의 성능을 MNIST, CIFAR-10, IRIS, TITANIC, Boston Housing Price 데이터를 이용하여 비교하였다.
+Server external failures include power, cooling, user errors, etc.	서버 외부 장애는 전력, 냉각, 사용자 실수 등이다.
+The analysis of customer churning for using survival model and RNN model.	생존 모형과 RNN을 통한 고객 이탈 분석
+Most targeting options including demo targeting, interest targeting, behavioral targeting, re-targeting, contextual targeting, topic targeting, keyword targeting, look alike targeting, CRM targeting have shown that they mostly use big data and machine learning to identify and refine targets.	가장 기본적인 데모 타겟팅부터 시작하여, 관심사 타겟팅, 행동 타겟팅, 주제 타겟팅, 키워드 타겟팅, 리타겟팅, 문맥 타겟팅, 유사 타겟팅, CRM 타겟팅, 게재위치 타겟팅, 위치 기반 타깃팅, 기타 타겟팅 등을 포함한 대부분의 타깃팅 기빕들은 타겟을 식별하고, 정교하게 분류하는 데에 대부분 빅데이터와 머신러닝을 활용하는 것을 나타났다.
+A Natural Scene Statistics Based Publication Classification Algorithm Using Support Vector Machine	서포트 벡터 머신을 이용한 자연 연상 통계 기반 저작물 식별 알고리즘
+Adaptive Feature Scaler Convolutional Neural Network for Object Detection	객체 탐지를 위한 적응형 피쳐 스케일러 컨볼루션 신경망
+Structuring of Unstructured SNS Messages on Rail Services using Deep Learning Techniques	딥러닝 기법을 이용한 철도 운행 관련 비정형 SNS 메시지 정형화
+ "Focused on the Clothes Construction and Making of the Clothing and Textiles Unit"	가정과 교육내용에 대한 한국과 일본 여 중고생의 학습관심도에 관한 연구: 의생활내용 중 의복구성분야를 중심으로
+An Analytical Study on Automatic Classification of Domestic Journal articles Based on Machine Learning	기계학습에 기초한 국내 학술지 논문의 자동분류에 관한 연구
+However, it is difficult to use rule based machine translation because it is not the agreed-on situation about vocabulary and grammar on Korean literature text in classical Chinese.	그런데 한문학 텍스트는 어휘와 문법에 대한 정확한 정의와 분류가 합의된 상황도 아닐 뿐만 아니라 이를 규칙화한 시스템도 구축하지 못한 상황이기 때문에 규칙 기반 기계 번역을 활용하기 어렵다.
+Development of Heavy Rain Damage Prediction Function Using Machine Learning	머신러닝을 이용한 호우피해 예측함수 개발
+Pedestrian Inference Convolution Neural Network Using GP-GPU	GP-GPU를 이용한 보행자 추론 CNN
+An Analysis of Screen Reader Usage and Satisfaction Level on Improving Blind College Students' Computer Work	전맹 대학생의 컴퓨터 작업 수행능력 향상을 위한 화면읽기 프로그램 활용도 및 만족도 분석
+Development of Heavy Rain Damage Prediction Functions in the Seoul Capital Area Using Machine Learning Techniques	머신러닝 기법을 이용한 수도권 지역의 호우피해 예측함수 개발
+In this paper, we propose a reduced complexity decision confidence estimation scheme for imbalanced web application attack detection.	따라서 본 논문에서는 불균형 웹 어플리케이션 공격 탐지를 위한 저복잡도 판정 신뢰도 추정 기법을 제안한다.
+The data is divided into 4 stages, and stage 1(normal) is used as a training data.	데이터는 4개의 Stage로 구분되며, Stage 1(정상)만을 훈련 데이터로 사용한다.
+Hypergraph model based Scene Image Classification Method	하이퍼그래프 모델 기반의 장면 이미지 분류 기법
+Power Consumption Prediction Scheme Based on Deep Learning for Powerline Communication Systems	전력선통신 시스템을 위한 딥 러닝 기반 전력량 예측 기법
+CNN based Real-Time Human detection in Thermal Videos	열화상 비디오에서 합성곱 신경망 기반의 실시간 인간 탐지
+Calculation Method of Total Energy and Atomic Interaction Potential Through Machine Learing Using a Neural Network of Atomic Structure Data	원자구조 빅데이타의 인공신경망-기계학습을 통한 고체의 에너지 계산 방법 및 고체내 원자간 상호작용 포텐셜 도출 방법 연구
+An Automatic Analytical System of Potential Cyber Threat Based on Machine Learning	기계학습 기반의 잠재적 사이버 위협 자동 분석 시스템
+Parameter estimation of recurrent neural networks using a unscented kalman filter training algorithm and its applications to nonlinear chanel equalization	언센티드 칼만필터 훈련 알고리즘에 의한 순환신경망의 파라미터 추정 및 비선형 채널 등화에의 응용
+A study on cooperative algorithms for the image perception on computer vision	컴퓨터 시각인식의 협동 알고리즘에 관한 연구
+We also used a neural network to build an efficient energy usage model for Google's data center optimization.	또한 구글의 데이터 센터 최적화를 위해서 효율적인 에너지 사용 모델 구축을 위해 neural network(신경망)을 활용하였다.
+Development of AI Framework Based on RNN for Startup and Shutdown Operation of Nuclear Power Plant	원자력발전소 기동 및 정지 운전을 위한 순환 신경망 기반 인공지능 프레임워크 개발
+Especially, the technologies for recognizing the condition of driver’s drowsy driving are actively studied.	특히 뇌파를 이용한 운전자의 졸음운전을 판단하는 기술이 활발하게 연구되고 있다.
+Artificial Intelligence : The Development of Dynamic Forecasting Model for Short Term Power Demand using Radial Basis Function Network	인공지능 : Radial Basis 함수를 이용한 동적 - 단기 전력수요예측 모형의 개발
+Video-based Face Recognition Using an 3D Convolutional Neural Network in Robot Environment	로봇환경에서 3차원 CNN을 이용한 비디오 기반 얼굴 인식
+Deep Convolutional Neural Network For SAR Automatic Target Recognition	SAR영상 자동 표적 인식을 위한 심층 합성곱 신경망
+The DQN and A2C algorithms proposed by Google Deep Mind in 2013 are used for the reinforcement learning and they are applied to the stock trading strategies.	강화학습 모형은 2013년 구글 딥마인드에서 제안한 DQN와 A2C 알고리즘을 이용하여 KOSPI에 상장된 14개 업종별 종목들의 과거 약 13년 동안의 시계열 주가에 기반한 데이터세트를 각각 입력 및 테스트 데이터로 사용한다.
+Building Cooling and Heating Energy Consumption Pattern Analysis Based on Building Energy Management System(BEMS) Data Using Machine Learning Techniques	BEMS 데이터를 활용한 Machine Learning 기반 업무용 건물 냉·난방 에너지 소비 패턴 분석
+Optimal Electric Vehicle Scheduling Method Using Renewable Energy Forecasting Algorithm in DC Nanogrid	직류 나노그리드에서 신재생에너지 출력예측기반의 전기자동차 최적 스케줄링 기법
+Computer Vision-based Method of detecting a Approaching Vehicle for the Safety of a Bus Passenger Getting off	버스 승객의 안정한 하차를 위한 컴퓨털비전 기반의 차량 탐지 시스템 개발
+An Application of Computer Vision System for the Point Position Determination in the Plane	평면상에 있는 점위치 결정을 위한 컴퓨터 비젼의 응용
+A Study on the Applicability of Deep Learning Algorithm for Detection and Resolving of Occlusion Area	영상 폐색영역 검출 및 해결을 위한 딥러닝 알고리즘 적용 가능성 연구
+People Detection Algorithm in the Beach	해변에서의 사람 검출 알고리즘
+First, the Haar feature extraction algorithm is used to construct the eye, nose, and mouth dataset of face.	첫 번째는 Haar 특징 추출 알고리즘을 사용하여 얼굴의 눈, 코, 입 데이터셋을 구성한다.
+In this paper, we present a new predictive model using Spatial-temporal features extracted from the United States flights data, combined with Long Short-Term Memory (LSTM) to unveil hidden patterns in the data and predict flight departure delays.	본 연구는 미국 항공편 데이터에서 추출한 시공간 특징을 LSTM (Long Short-Term Memory)과 결합하여 데이터의 숨겨진 패턴을 알아내고, 항공 출발 지연을 예측하는 새로운 모델을 제안한다.
+A Visual Marker Allocation Method for Measuring Position and Orientation of a Plane in 3D Space	3차원 공간에서 평면 자세 측정을 위한 마커 배치 기법
+Design and Evaluation of Vision Processors for Efficient Image Processing	효율적인 영상 처리를 위한 비전 프로세서 설계 및 비교 분석
+Mobile Robot Control using Hand Shape Recognition	손 모양 인식을 이용한 모바일 로봇제어
+Vehicle Type Identification Using CNN Technique	CNN 기법을 이용한 차량 종류 식별
+Histogram Modification based on Additive Term and Gamma Correction for Image Contrast Enhancement	영상의 대비 개선을 위한 추가 항과 감마 보정에 기반한 히스토그램 변형 기법
+To increase the utilization of the intelligent methodology of smart farm management, estimation modeling techniques are required to assess prior examination of crops and environment changes in realtime.	스마트 팜 관리의 활용 효율성을 높이기 위해서는 작물 및 환경 변화에 대한 사전 검사를 실시간으로 평가하는 추정 모델링 기법이 필요하다.
+Identifying the Effects of Repeated Tasks in an Apartment Construction Project Using Machine Learning Algorithm	기계적 학습의 알고리즘을 이용하여 아파트 공사에서 반복 공정의 효과 비교에 관한 연구
+In this paper, we propose a parallel architecture for simulating the learning algorithm of Boltzmann machine.	본 논문에서는 볼쯔만 기계 학습 알고리즘을 효율적으로 시뮬레이트할 수 있는 병렬 컴퓨터 구조를 제시한다.
+Improving the Reliability of Bankruptcy Forecasting Model based on Machine Learning	기계 학습 기반의 기업 파산 예측 모델 신뢰성 향상
+The Main Topics of Applying Blockchain Technology to the Core Industries in Gangwon Economy : Big Data Machine Learning-based Topic Modeling & Network Analysis	강원경제 핵심 산업별 블록체인 기술 도입에 관한 주요 토픽: 빅데이터 머신 러닝 기반 토픽 모델링 및 토픽 네트워크 분석
+With the proposed approach presented in this study, the average accuracy of short-term price forecasts is approximately 98.32%.	본 연구에서 제시하는 제안된 접근방식으로 단기 가격예측의 평균 정확도는 약 98.32%이다.
+It is shown that learned CNN model classifies input images correctly and the safety scores are evaluated quantitatively by combining the probabilities of different street types.	학학습된 CNN 모델은 입력 이미지를 올바르게 분류하고 안전 점수를 서로 다른 거리 유형의 확률을 결합하여 정량적으로 평가하는 것으로 나타났다.
+A Study on The Development of High Precision Solder Cream Printer using Computer Vision	Vision을 이용한 고정밀도 Solder Cream 인쇄기 개발에 관한 연구
+Model of ICT Utilization Curriculum for Preservice Teachers	예비교사를 위한 ICT 활용 교육과정 모형
+Specifically, we collect historical solar radiation data and weather data from two different regions in Jeju Island provided by the KMA, then perform several types of preprocessing for the collected data for input variable configuration of the prediction model.	구체적으로, 기상청에서 제공하는 제주도의 서로 다른 두 지역의 과거 일사량 정보와 기상 요소 데이터들을 수집하며, 예측 모델의 입력 변수 구성을 위해 수집된 데이터에 대해 전처리 과정을 수행한다.
+However, sunshine and solar radiation, the most important meteorological factors for forecasting solar power generation, are not predicted.	그러나 태양광 발전량 예측에 가장 중요한 기상요소인 일조 및 일사 일사량 예보하지 않는다.
+Applications of Machine Learning Models for the Estimation of Reservoir CO<sub>2</sub> Emissions	저수지 co<sub>2</sub> 배출량 산정을 위한 기계학습 모델의 적용
+In this study, we propose story learning/regeneration frameworks from videos with successive event order supervision for contextual coherence.	본 고에서는 상황 일관성을 위해 연속적인 이벤트 순서 감독이 있는 비디오에서 스토리 학습/재현 프레임워크를 제안한다.
+In this paper, we propose a win-loss prediction model of League of Legends at the start of the game.	본 논문에서는 리그오브레전드 경기 시작 단계에서의 승패 예측 모델을 제안한다.
+In other words, research is needed to predict SOC so that users can accurately identify the remaining capacity(SOC) of batteries.	즉 사용자가 배터리의 잔존용량(State Of Charge, SOC)을 정확하게 확인할 수 있도록 SOC를 예측하는 연구가 필요하다.
+Efficient Hyperplane Generation Techniques for Human Activity Classification in Multiple-Event Sensors Based Smart Home	다중 이벤트 센서 기반 스마트 홈에서 사람 행동 분류를 위한 효율적 의사결정평면 생성기법
+F1 score was also increased.	F1 score 또한 높아짐을 확인할 수 있었다.
+Automatic Composition using Time Series Embedding of RNN Auto-Encoder	RNN Auto-Encoder의 시계열 임베딩을 이용한 자동작곡
+A Study on the 3D Image Reconstruction using a Sequence of 2D Images	일련의 2D 영상들을 이용한 3D 정보 추출에 관한 연구
+Moving and non-moving objects segmentation using edges and adaptive thresholding in images	영상내 경계 및 적응 임계값을 이용한 이동 및 정지 물체 분할
+Low Flow Simulation Model by using API in Urban Area	도시지역에서 선행강우지수를 고려한 저수유출 시뮬레이션 모형
+Then, these features are used to train a support vector machine classifier.	그 후 계산된 특징들을 지도 학습 모델 분류기에 적용하여 훈련을 시켰다.
+A Study on Efficient Training Method for Named Entity Recognition Model with Word Embedding Applied to PCA	Word Embedding에 PCA를 적용한 개체명 인식 모델을 위한 효율적인 학습방법 연구
+Finger Counting Using Computer Vision	컴퓨터비전을 이용한 손가락 개수인식
+A Word Sense Disambiguation for Korean Language Using Bidirectional RNN and Multi-head Attention	양방향 순환신경망과 멀티 헤드 어텐션 기반 한국어 어의 중의성 해소 모형
+Machine Learning based Traffic Light Detection and Recognition Algorithm using Shape Information	기계학습 기반의 신호등 검출과 형태적 정보를 이용한 인식 알고리즘
+An Information-theoretic Approach for Value-Based Weighting in Naive Bayesian Learning	나이브 베이시안 학습에서 정보이론 기반의 속성값 가중치 계산방법
+CNN based denoisig : effect of reconstruction kernels versus number of layers in CNN	CNN 기반 잡음 제거 : CNN에서 layer 수의 따른 커널 복원
+Statistical Modeling Methods for Analyzing Human Gait Structure	휴먼 보행 동작 구조 분석을 위한 통계적 모델링 방법
+Therefore, in this study, we examine the visualization approach for each process through the analysis of preceding studies that visualize the execution process of artificial intelligence.	따라서 본 연구에서는 인공지능의 수행과정을 시각화한 선행연구 분석을 통해 각 과정별 시각화 접근방법을 살펴보고자 한다.
+The Change of Near Point of Convergence and Fusional Reserves after Computer Gaming with Different Direction of Eye Movement	안구의 운동방향이 다른 컴퓨터 게임 후 폭주근점과 융합여력의 변화
+Stack LSTMs for Transition-Based Korean Dependency Parsing	Stack LSTM을 이용한 전이 기반 한국어 의존 파싱
+The final assignment was to make the Goldberg machine in order to have the beads get to the target spot latest, in which the analysis was implemented qualitatively by participating in and observing the performance process of students.	최종 과제는 구슬이 목표 지점에 가장 늦게 도착하도록 골드버그 장치를 제작하는 것으로 학생들의 수행과정을 참여 관찰하여 질적으로 분석하였다.
+Learning Ability of Deterministic Boltzmann Machine with Non-Monotonic Neurons in Hidden Layer	은닉층에 비단조 뉴런을 갖는 결정론적 볼츠만 머신의 학습능력에 관한 연구
+Wild Ginseng Searching Application through SNS	SNS 연동 산삼 찾기 애플리케이션
+The  Capacity  of Core-Net : Multi-Level 2-Layer Neural Networks	2층   다단 신경망회로  코어넷의  처리용량에  관한 연구
+Deep learning technique is widely used for object recognition and it’s applications to detect defects have been gradually attempted.	딥러닝 기법이 물체 인식에 널리 적용되고 있으며 결함 검출에 대해서도 점차 적용이 시도되고 있다.
+Optimum Evacuation Route Calculation Using AI Q-Learning	AI기법의 Q-Learning을 이용한 최적 퇴선 경로 산출 연구
+Efficient Presentation Control for Computer Vision Based Human Computer Interface	효율적인 슬라이드 제어를 위한 컴퓨터 비전 기반 휴먼 컴퓨터 인터페이스
+For many applications, high recognition rate and fast processing speed of ALPR are important.	이러한 응용 분야에서 ALPR은 높은 인식률과 빠른 처리 속도가 중요하다.
+Affective computing is centered on the development of human-aware artificial intelligence that can understand and regulate emotions.	감성 컴퓨팅은 감정을 이해하고 조절할 수 있는 인간 인지 인공 지능의 개발하는데 중점을 둔다.
+Motion generation using Center of Mass	무게중심을 활용한 모션 생성 기술
+Machine Learning Based Failure Prognostics of Aluminum Electrolytic Capacitors	머신러닝을 이용한 알루미늄 전해 커패시터 고장예지
+Real-time categorization of driver’s gaze zone and head pose using the convolutional neural network	Convolutional Neural Network 을 이용한 운전자 시선 영역 및 머리포즈 분류
+Design of Pre-paid Electricity Industry System Using Artificial Intelligence in Smart Grid	스마트그리드 환경에서의 인공지능을 활용한 선불형 전력산업 시스템 설계
+Combining Macro-economical Effects with Sentiment Analysis for Stock Index Prediction	온라인 뉴스 및 거시경제 변수를 활용한 주가예측
+It is mostly becoming e-business and spreading out as development of the relationship with other cooperating companies, the rapid progress of the relationship with customers, and intensification competitive power through the development of business progress in the organization.	이는 대부분 e-비즈니스화되어 가고 있으며, 이를 추진하면서 제휴기관과의 관계증진, 고객관계의 혁신적 개선은 물론 조직내부의 업무프로세스의 획기적 개선을 통한 경쟁력 강화를 적극적으로 전개하고 있다.
+Passenger Detecting and Tracking in Subway Sequence	지하철 영상에서 승객의 검출과 추적
+Study on the Environmental Factors and Symptoms of VDT Syndrome	VDT 증후군의 환경적 요인과 증상에 대한 연구
+An Analysis of Artificial Intelligence Algorithms Applied to Rock  Engineering	암반공학분야에 적용된 인공지능 알고리즘 분석
+View invariant image matching using SURF	SURF(speed up robust feature)를 이용한 시점변화에 강인한 영상 매칭
+New Six Sigma Breakthrough using Big Data	Big Data의 활용을 위한 새로운 Six Sigma 프로젝트 실행 방법
+The linear regression and recurrent neural networks (RNN) models are compared to evaluate the performance of LSTM model.	제안한 LSTM 모델의 성능을 평가하기 위해 선형회귀 모델 및 순환형 신경망(RNN) 모델과 비교한다.
+Dynamic RNN-CNN malware classifier correspond with Random Dimension Input Data	임의 차원 데이터 대응 Dynamic RNN-CNN 멀웨어 분류기
+First, current status of AI learning DB in Korea and abroad and AI development status in beauty industry were analyzed to establish the directionality of future research and development.	첫째, 국내외 인공지능 학습 DB의 현황과 뷰티 산업의 인공지능 개발 현황을 분석하여, 향후 연구 개발의 방향성을 구축하였다.
+A Study of Statistical Learning as a CRM's Classifier Functions	CRM의 기능 분류를 위한 통계적 학습에 관한 연구
+This study explores artificial intelligence and creation, in terms of machine aesthetics.	이 연구는 기계미학의 관점에서 인공지능과 창작의 문제를 다룬다.
+Forecasting Energy Data Using LSTM	LSTM을 이용한 전력 데이터 예측
+We used reasoning that reflects context by using ontology-based characteristic values for untrained words.	학습되지 않은 단어에 대해서는 온톨로지 기반 특성치를 활용하여 문맥을 반영한 추론을 사용하였다.
+With the recent development of hardware performance and artificial intelligence technology, sophisticated fake videos that are difficult to distinguish with the human’s eye are increasing.	최근 하드웨어의 성능과 인공지능 기술이 발달함에 따라 육안으로 구분하기 어려운 정교한 가짜 동영상들이 증가하고 있다.
+In this model, various sensors are added to the RaspberryPi to add necessary information for monitoring solar power plants, and power generation prediction and monitoring information are transmitted to the smart phone through real-time power generation prediction.	본 모델은 라즈베리파이에 다양한 센서를 추가하여 태양광 발전소의 모니터링에 필요한 정보를 추가하였으며, 실시간 발전량 예측을 통해 발전량 예측과 모니터링 정보를 스마트 폰으로 송신하였다.
+Design of Deep Learning Model for Automatic Modulation Classification in Cognitive Radio Network	인지 무선 통신망의 자동 변조 분류를 위한 딥러닝 모델 설계
+Trend Analysis of Korea Papers in the Fields of ‘Artificial Intelligence’, ‘Machine Learning’ and ‘Deep Learning’	‘인공지능’, ‘기계학습’, ‘딥 러닝’ 분야의 국내 논문 동향 분석
+Because setting the time unit is important for time series prediction, prediction models in the previous researches include consideration of how to set the time unit.	LSTM을 활용한 시계열 예측 시에는 시간단위 설정이 중요하기 때문에 기존 연구에서의 예측모델은 시간단위를 어떻게 설정할 것인가에 집중하고 있다.
+Experimental results for the proposed model show higher performance than the single models.	제안 모델에 대한 실험 결과, 기존 단일모델들에 비해 높은 성능을 보였다.
+Recently, with the development of information and communication, a huge amount of data has been produced, and the use of predictive analysis to extract valuable information and predict phenomena by using and analyzing the produced data has become important.	최근 정보통신의 발달과 함께 방대한 양의 데이터들이 생산되었으며 생산된 데이터를 활용, 분석하여 가치 있는 정보를 추출하고, 현상을 예측하는 예측분석의 활용이 중요해지고 있다.
+Short-term Power Consumption Forecasting Based on IoT Power Meter with LSTM and GRU Deep Learning	LSTM과 GRU 딥러닝 IoT 파워미터 기반의 단기 전력사용량 예측
+Hence, In this study, the deep neural network(DNN) and the recurrent neural network(RNN) were used in order to develop the expressway pavement damage prediction model.	이에 본 연구에서는 고속도로포장 열화예측 모델 개발을 위해 딥러닝 모델 중 가장 보편적으로 많이 사용하는 심층신경망(DNN)과 시계열 데이터 분석에 강점을 가진 순환신경망(RNN)을 사용하였다.
+An Efficient Guitar Chords Classification System Using Transfer Learning	전이학습을 이용한 효율적인 기타코드 분류 시스템
+A Study about the Usefulness of Reinforcement Learning in Business Simulation Games using PPO Algorithm	경영 시뮬레이션 게임에서 PPO 알고리즘을 적용한 강화학습의 유용성에 관한 연구
+A study on the intelligent motion detection method based on the mobile robot	이동로봇 기반의 지능적 움직임 감지 방법 연구
+UNet-LSTM-based Speech-to-Sign Language Translation for Hearing-Impaired People	청각장애인을 위한 UNet-LSTM 기반의 자동 음성-수어 번역 모델
+Convergence thinking process in the invention of flight machine based on bio-mimicking flight of bird :	새의 비행에 대한 생체모방 기반 날틀 발명의 융합적 사고 과정:
+As a result of the experiment, the performance of the English-Korean machine translation model using MASS showed better performance than the existing models, and the performance of the machine translation model was further improved by applying the relative position representation method to MASS.	실험 결과, MASS 모델을 이용한 영어-한국어 기계 번역 모델의 성능이 기존 모델들보다 좋은 성능을 보였고, 추가로 MASS 모델에 상대 위치 표현 방법을 적용하여 기계 번역 모델의 성능을 개선하였다.
+Failure Diagnosis Using Text Mining and Deep Learning: Development of Prediction Algorithm for Responsible Department	텍스트 마이닝과 딥 러닝을 활용한 고장진단: 고장원인부서 예측 알고리즘 개발
+Performance Comparison of Machine Learning Models to Detect Screen Use and Devices	스크린 사용 여부 및 사용 디바이스 감지를 위한 머신러닝 모델 성능 비교
+Predictive Analysis of Ethereum Uncle Block using Ensemble Machine Learning Technique and Blockchain Information	앙상블 머신러닝 기법과 블록체인 정보를 활용한 이더리움 엉클 블록 예측 분석
+Furthermore, the output sentence structure completely changes even if only one number in the input sentence changes.	게다가, 입력 문장의 숫자가 하나만 바뀌어도 출력 문장 구조는 완전히 바뀐다.
+The proposed network improves emotion classification performance by appropriately integrating existing supervised learning and semi-supervised learning networks.	제안 네트워크는 기존의 지도 학습과 반 지도학습 네트워크를 적절히 융합하여 감정 분류 성능을 향상시켰다.
+Classification of Korean Documents Based on CNN Using Document Indexing Method based on Word Meaning and Order	단어의 의미와 순서를 고려하는 문서색인방법을 이용한 CNN 기반 한글문서분류
+However, even if the stock market is hit for a short period of time by the forecasting system, the market will no longer move according to the short-term strategy, and it will have to change a new.	하지만, 주식시장은 예측시스템에 의해서 단기간 적중이 되더라도, 시장은 더 이상의 단기 전략대로 움직여지지 않고, 새롭게 변할 수밖에 없다.
+Cell Bead Counting using Machine Learning Scheme	머신러닝 기법을 이용한 셀 비드 개수 분류
+This study analyzes the influence of natural disasters on the price of agricultural products by using a deep learning algorithm.	본 연구에서는 딥러닝 알고리즘을 활용하여 태풍과 같은 자연 재해가 농산물 가격에 미치는 영향을 예측한다.
+Recently, so the algorithm DcGAN made in GANs algorithm, and image creation, restoring sectors are constantly evolving.	최근에 Generative Adversarial Networks(GANs) 알고리즘에서 DcGAN 알고리즘이 나오면서 이미지 생성, 복원 분야가 지속해서 발전하고 있다.
+Experimental results show that the proposed method achieves the average 95% hand gesture recognition rate.	실험결과 제안기법은 95%의 손 제스처 인식율를 얻을 수 있음을 나타냈다.
+In this study, machine learning and deep learning pipelines in general predictive modeling projects were examined and the papers applied to them were examined, and the process of performing artificial intelligence was divided into three stages (Collection, Learning, Inference).	본 연구에서는 일반적인 예측 모델링 프로젝트에서의 머신러닝과 딥러닝 파이프라인(Pipeline)을 살펴보고, 이를 적용한 연구들을 조사하여, 인공지능의 수행과정을 세 단계(탐색, 학습, 추론)로 구분하였다.
+Corporate Default Predictions and Machine Learning	기업부도예측과 기계학습
+AI ethics should therefore be an integral part of future education programs with a special focus on early childhood psychological development.	따라서 초등학교 현장에서 학생들의 뇌신경과학적, 발달심리학적 특성을 고려한 교육 방법을 통해 중요한 교육 콘텐츠로서 AI 윤리, 기계윤리 관련 논의를 다룰 필요가 있다.
+The original algorithm inserts null characters into both of two aligned strings (source string and target string), because the two strings are different from each other in length.	 원래의 알고리즘에서 두 문자열의 길이가 서로 다르면 정렬된 두 문자열(입력열과 출력열)에 모두 공백문자가 나타난다.
+A Study on Dynamic Hand Gesture Recognition Using Neural Networks	신경회로망을 이용한 동적 손 제스처 인식에 관한 연구
+Game bots, which are one of the most representative cheating behaviors, collect items in the game unfairly, causing problems in the game by destroying the balance in the game and rapidly depleting the content to shorten the game life.	대표적인 부정행위 중 하나인 게임 봇 (game bot)은 게임 내 재화를 부정하게 수집하여, 게임 내 균형을 파괴하고 콘텐츠를 빠르게 고갈시켜 게임 수명을 단축시키는 문제를 야기한다.
+Sign language was designed for the deaf and dumb people to allow them to communicate with others and connect to the society.	수화는 청각장애인과 벙어리인 사람들이 다른 사람들과 소통하고 사회와 연결되도록 하기 위해 고안되었다.
+Hand Gesture Classification Using Multiple Doppler Radar and Machine Learning	다중 도플러 레이다와 머신러닝을 이용한 손동작 인식
+Deep Learning Based Prediction Model for Easterly Wind	동풍 예측을 위한 딥러닝 기반의 예측 모델
+Traffic classification using machine learning in SDN	SDN환경에서 머신러닝을 이용한 트래픽 분류방법
+Classification of Food Powders use NIR Spectrometer with Machine Learning	근적외선 분광기와 기계학습을 활용한 식품 분말 분류
+Design and Implementation of A Smart Crosswalk System based on Vehicle Detection and Speed Estimation using Deep Learning on Edge Devices	엣지 디바이스에서의 딥러닝 기반 차량 인식 및 속도 추정을 통한 스마트 횡단보도 시스템의 설계 및 구현
+Until 30 days, most of them showed a coefficient of determination between 0.70 and 0.88, and Model 2 was about 0.05 higher.	30일 이전까지는 대부분 0.70~0.88사이의 결정계수를 보였으며 모델 2가 약 0.05정도 높게 나타났다.
+Machine learning model  was formulated by learning data as well as hyperparameters and proper load fidelity was suggested by tuned values of hyperparameters, however, comparatively higher nonlinearity intensive region, such as side face of the beam showed poor load fidelity.	머신러닝 모델은 하이퍼파라미터(Hyperparameter)와 학습데이터로 구성되었으며, 하이퍼파라미터 튜닝을 통해 적절한 하중 충실도를 도출하였지만, 거동이 큰 보의 옆면에서는 적절하지 않은 하중 충실도가 도출되었다.
+As a result, the MTL based Bi-LSTM model shows 1.1%~4.6% performance improvement compared to single Bi-LSTM models.	결과적으로, Bi-LSTM 모델을 활용하여 단일 Bi-LSTM 모델보다 MTL 기법을 적용한 모델에서 1.1%~4.6%의 성능 향상이 있음을 보인다.
+Based on the results, the present study suggested pedagogical implications for using Machine Translation in the language classrooms and in  academic writing.	이러한 결과를 바탕으로 본 연구는 L2 학습현장과 학문적 작문 상황에서 기계번역을 활용하는 방안을 제시하였다.
+Counting Iron Rods System Using OpenCV Libraries and Angle-based Circle Detection Algorithm	OpenCV 라이브러리와 Angle-based Circle Detection 알고리즘을 통한 철근 검수 시스템 구축
+Improvement of CFAR Algorithm in Automotive Radar by using RNN	RNN 학습을 이용한 차량용 레이더 CFAR 알고리즘 개선
+Application method study ICT/IoT based Unsupervised Learning Techniques to Agricultural water Management	ICT/IoT 기반 자율학습 기술의 농업용수 물관리 적용방안 분석
+Visualization Method of PCAAlgorithm for Machine Health Diagnostics	기기 진단 모니터링을 위한 PCA 알고리즘 시각화 기법
+Proposed complex-valued SVM can classify the moving target using real valued data, imaginary valued data, and cross-information data.	제안된 복소수 SVM은 실수 데이터, 허수 데이터 정보와 실수부와 허수부 사이의 교차 정보를 모두 이용하여 이동하는 목표물의 분류를 수행한다.
+Development of Education Program for Early childhoods	유아용 교육프로그램의, 개발
+LSTM based Anomaly Detection on semiconductor manufacturing data	LSTM기반 반도체 제조 데이터 이상탐지
+Embedding Drive Synchronization using SC-CNN	SC-CNN을 이용한 카오스 임베딩 구동 동기화
+Machine Learning-based mmWave Channel Estimation and Tracking Algorithm in V2I Communications	V2I 통신에서 기계학습 기반 밀리미터파 채널 추정 및 추적 알고리즘
+A study on Destroyer Spare Parts Demand Forecasting using Machine Learning	머신러닝을 이용한 구축함 수리부속 예측 연구
+Performance Analysis of Data Augmentation for Surface Defects Detection	표면 결함 검출을 위한 데이터 확장 및 성능분석
+Korean Machine Reading Comprehension using S³-Net based on Position Encoding	포지션 인코딩 기반 S³-Net를 이용한 한국어 기계 독해
+An estimation model of fine dust concentration using weather data and machine learning	기상데이터와 머신러닝을 활용한 미세먼지농도 예측 모델
+Deep learning is getting attention recently.	최근 딥러닝 기술이 주목을 받고 있다.
+First, the learning performance of the image-based network is greatly improved by employing both multi-task learning and semi-supervised learning using the spatio-temporal characteristic of videos.	첫째, multi task learning과 비디오의 시공간 특성을 이용한 준 감독 학습을 사용함으로써 영상 기반 네트워크의 학습 성능을 크게 향상시켰다.
+Research about Estimation Model for Time Domain Variation of CO<sub>2</sub> Concentration in Greenhouse based on LSTM Neural Network	P5-12 : LSTM 신경망 기반 온실 내 시계열 CO<sub>2</sub> 예측 모델 연구
+But low cost low power environments are essential for small and mobile systems.	그러나 소형, 모바일 시스템에는 저가의 저전력 환경이 필수적이다.
+Development of Prediction Model for Nitrogen Oxides Emission Using Artificial Intelligence	인공지능 기반 질소산화물 배출량 예측을 위한 연구모형 개발
+The Long Short Term Memory(LSTM), known to be suitable for financial time series data, is utilized to see if a machine learning model trained upon past return data captures any information about future returns.	따라서 순환신경망 중에서도 금융 시계열 자료에 적합한 것으로 알려진 장단기 기억네트워크(Long Short Term Memory, LSTM)를 활용하여 과거 수익률로 학습된 모형이 미래의 수익률에 대한 정보를 담아낼 수 있는지를 확인한다.
+Construction of the expanded I-PD control system by Neural network with two hidden layer	2개의 은닉층을 가진 신경망에 의한 확대 I-PD제어계의 구성
+UAV Path Planning by Communication Delay Compensation Using Gaussian Process	가우시안 프로세스 기반의 원거리 통신지연 보상기법을 이용한 무인기 경로계획
+In order to construct an input and output variables based on the characteristics of addressing data, the precipitation data of the corresponding period was added to the groundwater level data.	이러한 자료 특성을 고려한 입출력 텐서를 구성하기 위해 각 지하수 관측정의 수위변동 관측 자료와 같은 기간의 강수량 자료를 추가 입력자료로 선택하였다.
+An experimental analysis of primary feature for improving the hit ratio of image retrieval	이미지 검색의 적중률 향상을 위한 기본 속성 분석
+Shape Object Analysis using Machine Learning	학습이론을 통한 모양 객체 분석
+The system and algorithm were verified using two SUS specimens and compared with actual crack data obtained by microscopy and penetration test.	SUS 시험편 2개로 시스템과 알고리즘을 검증하였고, 현미경과 액체침투법으로 확인한 실제 균열 정보와 비교하였다.
+Dynamic Nonlinear Prediction Model of Univariate Hydrologic Time Series Using the Support Vector Machine and State-Space Model	Support Vector Nachine과 상태공간모형을 이용한 단변량 수문 시계열의 동역학적 비선형 예측모형
+In particular, diseases in plants occur aperiodically and unbalanced image data is provided.	특히 식물에서 질병은 비주기적으로 발생하므로 불균형한 이미지 데이터가 제공된다.
+The current recommendation systems, however, have a couple of problems including that user preference may not be reflected on the systems right away according to their changing tastes or interests and that items with no relations to users’ preference may be recommended, being induced by advertising.	그러나 현행 추천 시스템은 변화하는 취향이나 관심사에 따라 사용자 선호도가 시스템에 바로 반영되지 않을 수 있으며, 광고에 의해 유도되는 사용자 선호도와 무관한 항목을 추천할 수 있다는 점을 포함하여 몇 가지 문제가 있다.
+A Comparative Study on the Accuracy of Sentiment Analysis of Bi-LSTM Model by Morpheme Feature	형태소 자질에 따른 Bi-LSTM 모델의 감성분석 정확도 비교연구
+Second, in a stable market situation, both machine learning and time series analysis methods can predict market trends moderately well.	둘째, 시장이 안정적인 상황에서는 머신 러닝 방법과 시계열 분석 방법 모두 시장 추세를 적절히 예측하는 것으로 나타났다.
+Multiple Discriminative DNNs for I-Vector Based Open-Set Language Recognition	I-벡터 기반 오픈세트 언어 인식을 위한 다중 판별 DNN
+Inspection System of Lens for Mobile Phone using Computer Vision	컴퓨터 비전을 이용한 휴대폰 카메라용 렌즈 검사 시스템
+Face Recognition and Temperature Measurement Access Control System using Machine Learning	기계학습을 활용한 얼굴 인식 및 체온 측정 출입관리 시스템
+The model can overcome the performance degradation which may be caused by the hyperbox contraction process of conventional FMM neural networks.	이 모델은 기존 FMM 신경망의 하이퍼박스 수축 프로세스에 의해 발생할 수 있는 성능 저하를 극복할 수 있다.
+Camera-based Dog Unwanted Behavior Detection	영상 기반 강아지의 이상 행동 탐지
+Therefore, it is very difficult to implement an optimal ESS operation scheduling technique that requires exact information on power demands in advance.	따라서, 미래의 수요 전력 정보를 미리 알고 있어야만 구현 가능한 최적의 ESS 운영 스케줄링 기법은 실질적으로 적용이 어렵다.
+In this study, by examining the characteristics of boys and girls which would appear in the performance process of Goldberg machine activities, it would be attempted to provide the implications for the development and teaching methods of gifted and talented programs.	본 연구에서는 골드버그 장치 활동 수행과정에서 나타나는 남학생과 여학생의 특성을 살펴보고 영재프로그램 개발 및 지도방안에 대한 시사점을 마련하고자 하였다.
+The technological advances such as communication, sensor, and artificial intelligence lead smart factory construction.	통신, 센서, 인공지능 등의 기술 발전으로 인해 스마트 팩토리 구축이 진행되고 있다.
+Counterfeit Money Detection Algorithm based on Morphological Features of Color Printed Images and Supervised Learning Model Classifier	컬러 프린터 영상의 모폴로지 특징과 지도 학습 모델 분류기를 활용한 위변조 지폐 판별 알고리즘
+So, it is a very meaningful experiment to diagnose the possibility of solving business problems using deep learning technologies based on the case of online shopping companies which have big data, are relatively easy to identify customer behavior and has high utilization values.	이러한 때 비교적 고객 식별이 용이하고 활용 가치가 높은 빅데이터를 보유하고 있는 전자상거래 기업의 사례를 바탕으로 하여 딥러닝 기술의 비즈니스 문제 해결 가능성을 진단해보는 것은 학술적으로 매우 의미 있는 시도라 할 수 있겠다.
+Exploring User-Generated Content as New Photojournalism: An Analysis of the CNN’s <I-Report>	시민 제보 UCC의 영상저널리즘적 특성: CNN분석을 중심으로
+Comparison of the neural networks with spline interpolation in modelling superheated water	물의 과열증기 모델링에 대한 신경회로망과 스플라인 보간법 비교
+Predicting Chemical Structure of Drugs Using Deep Learning	딥러닝을 이용한 약물 화학 구조 예측
+Digital Mirror System with Machine Learning and Microservices	머신 러닝과 Microservice 기반 디지털 미러 시스템
+This study used literature review and focus group interview(FGI) methods.	본 논문의 방법은 문헌분석과 집단심층면접(FGI) 방법을 이용하였다.
+The reduced classification models have compressed model weights, and perform inferences for some parts of the total classification labels.	축소된 분류 모델은 경량화된 모델 가중치를 가지며, 전체 분류 레이블 중 일부에 대해 추론을 진행한다.
+An Analysis of Artificial Intelligence Algorithms Applied to Rock  Engineering	암반공학분야에 적용된 인공지능 알고리즘 분석
+Traffic Classification Using Machine Learning Algorithms in Practical Network Monitoring Environments	실제 네트워크 모니터링 환경에서의 ML 알고리즘을 이용한 트래픽 분류
+In addition, we were enhanced to more prediction results by adding the sensible temperature and discomfort index elements.	또한, 체감온도, 불쾌지수 등의 예측요소를 추가함으로서 좀 더 예측결과를 향상시킬 수 있었다.
+Parameter Optimization of Extreme Learning Machine Using Bacterial Foraging Algorithm	Bacterial Foraging Algorithm을 이용한 Extreme Learning Machine의 파라미터 최적화
+Counting the number of cars waiting at the traffic light by computer vision process	컴퓨터비전 처리에 의한 교통신호 차례를 기다리는 차량 댓수의 계수
+Design of Error State-Based RBF Neural Network Adaptive Backstepping Controller for Estimation and Compensation of Various Unknown Errors	신경회로망을 이용한 호남지역 세 범주 대설예보
+The results show that the information from multiple time-intervals is useful in predicting video highlights.	그 결과 다중 시구간 정보가 하이라이트 예측에 유용함을 보였다.
+Automatic Analysis of Reinforcement-bar Images Using Machine Learning Techniques	머신 러닝 기법을 이용한 철근 영상 자동 분석
+A study on the Image Data Collecting and Processing Method for Trend Analysis	트렌드 분석을 위한 이미지 데이터 수집 및 가공 방법에 대한 연구
+Vibration Signal Augmentation Considering Uncertainty in Frequency Energy for Fault Diagnosis of Swing Gearbox in Excavator	굴삭기 스윙 기어박스의 고장 진단을 위한 주파수 에너지 불확실성 기반 진동 신호 데이터 증폭기법
+The tracking algorithm calculates the movement direction of the target by calculating the change in the values of keypoints extracted through OpenPose by frames.	추적 알고리즘에서는 프레임별로 OpenPose를 통해 추출된 keypoints 값의 변화를 계산하여 거동수상자의 이동방향을 계산한다.
+First, the utterances in dialogue are continuative and organically related to each other, and the speech-act of a current utterance is greatly influenced by the direct previous utterance.	첫 번째, 대화에서의 발화는 연속적이며 서로 유기적으로 관련되어 있고 현재 발화의 화행은 바로 이전 발화의 화행에 많은 영향을 받는다.
+A Contrast Enhancement Technique Using Quadratic Form Gamma Correction with Weighting Distribution	가중치 분포를 통한 2차 형식 감마 코렉션과 이를 이용한 대비강화기술
+MRI Image Super Resolution through Filter Learning Based on Surrounding Gradient Information in 3D Space	3D 공간상에서의 주변 기울기 정보를 기반에 둔 필터 학습을 통한 MRI 영상 초해상화
+A Study on Adopting AI-Based Chatbot in Elementary English-Speaking Classes	인공지능 음성챗봇기반 초등학교 영어 말하기 수업 연구
+Sentiment analysis mainly analyzes people's opinions in text data by assigning predefined data categories as positive and negative.	감성 분석은 주로 미리 정의된 데이터 범주를 긍정 및 부정으로 할당하여 텍스트 데이터에서 사람들의 의견을 분석한다.
+For example, if the source language is Korean, translation errors may occur depending on the use of the postposition or contextual situation. 	예를 들면 원천 언어가 한국어인 경우, 조사의 사용이나 언어사용 환경에 따라 번역 오류가 발생할 수 있다.
+Implementation of Educational Brain Motion Controller for Machine Learning Applications	머신러닝 학습을 위한 교육용 모션 컨트롤러의 구현
+Performance Comparison Analysis of AI Supervised Learning Methods of Tensorflow and Scikit-Learn in the Writing Digit Data	필기숫자 데이터에 대한 텐서플로우와 사이킷런의 인공지능 지도학습 방식의 성능비교 분석
+The study on the maritime traffic detection system based on area	영역기반 해상교통 검지기 시스템에 대한 연구
+A Study of Heart Disease Prediction Using Multilayer Perceptron based on Deep Learning	딥러닝 기반의 다층 퍼셉트론을 이용한 심장병 예측 연구
+In order to predict the travel speed more precisely, we constructed a model that reflects both temporal and spatial effects.	통행속도를 보다 정확하게 예측하기 위하여 시간적, 공간적 영향을 모두 반영하는 모형을 구축하였다.
+Experimental results show that the proposed method has a detection rate of 99.9% and reduced the false positive values.	실험 결과는 제안된 방법이 99.9%의 탐지율을 가지고 있고 거짓 양성 값을 줄였다는 것을 보여준다.
+Machine Learning Application to Support Sow`s Culling Decision	연구논문 : 모돈도태 의사결정지원을 위한 머신러닝모델 응용
+The combination weights and biases are updated by backpropogation.	조합 가중치와 편의항은 역전파 알고리즘를 이용하여 갱신된다.
+A Comparison of Predicting Movie Success between Artificial Neural Network and Decision Tree	기계학습 기반의 영화흥행예측 방법 비교: 인공신경망과 의사결정나무를 중심으로
+In this paper, we propose a feature selection for efficient user classification.	본 논문에서는 효율적으로 사용자를 분류하기 위한 특징 선택을 제안한다.
+Study of Marker Detection Performance via Training Data Augmentation for Partial Distortion of Underwater Sonar Image	수중 소나 영상의 부분 왜곡에 따른 학습 데이터 Augmentation을 통한 마커 검출 성능에 관한 연구
+The Extention of Controller in Computer Vision System	컴퓨터 시각 시스템에 있어서 제어기의 확장
+Learning Semantic Features for Dense Video Captioning	고밀도 비디오 캡션 생성을 위한 의미 특징 학습
+Development of Real-Time Chicken Carcasses External Quality Inspection System Using by Computer Vision	농산물,식품가공공학 분야 : 컴퓨터시각을 이용한 실시간 닭도체 외관 품질측정 시스템 개발
+May Artificial Intelligence use the existing copyrighted works without permission of the copyrighted owners?	인공지능은 기존 저작물을 자유롭게 이용할 수 있을까?
+Deep Learning Model for Electric Power Demand Prediction Using Special Day Separation and Prediction Elements Extention	특수일 분리와 예측요소 확장을 이용한 전력수요 예측 딥 러닝 모델
+A Study on the MARK READER by using the computer vision system	컴퓨터비전 시스템을 이용한 MARK 판독기에 관한 연구
+Interactive visual knowledge acquisition for hand-gesture recognition	손 제스쳐 인식을 위한 상호작용 시각정보 추출
+Processing large-scale data with Apache Spark	Apache Spark를 활용한 대용량 데이터의 처리
+A Study on Prediction Techniques through Machine Learning of Real-time Solar Radiation in Jeju	제주 실시간 일사량의 기계학습 예측 기법 연구
+A Design Methodology for CNN-based Associative Memories	연상 메모리 기능을 수행하는 셀룰라 신경망의 설계 방법론
+However, the results show inferior restoration results compared with manual restoration.	하지만 그 결과는 사람에 의한 수동적 결과물과 비교하여 낮은 복원 결과를 보여 왔다.
+Bayesian Texture Segmentation Using Multi-layer Perceptron and Markov Random Field Mode	다층 퍼셉트론과 마코프 랜덤 필드 모델을 이용한 베이지안 결 분할
+Online abnormal events detection with online support vector machine	온라인 서포트벡터기계를 이용한 온라인 비정상 사건 탐지
+Demand Response Systems based on Machine Learning : A Survey	기계학습 기반 수요공급 시스템 연구 조사
+Estimation of Sleep Apnea Patient based on Artificial Intelligence	인공지능 기반의 수면무호흡 환자 추정에 관한 연구
+However, the quality and quantity of parallel corpus composed of human translation has a decisive influence on the quality of NMT.	그러나 NMT의 품질은 인간 번역으로 구성된 병렬 코퍼스의 질과 양이 결정적인 영향을 미친다.
+Improvement of Classification Accuracy of Different Finger Movements Using Surface Electromyography Based on Long Short-Term Memory	LSTM을 이용한 표면 근전도 분석을 통한 서로 다른 손가락 움직임 분류 정확도 향상
+This CNN consists of a restoration process of extracting watermarks by correcting distortion during omnidirectional image generation and/or malicious attacks, and a classification process of classifying which watermarks are extracted watermarks.	이 CNN은 전방위 이미지 생성 및/또는 악의적인 공격 중 보정을 수정하여 워터마크를 추출하는 복원 과정과 추출된 워터마크를 분류하는 과정으로 구성된다.
+Big Data Analysis: Application to Environmental Research and Service Ⅲ	환경 빅데이터 분석 및 서비스 개발 Ⅲ
+LED frame inspection system design and implementation	LED 프레임 검사 시스템 설계 및 구현
+From 2013 to 2017 the ninety-nine reservoirs reached a water storage rate of 0%, making a secure stable water supply for agriculture uncertain.	2013년부터 2017년까지 저수율이 0%에 도달한 저수지가 99개에 이르러 농업용수의 안정적 확보가 불확실해지고 있다.
+Traditionally, Six Sigma emphasizes the study of interpretable statistical models generated by designed data obtained through specified objects and processes. 	일반적으로 Six Sigma 분석 방법은 명확한 대상 또는 프로세스에서 수집되는 정제된 데이터를 이용한 통계적 모형적용을 통한 높은 해석력을 중시한다.
+Through this, it was possible to monitor the wastes landing on the shore by type through unmanned aerial vehicles. 	이를 통해 해안표착 폐기물을 무인항공기를 통해 성상별 모니터링할 수 있었다. 
+We conducted an empirical analysis using daily and 30 min KOSPI200 futures index data.	KOSPI200 선물지수의 일봉과 30분봉 데이터를 이용해 실증분석을 하였다.
+Comparing the performance of machine learning methods and HSPF model for runoff simulation	머신러닝기법과 HSPF 모형의 유출량 모의 성능 비교
+In this paper, we propose an end-to-end automatic word spacing by using deep neural network.	본 논문에서는 심층 신경망을 이용한 종단 간(end-to-end) 한국어 문장 자동 띄어쓰기 시스템을 제안한다.
+In this paper, the prediction of the power consumption based on the deep learning can be used as a basis to reduce the power reserve ratio so as not to excessively produce extra power.	본 논문에서 딥러닝 기반 전력 소비량 예측을 통해서 여분의 전력을 과도하게 생산하지 않도록 전력 예비율을 감소시킬 수 있는 기반을 마련할 수 있다.
+So we proposed the autonomous machine learning to reach to the network equilibrium state by reducing the flow toward the input to weights of output layer neurons.	
+Malware Classification Possibility based on Sequence Information	순서 정보 기반 악성코드 분류 가능성
+Scene Recognition Using Local and Global Features	지역적, 전역적 특징을 이용한 환경 인식
+Comparison of CNN Structures for Detection of Surface Defects	표면 결함 검출을 위한 CNN 구조의 비교
+Implementation of Moving Object Recognition based on Deep Learning	딥러닝을 통한 움직이는 객체 검출 알고리즘 구현
+Implementation method were in System 13.2%, Solution 7.4%, App. 4.4% order in domestic research, and it was in System 32.4%, App. 13.2%, Device 7.4% order in foreign research.	4.4% 순이였으며 국외 연구의 구현방법으로는 System 32.4%, App.13.2%, Device 7.4%로 다소 차이를 보였다.
+In addition, this study considered various variables affecting the employment ratio of each industry, and so we adopted recursive feature elimination method that allows efficient use of machine learning methods.	또한, 본 연구는 산업별 고용비중에 영향을 주는 다양한 변수를 고려하기 위하여 재귀적특성제거 방법을 사용하여 주요 변수를 선별한 후, 머신러닝 기법에 적용함으로써 예측과정 상에서의 효율성을 높였다.
+By combining these two models and a few dictionaries, I got 98.0% of the F1 score.	이 두 모델과 몇 개의 사전을 결합함으로써, 98.0%의 F1 점수를 얻었다.
+A Study  on the  Phoneme Segmentation  Using  Neural Network	개선된 신경망 학습 알고리즘을 이용한 한국어 인식에 관한 연구
+With the development of IT technology, computer-related crimes are rapidly increasing, and in recent years, the damage to ransomware infections is increasing rapidly at home and abroad.	IT 기술의 발달에 따라, 컴퓨터 관련 범죄가 빠르게 급증하고 있으며 특히 최근에는 국내외에서 랜섬웨어감염에 대한 피해가 급격하게 늘어나고 있다.
+A Study on the Error Charicteristic of Image Pattern Inspection Systems	국지예보모델자료와 위성자료를 이용한 딥러닝 기반의농지 증발산량 산출 및 지도화
+Demand Response Systems based on Machine Learning : A Survey	기계학습 기반 수요공급 시스템 연구 조사
+A Study on the Prediction of Apartment Sale Price Using Machine Learning : Focused on the Collection of Internal and External Data and Price Prediction of Korean Apartments	기계학습을 이용한 아파트 매매가격 예측 연구 : 한국 아파트의 내·외적 데이터 수집과 가격 예측 중심으로
+A study on Enhancement and Restoration of Nonfocusing Image	초점이 맞지 않은 영상의 개선 및 복원에 관한 연구
+The proposed method allows the detection of GPS jamming types and signal strength alone on mobile equipment, which is judged to be available to give a warning and minimize damage.	제안 방법을 통해 이동형 장치에서 단독으로 GPS 재밍 종류와 신호세기를 탐지할 수 있고, 이러한 정보는 재밍을 경고하여 피해를 최소화하는데 사용 가능할 것으로 판단된다.
+ART1-based Fuzzy Supervised Learning Algorithm	ART-1 기반 퍼지 지도 학습 알고리즘
+The environment of information in education and the Christian education	교육 정보화 환경과 기독교 교육
+Development of Demand Forecasting Algorithm in Smart Factory using Hybrid-Time Series Models	Hybrid 시계열 모델을 활용한 스마트 공장 내 수요예측 알고리즘 개발
+The Capacity of Multi-Valued Single Layer CoreNet(Neural Network) and Precalculation of its Weight Values	단층 코어넷 다단입력 인공신경망회로의 처리용량과 사전 무게값 계산에 관한 연구
+In the experiment we predicted verification data using our proposed model and single web data, Pearson correlation coefficient for the predicted results of our proposed model showed the highest similarity at 0.94, 0.86, and RMSE was also the lowest at 0.19, 0.07.	실험 결과 우리가 제안한 모델의 예측결과와 단일 웹 데이터를 사용한 모델의 예측 결과를 비교했을 때 검증 데이터에 대해서 피어슨 상관계수가 0.94, 0.86로 가장 높았고 RMSE 또한 0.19, 0.07로 가장 낮은 오차를 보여주었다.
+Driver’s Gaze Zone Estimation based on Convolutional Neural Networks using IR Camera	CNN을 이용한 IR 영상으로부터의 운전자 시선 인식 기술
+A Study on Utilization of Artificial Intelligence in Public Sector	공공부문에서 인공지능 활용에 관한 연구
+In this study, we used the embedded variable selection techniques to find the factors influencing PV power generation.	본 연구에서는 태양광 발전에 영향을 미치는 요인을 찾아내기 위해 임베디드 변수 선택 기법을 이용한다.
+A Comparative Study on the Classification of the Imbalanced Intrusion Detection Dataset Based on Deep Learning	딥러닝 기반 불균형 침입탐지 데이터 분류에 관한 비교 연구
+Determination of Optimum Harvesting Time using Machine Learning Method Based on Tensor Flow and On-farm Data for Cherry Tomato	농장 데이터 및 텐서플로우를 이용한 머신러닝 기반 방울토마토의 최적 수확시기 예측
+Development of Ship Valuation Model by Neural Network	신경망기법을 활용한 선박 가치평가 모델 개발
+Comparative experiment of Machine Learning Performance of Logistic Regression and Support Vector Machines	로지스틱 회귀와 서포트벡터머신의 머신러닝 알고리즘 성능 비교 실험
+In this paper, we investigate a machine learning, descriptor-based approach that does not require a explicit descriptors statistical model, based on support vector machines are known to be robust statistical models and a sequential optimal algorithm online support vector machine is introduced.	본 논문에서는 로버스트 하다고 알려져 있는 서포트 벡터 기계를 이용하여 온라인으로 비정상적인 신호를 탐지하는 방법을 제안한다. 
+According to the results of comparing individual models through metrics, LSTM showed the lowest predictive error.	측정지표를 통해 개별 모형을 비교한 결과에 따르면, LSTM 모형이 예측 오차가 가장 낮은 것으로 나타났다.
+In spite of twenty year investment by a number of Korean companies and by government, companies manufacturing the numerical controller, which is an integrated computer controlling automatic machining process of the general purpose machine tools, recorded failures.	지난 20년간의 투자에도 불구하고 한국의 기계제어컴퓨터 장치(수치제어장치)의 기술추격은 성공적이지 못한 결과를 가져왔다.
+A Machine Learning Framework for Touristic Demands	여행자 수요분석을 위한 기계학습 프레임워크
+A Study on the Prediction Model for Insolvent Companies Based on Deep Learning	딥러닝 기반 부실기업 예측모형에 관한 연구
+Accuracy Analysis according to the Number of Training and Testing Images on CNN	CNN에서 훈련 및 시험 영상 수에 따른 정확도 분석
+An Implementation of a Convolutional Accelerator based on a GPGPU for a Deep Learning	Deep Learning을 위한 GPGPU 기반 Convolution 가속기 구현
+Research Trends Analysis of Machine Learning and Deep Learning: Focused on the Topic Modeling	머신러닝 및 딥러닝 연구동향 분석: 토픽모델링을 중심으로
+Various methods were introduced to estimate the information held by time series in which adjacent observations were dependent on each other.	인접한 관측값들이 서로 종속되어 있는 시계열이 가지고 있는 정보를 추정하기 위한 방법들이 다양하게 소개되었다.
+The Prediction of the Number of Passengers in Gangnam Subway Station using LSTM	LSTM 기반의 강남역 시간별 지하철 탑승 인원 예측
+Detection of Surface Defects in Eggs Using Computer Vision	컴퓨터 시각을 이용한 계란 표면의 결함 검출
+Recognition of Physical Rehabilitation on the Upper Limb Function using 3D Trajectory Information from the Stereo Vision Sensor	스테레오비전 센서의 3D 궤적 정보를 이용한 상지 재활 동작 인식
+Prediction model of hypercholesterolemia using body fat mass based on machine learning	머신러닝 기반 체지방 측정정보를 이용한 고콜레스테롤혈증 예측모델
+Sentiment Analysis System by Using BERT Language Model	BERT 언어 모델을 이용한 감정 분석 시스템
+In this study, a short–term travel speed prediction model using LSTM, a deep learning technique, was constructed to predict the travel speed.	본 연구에서는 통행속도를 예측하기 위하여 딥러닝 기법인 LSTM을 이용한 단기 통행속도 예측 모형을 구축하였다.
+Detection of Korea License Plate by Mask R-CNN using Composite Image	합성 이미지를 이용한 Mask R-CNN 기반 한국 번호판 검출
+Korean-Digit Recognition Using Multi-Layer Perceptron Network	다층구조 신경망을 이용한 한국어 수자음 인식
+The imbalanced data can cause seriously negative effect on the performance of most of machine learning algorithms.	데이터의 불균형은 머신러닝 알고리즘의 대부분의 성능에 심각한 부정적인 영향을 야기한다. 
+Demand prediction of bicycle-sharing system in the Bay Area using machine learning	기계학습을 활용한 Bay Area지역의 공유자전거 수요 예측
+In this paper, we derive a learning algorithm without defining data by using an association analysis algorithm between data for analyzing learning data.	본 논문에서는 학습 데이터를 분석하기 위한 데이터들 간의 연관 분석 알고리즘을 이용하여 데이터에 대한 정의 없이 학습 알고리즘을 도출한다.
+Automated Noise Reduction in MMS Data using CNN for 3D Road Mapping	다차원 도로정보 구축을 위한 MMS 노이즈 자동제거 알고리즘
+Development of Co-Simulation Platform for CNN HW Accelerator Based on SoC Virtual Platform	SoC 가상화 플랫폼 기반 CNN 가속기 통합 시뮬레이션 플랫폼 개발
+Feasibility Study on the Reinforcement Learning for a Dynamic Scheduling Problem	강화학습기법의 동적일정계획에의 적용가능성에 대한 소고
+Development of A Framework for Robust Extraction of Regions Of Interest	환경 요인에 독립적인 관심 영역 추출을 위한 프레임워크의 개발
+However, the features extracted by CNN are not sufficient and the classification effect is not too high.	그러나 CNN으로 추출한 특징은 충분하지 않아 분류 효과가 너무 낮다.
+Design of a Robust Controller of Robot Manipulators Using Vision System	비전 시스템을 이용한 로봇 매니퓰레이터의 강인 제어기 설계
+3D Face Tracking using Particle Filter based on MLESAC Motion Estimation	MLESAC 움직임 추정 기반의 파티클 필터를 이용한 3D 얼굴 추적
+When the system classifies motions and recognizes targets, it identifies them on the map and tracks them.	시스템이 모션을 분류하여 거동수상자를 인식하게 되면 지도에 이를 표시하고 추적을 한다.
+However, as the model size and computational complexity of deep learning models for most applications increases, it is hard to apply neural networks to IoT and mobile environments.	그러나 대부분의 응용에서 딥 러닝 모델의 모델 크기와 계산 복잡성이 증가함에 따라 IoT 및 모바일 환경에 신경망을 적용하기 어렵다.
+We also show the accuracy of our prediction.	또한, 예측의 정확성을 보였다.
+Design and Analysis of 4-Degree-Freedom Robotic Arm based on Machine Learning for Accurate Throwing	정확한 던지기를 위한 기계학습 기반의 4자유도 로봇팔 설계 및 분석
+Cognitive Computing II: Machine Vision-Language Learning	실생활 시각언어 학습
+Real Time Gaze Discrimination for Computer Interface	컴퓨터 인터페이스를 위한 실시간 시선 식별
+Through experiments using four types of datasets, we have showed that the proposed method outperforms the exiting ones.	4가지 유형의 데이터셋을 이용한 실험을 통해 제안 기법이 기존 기법에 비해 분류 성능이 우수함을 보인다.
+Prediction of Temperature and Heat Wave Occurrence for Summer Season Using Machine Learning	기계학습을 활용한 하절기 기온 및 폭염발생여부 예측
+Hybrid Structure based On-line Learning Method for Robust Pose Prediction	강인한 포즈 예측을 위한 하이브리드 구조 기반의 온라인 학습 기법
+Study of Methodology for Recognizing Multiple Objects	다중물체 인식 방법론에 관한 연구
+In addition, the target variables for predicting customer behavior are defined as six binary classification problems: re-purchaser, churn, frequent shopper, frequent refund shopper, high amount shopper, high discount shopper.	고객 행태 예측을 위한 목표 변수는 재구매 고객, 이탈 고객, 고빈도 구매 고객, 고빈도 반품 고객, 고단가 구매 고객, 고할인 구매 고객 등 모두 6개의 이진분류 문제로 정의한다.
+Comparison of CNN Structures for classify the degree of doneness of meat using transfer learning	CNN 모델 이전학습을 이용하여 고기의 익힘 정도 성능 측정
+It is designed to take historical blood glucose data as well as variables such as HbA1c(glycated hemoglobin) and BMI(body mass index).	과거의 혈당 데이터뿐만 아니라 HbA1c(당화혈색소), BMI(체질량 지수) 등 환자 개인의 특성 변수도 고려하여 설계했다.
+Damage estimation for structural safety evaluation using dynamic displace measurement	구조안전도 평가를 위한 동적변위 기반 손상도 추정 기법 개발
+Comparison of Machine Learning Performance for Earnings Forecasting	회계이익예측을 위한 기계학습 성과 비교
+Therefore, in this paper, artificial intelligence education contents, one of the core technologies of the 4th Industrial Revolution era, were developed to reinforcing competence of SW convergence gifted teachers.	이를 위하여 본 논문에서는 SW융합영재 담당교원의 역량 강화를 위한 4차 산업혁명 시대의 핵심 기술 중에 하나인 인공지능 교육 콘텐츠를 개발하였다.
+Development of articulatory estimation model using deep neural network	심층신경망을 이용한 조음 예측 모형 개발
+CNN-based Opti-Acoustic Transformation for Underwater Feature Matching	수중에서의 특징점 매칭을 위한 CNN기반 Opti-Acoustic변환
+In this paper, we propose a method to forecasting hourly solar radiation of next day by creating a input variable(extraterrestrial irradiance, clearness index, etc.) to weather changes and applying to LSTM.	따라서, 본 논문에서는 기상 변화를 고려할 수 있는 입력변수(대기권 밖 일사량, 대기청명도 등)를 생성한 다음 LSTM에 적용하여 다음 날의 시간별 일사량을 예측하는 방법을제안하였다.
+Theater/Film subject and NCS-based curriculum : focused on the curriculum of Seoul Broadcasting High School	연극영화교과와 NCS 기반 교육과정: 서울방송고등학교 사례를 중심으로
+CNN algorithms, which are currently actively used for image processing, do not process high resolution/large-scale satellite images directly.	현재 영상 처리에 활발히 사용되고 있는 CNN 알고리즘은 고해상도/대규모 위성사진을 직접 처리하지 못한다.
+Development of Traffic Speed Prediction Model Reflecting Spatio-temporal Impact based on Deep Neural Network	시공간적 영향력을 반영한 딥러닝 기반의 통행속도 예측 모형 개발
+Development of Behavior Understanding System based on Object- Human Interaction Pattern Extraction using Deep Learning Model	딥러닝 모델을 이용한 물체-사람 간 상호작용 패턴 검출 기반행동 이해 시스템 개발
+In general, SST is obtained by either direct or indirect observation	일반적으로 SST는 직접 또는 간접 관찰을 통해 얻어진다.
+Motion Capture using both Human Structural Characteristic and Inverse Kinematics	인체의 구조적 특성과 역운동학을 이용한 모션 캡처
+Development of A Framework for Robust Extraction of Regions Of Interest	환경 요인에 독립적인 관심 영역 추출을 위한 프레임워크의 개발
+A Study on the Performance Evaluation of Machine Learning for Predicting the Number of Movie Audiences	영화 관객 수 예측을 위한 기계학습 기법의 성능 평가 연구
+In screening mammogram, Computer-Aided Detection(CAD) system helps radiologist to diagnose cases by detecting malignant masses which is an important lesion in the breast that can indicate a cancer.	컴퓨터 지원 검출(CAD) 시스템은 유방조영술을 통한 진단 시 의사가 놓치기 쉬운 유방암의 징후인 종괴의 검출을 도와 유방암 진단율을 높이는 수단이다.
+Possibility of Automated Fact Checking through SNS User Characteristics and Confirmatory Bias	SNS 사용자 특성과 확증 편향을 통한 자동화된 팩트체킹의 가능성 : 정치인 관련 트윗 데이터를 중심으로
+Possibility analysisof future droughts using long short term memory and standardized groundwater level index	LSTM과 SGI를 이용한 미래 가뭄 발생 가능성 분석
+Spatial-temporal Ensemble Method for Action Recognition	행동 인식을 위한 시공간 앙상블 기법
+This model suggested that it is possible to implement a real-time monitoring system that is simpler, more convenient, and can predict the amount of power generation for inverters of various manufacturers.	본 모델은 다양한 제조사의 인버터에 대해서 보다 간단하고 편리하며 발전량을 예측할 수 있는 실시간 모니터링 시스템 구현이 가능함을 제시하였다.
+Surface electromyography(sEMG) is mainly used as an on/off switch in the early stage of the study and was then expanded to navigational control of powered-wheelchairs and recognition of sign language or finger gestures.	표면 근전도(sEMG)은 연구의 초기 단계에서 주로 On/Off 스위치로 사용되며, 그 후 전동 휠체어의 방향 제어와 수화 또는 손가락 제스처의 인식으로 확장되었다.
+This paper proposes a coupled CNN algorithm that combines the Mask R_CNN algorithm with the YOLO algorithm to reduce such false detection.	본 논문은 이러한 오탐지를 줄이기 위해 Mask R_CNN 알고리즘과 YOLO 알고리즘을 결합한 CNN 알고리즘을 제안한다.
+To maintain the safe and optimal performance of batteries, accurate estimation of state of charge(SOC) is critical.	안전하고 최적의 배터리 성능을 유지하기 위해 정확한 충전상태(SOC) 추정 기술이 필수적이다.
+Early recognition of cyclogenesis using communication, ocean, and meteorological satellite images and machine learning approaches	COMS 위성영상과 인공지능을 이용한 태풍전조탐지
+Recently, neural networks have been actively studied and applied in various fields.	최근 신경망이 활발히 연구되어 다양한 분야에 적용되고 있다.
+Deep Convolutional Neural Network with Bottleneck Structure using Raw Seismic Waveform for Earthquake Classification	지진 이벤트 분류를 위한 Bottleneck 구조의 심층 CNN 기법
+Sensorless Speed Control of Direct Current Motor by Neural Network	신경회로망을 이용한 직류전동기의 센서리스 속도제어
+LSTM-based Lattice Rescoring for Spontaneous Speech Recognition	비정형 자연어 음성인식을 위한 LSTM 기반 래티스 리스코링 기술
+On the average, the accuracy was improved by about 7% when fine-tuning.	미세조정을 한 경우 정확도가 평균적으로 약 7% 향상되었다.
+Car detect rate 100%, segmentation rate 97.5%, and character recognition rate about 97.2%. Overall system performances is 94.7% and processing time is one sec.	번호판 추출율은 97.5%, 번호판 문자 인식률은 97.2%의 성능을 내었고, 전체 시스템 성능은 947%이며 처리 시간은 약 1조 미만이다.
+As the coronavirus from China unprecedentedly attacked the European countries and the U.S., the existing disease worldview based on the West supremacy and ‘Orientalism’ has been seriously unsettled.	중국발 코로나바이러스가 전례 없이 유럽 국가와 미국을 공격하면서 서구 우월주의와 '동양주의'에 기초한 기존 질병 세계관이 심각하게 흔들리고 있다.
+A Study on Korean News Media Translation of English Passive Constructions	뉴스미디어의 수동문 영한번역 연구
+21 Century Vision - World Evangelization through Worldwide Computer Networking	특집논문 2 : 21 세기 가상공간과 현대 선교전략 / 21 세기 비전 - 인터넷을 통한 선교
+In this study, I tried to look at examples of artificial intelligence works using machine learning such as LSTM and GAN.	이 연구에서 현재 창작되고 있는 LSTM과 GAN같은 머신러닝을 이용한 인공지능 작품들의 예들을 살펴보고자 했다.
+Interturn Short Circuit Fault Detection by Using Convolutional Neural Network	CNN을 활용한 영구자석 동기전동기의 선간 단락 고장 진단
+Fuzzy Support Vector Machine for Pattern Classification of Time Series Data of KOSPI200 Index	시계열 자료 코스피200의 패턴분류를 위한 퍼지 서포트 벡타기계
+Coupled Line Cameras as a New Geometric Tool for Quadrilateral Reconstruction	사각형 복원을 위한 새로운 기하학적 도구로서의 선분 카메라 쌍
+As future research, proposed model need to build more suitable network for deep learning, and need to use of meteorological elements Big Data to improve power demand prediction.	향후 연구과제로서 제안 모델은 전력수요예측 향상을 위해 기상 요소 빅 데이터를 이용하고, 보다 적합한 딥 러닝 네트워크 구축이 필요하다.
+The main role of Wiener filter is noise reduction.	Wiener 필터의 주요 역할은 잡음 제거이다.
+Comparison of Accommodative Function of Young Adults in their Twenties Wearing Monovision, Modified Monovision and Multifocal Soft Contact Lenses	모노비전, 변형된 모노비전, 멀티포컬 콘택트렌즈로 교정 시 20대 성인의 조절기능 비교
+Beyond the discussion between Learning Theory of Piagetian Propositional Logic and that of Bayesian Causational Inference	피아제의 명제논리적 학습이론과 베이즈주의 인과추론적 학습이론 사이의 논쟁 넘어서기
+RNN is not only used to generate standard text like news articles, but also utilized in creative text generation, for instance, novels and essays.	RNN은 뉴스와 같은 정형화된 텍스트의 생성뿐만 아니라 소설, 수필과 같은 창의적 텍스트 생성을 위한 시스템에도 쓰이고 있다.
+CRNN-Based Korean Phoneme Recognition Model with CTC Algorithm	CTC를 적용한 CRNN 기반 한국어 음소인식 모델 연구
+Interaction Augmented Reality System using a Hand Motion	손동작을 이용한 상호작용 증강현실 시스템
+Prediction of the employment ratio by industry using constrainted forecast combination	제약하의 예측조합 방법을 활용한 산업별 고용비중 예측
+Learning Classification Rules using Hellinger Measure	Hellinger 변량을 이용한 분류법칙의 학습
+In this paper study, we used the data of the Call Detailed Record (CDR) provided by KT to identify the migration path of people who are expected to be closely related to the virus.	본 논문 연구에서는 KT가 제공하는 CDR(Call Detailed Record) 데이터를 활용하여 바이러스와 밀접한 관계가 있을 것으로 예측되는 사람의 이동 경로를 파악하였다.
+Possibility of Korean Teaching-Learning System Linking On-line and Off-line	온오프라인 연계 한국어 교수학습 시스템의 가능성
+Cell Quantization Tool for Anterior Chamber OCT Images	전방 이미지를 위한 세포정량화 도구
+Sketch Image based Automatic Product Design Generation	스케치 이미지 기반 제품 디자인 자동 생성 기법
+Object Tracking using Feature Map from Convolutional Neural Network	컨볼루션 신경망의 특징맵을 사용한 객체 추적
+Predicting the Intensity and the Center Location of Typhoons based on Faster R-CNN using Satellite Images	인공위성 자료를 이용한 Faster R-CNN 기반 태풍 식별 및 강도․중심위치 산출
+DC Servo Motor Position Control using Module Neuro-Controller sharing Hidden Layers	중간층 공유 모듈 신경제어기를 이용한 DC 서보 모터의 위치제어
+A Study on Single Vowels Recognition using VQ and Multi-layer Perceptron	VQ와 Multi-layer perceptron을 이용한 단모음 인식에 관한 연구
+Aerial images are generated through preprocessing and labeling to generate morphological information data sets of cracks.	항공 이미지는 균열의 형태 정보 데이터 셋을 생성하기 위해 전처리 및 라벨링을 통해 생성된다.
+It is confirmed that there is a spatio-temporal difference in the possibility of drought.	시공간별로 가뭄 발생 가능성에서 차이가 발생하는 것을 확인하였다.
+The predictive policing algorithm, called the crime prediction algorithm, is based on the idea that analyzing existing data on past crimes can predict when and where new crimes are most likely to occur.	범죄예측 알고리즘이라고 불리는 예측 치안 알고리즘은 과거의 범죄에 대한 기존 데이터를 분석하면 언제 어디서 새로운 범죄가 발생할 가능성이 가장 높은지 예측할 수 있다는 아이디어에 기초하고 있다.
+Extraction of Geometric and Color Features in the Tobacco-leaf by Computer Vision	컴퓨터 시각에 의한 잎담배의 외형 및 색 특징 추출
+In the experiments, we used the TensorFlow open source library produced by Google and e-commerce session data from RecSys Challenge 2015.	실험 도구로는 구글의 오픈소스 라이브러리인 텐서플로우를 사용하였고, RecSys Challenge 2015에서 제공하는 e-commerce session 데이터를 활용하였다.
+Artificial intelligence technology, which is the core of the 4th industrial revolution, is making intelligent judgments through deep learning techniques and machine learning that it is impossible to predict if it is applied to stock prediction beyond human capabilities.	4차 산업혁명의 핵심인 인공지능 기술은 인간의 능력을 뛰어넘어 주식예측에도 적용하고 있으며 예측이 불가능 한 것을 딥러닝 기법과 머신러닝을 통하여 지능화된 판단을 내리고 있는 실정이다.
+Segmentation of Mass in Mammography using Deep Learning	딥러닝을 이용한 유방조영술의 종양 분할
+Supervised learning was implemented on 12 upper complaint categories using a convolutional neural network, which is a representative deep learning approach, and bidirectional long short-term memory, which exhibits superior performance in diverse fields.	지도 학습은 대표적인 딥러닝 접근 방식인 CNN과 다양한 분야에서 우수한 성능을 보이는 Bidirectional LSTM를 활용해 12개 상위 불만 범주에 구현됐다.
+ARIMA, Machine Learning Approach to Forecasting Empty Container Volumes	항만 공컨테이너 재고량 예측을 위한 ARIMA, 머신러닝 적용 연구
+Forward Gradient Search Algorithm for Neural Networks	역전파 알고리즘의 성능개선을 위한 활성화 함수의 이득 가변화 이용
+We predicted the inflow of the Yongdam Multipurpose Dam which is located in the upper stream of the Geumgang.	우리는 금강 상류에 위치한 용담다목적댐의 유입량을 예측하였다.
+The conventional detection scheme such as the spectrogram-based detection scheme has difficulty on detecting FH signals under the blind condition.	스펙트로그램 기반 탐지기와 같은 기존의 탐지개는 암맹 환경에서 주파수 도약 신호를 감지하는 데 어려움이 있다.
+Study on the Video Stabilizer based on a Triplet CNN and Training Dataset Synthesis	Triplet CNN과 학습 데이터 합성 기반 비디오 안정화기 연구
+A Vision-based Shadow Gesture Recognition for Interactive Projection System	대화형 프로젝션 시스템을 위한 컴퓨터 비전 기반의 그림자 제스처 인식
+A Study on the Speech Recognition Performance of the Multilayered Recurrent Prediction Neural Network	다층회귀예측신경망의 음성인식성능에 관한 연구
+The mask R-CNN is added to the high-speed R-CNN which training is easy and fast to execute.	Mask R-CNN은 훈련이 간단하고 빠르게 실행하는 고속 R-CNN에 추가된다.
+Understanding of 3D Human Body Motion based on Mono-Vision	단일 비전 기반 인체의 3차원 운동 해석
+Fixed-Point Modeling and Performance Analysis of a CNN Algorithm For Hardware Design	CNN 알고리즘의 하드웨어 구현을 위한 고정 소수점 모델 구현 및 성능 분석
+Development of Automatic Planning of Robot Work from Observation of Human Work	인간 작업모습 관찰에 의한 로봇작업계획 기술 개발
+Predicting Forest Gross Primary Production Using Machine Learning Algorithms	머신러닝 기법의 산림 총일차생산성 예측 모델 비교
+A Two-Stage Document Page Segmentation Method using Morphological Distance Map and RBF Network	거리 사상 함수 및 RBF 네트워크의 2 단계 알고리즘을 적용한 서류 레이아웃 분할 방법
+Conceptual Design of Computer Cision-based Construction Monitoring System	컴퓨터비전 기반의 시공 모니터링 시스템 개념 설계
+LSTM artificial neural network prediction of stock prices in China	LSTM 인공신경망을 이용한 중국 주가 예측
+Repayment Prediction of Borrowers in P2P Social Lending using Improved Deep Convolutional Neural Networks	개선된 심층 CNN을 이용한 P2P 소셜 대출에서 채무자의 상환 예측
+This study investigates the current status of the domestic online market and poses possible damages caused by opinion spam through the automatic generation of Korean reviews using a recurrent neural network.	본 연구에서는 의견 스팸 행위 탐지에 앞서 국내 의견 스팸 현황을 확인하고 순환신경망(RNN)을 이용해 가짜 리뷰를 자동 생성해봄으로써 의견 스팸으로 인한 피해 가능성을 예측해본다.
+Convergence Analysis Algorithm Study for Extracting Image Configuration Parameters	영상 구성 파라미터 추출을 위한 융합 분석 알고리듬 연구
+That is, “creativity” is not only a contradiction in itself but also a mythical concept.	즉 ‘창의성’은 그 자체로 이율배반적일 뿐만 아니라 신화적 개념이라는 뜻이다.
+Port container cargo volume forecasts influence port development and operation strategies, and therefore require a high level of accuracy.	항만 물동량 예측은 항만 개발 및 운영 전략에 영향을 미치며, 정확도 높은 컨테이너 물동량 예측은 필수적이다.
+Artificial Neural Networks Classifier for Machine-Printed Digit Recognition	RBFN을 이용한 음소인식에 관한 연구
+Computer Vision Application for Inspecting Large Set of Bolts	컴퓨터 비젼을 이용한 다양한 볼트제품의 검사시스템 구현
+Time Series Prediction Using Recurrent Neural Network	순환신경망 모형을 활용한 시계열 비교예측
+Future Horizons of Translation & Interpretation : Artificial Intelligence and Interactive-Converged Translation & Interpretation	통번역의 미래지평
+Toward Sentiment Analysis Based on Deep Learning with Keyword Detection in a Financial Report	재무 보고서의 키워드 검출 기반 딥러닝 감성분석 기법
+The Role of Domain Knowledge in Deep Learning-Based Natural Language Processing	딥러닝 기반 자연어 처리에서 도메인 지식의 역할
+An Automatically Extracting Formal Information from Unstructured Security Intelligence Report	비정형 Security Intelligence Report의 정형 정보 자동 추출
+The composition of artificial intelligence education content consists of machine learning and tensor flow understanding, linear regression machine learning implementation for numerical prediction, and multiple linear regression-based price prediction machine learning implementations.	인공지능 교육 콘텐츠의 구성은 머신러닝과 텐서플로우의 이해, 수치 예측을 위한 선형 회귀 머신러닝 구현, 다중 선형 회귀 기반의 가격 예측 머신러닝 구현으로 이루어져 있다.
+EEG Analysis for Cognitive Mental Tasks Decision	신경회로망과 수학적 방정식을 이용한 최적의 용입깊이 예측에 관한 연구
+Efficient Object Detection and Matching Using Stereo Vision	스테레오 비전을 이용한 효율적 객체 검출 및 매칭 기법
+To alleviate these difficulties, we modify the algorithm not to contain null characters in the aligned source strings.	이들 문제를 최소화하기 위해서 입력열에는 공백문자가 나타나지 않도록 알고리즘을 수정하였다.
+A Study of the Automatic Berthing system of a Ship Using Artificial Neural Network	인공신경망을 이용한 선박의 자동접안 제어에 관한 연구
+Structural Damage Detection using Machine Learning	머신러닝 기법을 이용한 구조물 표면손상검출
+Performance Comparison of Algorithm through Classification of Parkinson"s Disease According to the Speech Feature	음성 특징에 따른 파킨슨병 분류를 위한 알고리즘 성능 비교
+We can confirm that item accuracy is 0.61% and quantity accuracy is 0.09% better than that of consistent models when the demand forecast results are derived by selecting models suitable for four types according to demand patterns.	수요 패턴에 따른 네 가지 유형에 적합한 모델을 선정해 수요예측 결과를 도출했을 때 일관된 모델을 사용한 경우에 비해 품목 정확도가 0.61%, 수량 정확도가 0.09% 우수한 것을 확인할 수 있다.
+Machine learning is a field of artificial intelligence, which means that AI technology is developed to allow the computer to learn by itself.	기계 학습은 인공지능의 분야로, 컴퓨터가 혼자 학습 하도록 AI 기술 개발을 하는 뜻을 의미한다.
+Real-Time Action Detection in Video Surveillance using a Sub-Action Descriptor with Multi-Convolutional Neural Networks	Sub-Action Descriptor 와 다중 CNN 을 이용한 감시영상에서의 실시간 행동 감지
+Convolutional Neural Network(CNN) has been actively employed in the application of computer vision, and has been proved to have its superior performance in image classification, document classification, and finger print recognition.	합성곱 신경망(Convolutional Neural Network, CNN)은 컴퓨터 비전 분야에서 활발히 적용되어 왔으며, 이미지 분류, 문서 분류, 지문 인식 등에서 탁월한 인식 능력을 가지는 것이 검증되었다.
+Characteristic Analysis of Fine Particulate Matter and Nitrogen Oxide Concentration Using a Machine Learning Technique at Roadsides	머신러닝을 이용한 초미세먼지와 질소산화물 농도 특성분석 연구
+With the advent of the fourth industrial revolution era, there has been a growing interest in deep learning using big data, and studies using deep learning have been actively conducted in various fields.	4차 산업혁명 시대가 도래함에 따라 빅데이터를 활용하는 딥러닝에 대한 관심이 높아졌으며 다양한 분야에서 딥러닝을 이용한 연구가 활발하게 진행되고 있다.
+Audio Event Classification Using Deep Neural Networks	깊은 신경망을 이용한 오디오 이벤트 분류
+Discrete curvature estimation using a Bezier curve	베이지어 곡선을 이용한 이산 곡률 계산법
+CNN based localization in multi-environment map	CNN 을 이용한 다중 환경 지도에서의 위치 인식
+To overcome the limitation of single sensor monitoring, the proposed HMI system combines data from two sensors to improve performance.	단일 센서 모니터링의 한계를 극복하기 위해 제안된 HMI 시스템은 성능을 개선하기 위해 두 센서의 데이터를 결합한다.
+The survey shows that the model prevails in terms of the speed and quality of learning.	학습의 속도와 질적인 면에서 제안된 모델이 모두 우수한 것을 확인하였다.
+Meanwhile, Research on Korean language generation is not enough yet.	반면, 한국어에 관한 연구는 아직 부족하다.
+A Case Study on Predicting the Vehicle Failure Code with Gathered Diagnostic Trouble Code Data	차량 DTC 데이터 기반 고장 상태 예지 방안에 대한 사례 연구
+A Theory of Intermediality and its Application in Peter Greenaway's <Prospero's Books>	상호매체성의 이론과 그 적용 - 피터 그리너웨이의 <프로스페로의 서재>를 중심으로-
+Object Tracking Based on Exactly Reweighted Online Total-Error-Rate Minimization	정확히 재가중되는 온라인 전체 에러율 최소화 기반의 객체 추적
+A study on the development of a predictive model of hotel financial distress by machine learning algorithm	머신러닝 알고리즘을 활용한 호텔 부실화 예측모델 개발에 관한 연구
+Nuclei Segmentation utilizing CNN and Guide image	CNN과 가이드 영상을 이용한 세포핵 검출
+Automatic Tagging for Social Images using Convolution Neural Networks	CNN을 이용한 소셜 이미지 자동 태깅
+Accordingly, the e-commerce company provides a recommendation service based on the user's past purchase information so that the user can provide a product required by the user.	이에 전자상거래 업체에서는 사용자가 요구하는 상품을 제공할 수 있도록 사용자의 과거 구매 정보를 기반으로 추천 서비스를 제공한다.
+Social Network Analysis of TV Drama via Location Knowledge-learned Deep Hypernetworks	장소 정보를 학습한 딥하이퍼넷 기반 TV드라마 소셜 네트워크 분석
+In this paper, we designed the session management module and applied it to LSTM (Long Short-Term Memory) recursive model.	본 논문에서는 세션관리모듈을 설계하여 LSTM(Long Short-Term Memory) 순환형 모델에 적용하였다.
+Forecast of the Stock Market Price using Artificial Neural Network and Wavelet Transform	인공 신경망과 웨이블릿 변환을 이용한 주가 지수 예측
+Comparison of Object Detection Performance in Heavy Rain Environment with Residual Network for Rain Removal and Fast R-CNN	빗줄기 제거를 위한 잔차 네트워크와 Fast R-CNN을 통한 폭우 환경에서의 객체 검출 성능 비교
+Use of Artificial Intelligence Techniques to Assess Architectural Aesthetics and Estimate the Rent Price of Office Buildings in Seoul	인공지능 기술을 활용한 서울시 오피스 건물의 심미성 측정과 임대료 추정모형 적용연구
+Sketch Image based Automatic Product Design Generation	스케치 이미지 기반 제품 디자인 자동 생성 기법
+This study elucidates two types of knowledge base of the numerical controller which provided a vicious circle in accessing and accumulating the parochial knowledge and in gaining market share.	이 연구는 제품이 필요한 지식에 접근하고 시장을 확보하는데 악순환의 고리에 빠트리는 수치제어 장치 개발에 필요한 두 가지 유형의 지식을 설명한다.
+The designed PV power generation prediction model shows better prediction performance compared to other factor settings.	설계한 태양광 발전량 예측 모델은 다른 변수 설정을 사용할 때와 비교하여 더욱 뛰어난 예측 성능을 보이는 것을 확인하였다.
+In this paper, among various hyperparameters, we focused on ML optimizers.	본 논문에서는 다양한 하이퍼 파라미터 중에서 옵티마이저에 중점을 두었다.
+Deep learning requires huge scale of learning data, but an acquisition of data can be limited in some industrial application.	딥러닝은 방대한 규모의 학습 데이터를 필요로 하나, 일부 산업 응용 문제에서는 데이터의 획득이 제한적일 수 있다.
+Machine Learning Approach for Pattern Analysis of Energy Consumption in Factory	머신러닝 기법을 활용한 공장 에너지 사용량 데이터 분석
+Improving the Accuracy of Document Classification by Learning Heterogeneity	이질성 학습을 통한 문서 분류의 정확성 향상 기법
+The Container Pose Measurement Using Computer Vision	컴퓨터 비젼을 이용한 컨테이너 자세 측정
+Object Detection Using Combined Random Fern for RGB-D Image Format	RGB-D 영상 포맷을 위한 결합형 무작위 Fern을 이용한 객체 검출
+The Development of a Machine Vision Algorithm for Automation of Pavement Crack Sealing	도로면 크랙실링 자동화를 위한 머신비전 알고리즘의 개발
+Increasing/Decreasing an efficiency are analyzed to find.	탐색 효율 상승의 검색결과와 탐색효율 하락의 검색결과를 분석하였다.
+Deep multiple kernel least squares support vector regression machine	심층 다중 커널 최소제곱 서포트 벡터 회귀 기계
+Grid Resource Selection System Using Decision Tree Method	의사결정 트리 기법을 이용한 그리드 자원선택 시스템
+Image and Voice Processing : Image Segmentation Based on the Fuzzy Clustering Algorithm using Average Intracluster Distance	화상 및 음성처리 : 평균내부거리를 적용한 퍼지 클러스터링 알고리즘에 의한 영상분할
+A Case Study on the Application of Plant Classification Learning for 4th Grade Elementary School Using Machine Learning in Online Learning	온라인 학습에서 머신러닝을 활용한 초등 4학년 식물 분류 학습의 적용 사례 연구
+Support Vector Machine Algorithm for Imbalanced Data Learning	불균형 데이터 학습을 위한 지지벡터기계 알고리즘
+According to recent research, the IDS using the recursive learning model shows high detection performance.	최근 연구결과에 따르면, 순환형 학습모델을 적용한 침입탐지기술이 높은 탐지성능을 보여주는 것으로 확인되었다.
+A Study on the Performance of Deep learning-based Automatic Classification of Forest Plants: A Comparison of Data Collection Methods	데이터 수집방법에 따른 딥러닝 기반 산림수종 자동분류 정확도 변화에 관한 연구
+Survey on Machine Learning Algorithms for SDN/NFV Automation	SDN/NFV 자동화를 위한 머신러닝기술 연구 동향
+Learning Simulator for CPS based Control of Feed Drives	공작기계 이송계의 Cyber-Physical System 기반 제어를 위한 학습 시뮬레이터
+At first, the vibration signal of radiator were acquired in the random vibration durability test.	먼저 랜덤 진동 내구성 시험에서 라디에이터의 진동 신호를 취득했다.
+Neural Network-based FMCW Radar System for Detecting a Drone	소형 무인 항공기 탐지를 위한 인공 신경망 기반 FMCW 레이다 시스템
+Prediction of Tier in Supply Chain Using LSTM and Conv1D-LSTM	LSTM 및 Conv1D-LSTM을 사용한 공급 사슬의 티어 예측
+A Research on the Monitoring and Management of Virtual Resources using Machine Learning for the Cloud SLA	기계학습을 활용한 클라우드 SLA를 위한 가상자원 모니터링 및 관리 방안 연구
+NFC antenna modeling and design for position information collecting of steel pallet for screw transfer	나사 이송용 철재 파렛트의 위치 정보 수집을 위한 NFC 안테나 모델링 및 설계
+In addition, we compared learning ability and SOC estimation performance according to the structure of LSTM model and hyperparameter setup.	또한, LSTM 모델의 구조 및 하이퍼파라미터 설정에 따른 학습 능력과 SOC 추정 성능을 비교하였다.
+A program can be viewed as a sequence of consecutive Opcodes in which malware is a malicious program.	프로그램은 명령어가 연속해서 나타나는 하나의 시퀀스로 볼 수 있고 악성코드는 악의적인 목적을 가진 하나의 프로그램이다.
+Automatic Extraction of Hangul Stroke Element Using Faster R-CNN for Font Similarity	글꼴 유사도 판단을 위한 Faster R-CNN 기반 한글 글꼴 획 요소 자동 추출
+License Plate Detection and Recognition Algorithm using Deep Learning	딥러닝을 이용한 번호판 검출과 인식 알고리즘
+Opportunity Tree Framework Design For Optimization of Software Development Project Performance	소프트웨어 개발 프로젝트 성능의 최적화를 위한 Opportunity Tree 모델 설계
+As bolts are mass produced, an automated defect detection process is crucial.	볼트가 대량 생산되기 때문에 자동 결함 감지 프로세스가 중요합니다.
+3-Dimensional Profile Measurement of Free-Formed Surfaces by Slit Beam Scanning Topography	슬릿광 주사방법에 의한 자유곡면의 삼차원형상 측정
+Development of Heavy Rain Damage Prediction Function for Public Facility Using Machine Learning	머신러닝을 이용한 공공시설 호우피해 예측함수 개발
+A Comparative Study on Deep Learning Topology for Event Extraction from Biomedical Literature	생의학 분야 학술 문헌에서의 이벤트 추출을 위한 심층 학습 모델 구조 비교 분석 연구
+For this, public bicycle rental data, weather data, and subway usage data were collected.	이를 위하여 공공자전거 대여량 자료, 기상 자료, 그리고 지하철 이용량 자료를 수집하였다.
+A Study on the Prediction of Chaotic Time Series Using Multiple Recurrent Neural Network	다중회귀신경회로망을 이용한 시계열패턴의 예측에 관한 연구
+In this paper, we propose a fusion model based on Long-Short Term Memory networks(LSTM) and CNN deep learning methods, and applied to multi-category news datasets, and achieved good results.	이 논문에서는 LSTM(Long-Short Term Memory network) 및 CNN 딥 러닝 방법에 기반 한 융합 모델을 제안하고, 다중 카테고리 뉴스 데이터 세트에 적용하여 좋은 결과를 얻었다.
+Several studies have been conducted on data analysis and predicting results with the advance of machine learning algorithms.	기계 학습 알고리즘의 발전에 따라 다양한 영역의 데이터에 대한 분석 및 결과를 예측하는 연구들이 진행되고 있다.
+Ensemble Design of Machine Learning Technigues: Experimental Verification by Prediction of Drifter Trajectory	앙상블을 이용한 기계학습 기법의 설계: 뜰개 이동경로 예측을 통한 실험적 검증
+The average RMSE of the special day data set was 0.2201 for DNN, indicating that the DNN had better prediction than LSTM.	특수 일 데이터 셋의 평균 RMSE는 0.2201로 DNN이 LSTM보다 우수한 예측율을 보였다.
+Development of Artificial Neural Network Model for the Prediction of Descending Time of Room Air Temperature	실온하강신간 예측을 위한 신경망 모델의 개발
+In particular, the CNN performs multiple decisions on a given evaluation sample using multiple mini-batches containing it.	특히 CNN은 주어진 평가 샘플이 포함된 여러 개의 미니 배치를 사용하여 여러 가지 결정을 수행한다.
+The proposed ensemble model predicts game results by learning the final prediction model with the game prediction results of each single model and the actual game results.	본 논문에서 제안하는 앙상블 모델은 각 단일모델들의 경기 예측결과와 실제 경기결과를 병합한 데이터로부터 최종예측모델을 학습하여 경기 승부예측을 수행한다.
+Since such failures can be prevented in the early stages of data center facility construction, various solutions are being developed.	이와 같은 장애는 데이터 센터 설비 구축 초기 단계에서 예방이 가능했기 때문에 다양한 솔루션이 개발되고 있는 상황이다.
+Stock Prediction Model based on Bidirectional LSTM Recurrent Neural Network	양방향 LSTM 순환신경망 기반 주가예측모델
+The supervised learning results indicated that the two methods achieved classification accuracy levels of 73% and 77%, respectively.	지도학습 결과 각각 73%, 77%의 정확도를 보여 안정적인 성능을 보여주었다.
+Realistic Object Modeling Method by Computer Vision Technique	컴퓨터비젼 기법을 이용한 물체의 실물 모델링 방법
+Recovering 3-D Shape from Intensity Image using Learning Method	학습 기법을 이용한 명암 영상으로부터 3차원 입체 형상 복원
+Machine Learning-based Stroke Risk Prediction using Public Big Data	공공빅데이터를 활용한 기계학습 기반 뇌졸중 위험도 예측
+A Method for Eliminating Aiming Error of Unguided Anti-Tank Rocket Using Improved Target Tracking	향상된 표적 추적 기법을 이용한무유도 대전차 로켓의 조준 오차 제거 방법
+Recognition of Complex-shaped Ball using Convolutional Neural Networks	합성곱 신경망을 이용한 복잡한 형상을 가진 공의 인식
+A Study on Utilization of Artificial Intelligence in Public Sector	공공부문에서 인공지능 활용에 관한 연구
+Perfomance Comparison of Thermal Image Denoising Algorithm	열화상 영상 잡음 제거 알고리즘 성능 비교
+The Study of a Mobility Promoting system for Transportation disadvantage Using Deep Learning	딥러닝 기술을 활용한 교통약자 이동편의증진 시스템 연구
+For the evaluation of the event calculus module, this paper also proposes data generation methodology based on a gaussian mixture model and heuristic rules.	이벤트 연산 기법에 대한 성능 평가를 위해 실제 수집한 데이터를 재구축한 혼합 가우시안 모델과 휴리스틱 규칙 기반의 범용 데이터 생성 기법을 제안한다.
+In this paper, we propose a revised Deep Convolutional Neural Network(DCNN) model to extract Protein-Protein Interaction(PPIs) from the scientific literature.	본 논문에서는 학술 문헌에서 단백질 간 상호작용(PPI)을 추출하기 위해 확장된 심층 컨볼루션 신경망(DCNN) 모델을 제안한다.
+Neuroengineering, traumatic brain injury, and brain damage: the role of machine learning	뇌공학, 뇌 외상, 뇌 손상
+Equating Course Evaluation Scores Using A Multi-Layer Perceptron Neural Network	다층퍼셉트론 신경망을 이용한 강의평가점수 동등화
+Recently, as artificial intelligence technologies such as recurrent neural networks that can effectively process time series data are developed, studies on forecasting solar radiation using long short-term memory(LSTM) have been proposed.	최근에는 시계열 데이터를 효과적으로 처리할 수 있는 순환신경망과 같은 인공지능 기술이 발전함에 따라 LSTM(Long short-term memory)을 이용한 일사량 예측 연구가 제안되고 있다.
+CNN-based In-loop Filter on TU Block	TU 블록 크기에 따른 CNN기반 인루프필터
+The amplitude and phase of the modulated signal, the in-phase carrier, and the quadrature-phase carrier are used as input data in the LSTM model.	변조된 신호의 진폭 및 위상, 동상(In-phase) 반송파, 직각 위상(Quadrature-phase) 반송파의 값을 LSTM 모델의 입력 데이터로 사용하여 분류한다.
+A Study on Artificial Intelligence Algorithm to Determine Basic Ink Mixing Ratio for Color Prediction of Spot Color - Focused on Offset Printing for Spot Color Prediction through Basic Ink Formulation in the Packaging Printing Market	별색의 색 예측을 위한 기본 잉크 배합 비율을 결정하는 인공지능 알고리즘에 대한 연구 - 패키징 인쇄시장에서 기본 잉크 배합을 통한 별색 예측을 오프셋 인쇄 중심으로
+Corporate Default Prediction Model Using Deep Learning Time Series Algorithm, RNN and LSTM	딥러닝 시계열 알고리즘 적용한 기업부도예측모형 유용성 검증
+Estimation of the steps of cardiovascular disease by machine learning based on aptamers-based biochip data	기계학습에 의한 압타머칩 데이터 기반 심혈관 질환 단계의 예측
+Current Status and Directional Improvement of Korea’s Regulatory Framework on Development of Automated Vehicles, Benchmarking the U.S. -Focusing on Technological Features, Motor Vehicle Safte, Regulating Agency, Test Drive on Public Roads	미국과 비교한 자율주행자동차의 개발 현황과 한국 개발규제체계의 개선 방향 -기술적 특성, 자동차안전기준, 규제기관, 도로시험주행을 중심으로
+SMD segmentation on PCB using convolutional encoder-decoder	Convolutional encoder-decoder를 이용한 인쇄 회로 기판의 표면 실장 소자 분류
+Intelligent Construction Video Management System Based on Edge Computing Using Deep Learning	딥러닝을 활용한 에지 컴퓨팅 기반의 지능형 컨스트럭션 영상 관제 시스템
+Prediction Model of Surface Deflection of Rectangular Drawing Products Using Finite Element Analysis and Machine Learning	유한요소 해석과 머신러닝을 이용한 직사각형 드로잉 제품의 미세면굴곡의 예측모델
+Analysis of Reduced Classification Model for Distributed Processing of CNN Model with Multiple Edge Devices	복수의 엣지 디바이스에서의 CNN 모델 분산 처리를 위한 축소된 분류 모델 활용에 대한 분석
+Thus, we would like to demonstrate through experiments that models that use multiple Web data to predict the occurrence of infectious diseases through LSTM models are more accurate than those that use single Web data and suggest models suitable for predicting infectious diseases.	이에 우리는 전염병 발생을 LSTM 모델을 통해 예측할 때 여러 개의 웹 데이터를 사용하는 모델이 단일 웹 데이터를 사용하는 모델보다 정확도가 더 높음을 실험을 통해 증명하고 전염병 예측에 적절한 모델을 제안하고자 한다.
+In the model development process, by adjusting three recurrent neural network based algorithms, and batch size, we selected the most appropriate model for predicting the production stage temperature.	모델 개발 과정에서 적절한 예측 알고리즘을 선정하기 위해 세 가지 순환신경망 기반 알고리즘과 배치 사이즈 조절하여 제품 생산단 온도를 예측하기 위한 가장 적절한 모델을 선정하였다.
+A Cross-Organizational Choreography Modeling System	기업간 협업 코레오그래피 모델링
+We hope this model of analysis can be used positively on real world related with V2G(vehicle to grid) or ESS in the near future.	향후에도 이 예측모형이 V2G(Vehicle to Grid) 또는 ESS(energy storage system)와 관련된 현업에 활용될 수 있도록 기대한다.
+Object Detection Model Using Attention Mechanism	주의 집중 기법을 활용한 객체 검출 모델
+Predicting Interesting Web Pages by SVM and Logit-regression	SVM과 로짓회귀분석을 이용한 흥미있는 웹페이지 예측
+The simulation was conducted using MATLAB, and CNN learned and tested using mnist data.	시뮬레이션은 MATLAB을 이용하여 진행하였고 CNN은 mnist 데이터를 이용하여 학습과 테스트를 했다.
+Keyword Extraction through Text Mining and Open Source Software Category Classification based on Machine Learning Algorithms	텍스트 마이닝을 통한 키워드 추출과 머신러닝 기반의 오픈소스 소프트웨어 주제 분류
+LSTM-based Business Process Remaining Time Prediction Model Featured in Activity-centric Normalization Techniques	액티비티별 특징 정규화를 적용한 LSTM 기반 비즈니스 프로세스 잔여시간 예측 모델
+The Learning Effects and the Cognition of Home Economics by Sex in Middle Schools	중학교 남녀학생별 가정교과에 대한 인식 및 학습효과: 경남지역을 중심으로
+Methodology for Near-miss Identification between Earthwork Equipment and Workers using Image Analysis	영상분석기법을 활용한 토공 장비 및 작업자간 아차사고식별 방법론
+Robust Object Tracking based on Kernelized Correlation Filter with multiple scale scheme	다중 스케일 커널화 상관 필터를 이용한 견실한 객체 추적
+Development of a Tank Crew Protection System Using Moving Object Area Detection from Vision based	비전 기반 움직임 영역 탐지를 이용한 전차 승무원 보호 시스템 개발
+As machine learning has been increasingly used in many fields, we have to jump into the AI industry to move forward in our 21st century society.	이처럼 많은 분야에 머신러닝이 점차 쓰이면서 이제 우리 21세기 사회에서 앞으로 나아가려면 AI 산업으로 뛰어들어야 한다.
+Component Analysis of Gait Patterns using Machine Learning Algorithms	기계학습 알고리즘을 이용한 보행 패턴 요소 분석 연구
+Development of Active Stereo Surveillance System with the Human-like Visual Selective Attention	인체의 상향식 선택적 주의 집중 시각 기능을 모방한 능동 스테레오 감시 시스템의 개발
+Phoneme Segmenter for Applying to Spontaneous Speech Recognition	대화체 음성인식을 위한 음소분할기
+The correlation between the solar power generation data and the weather data and the power generation prediction results was analyzed to examine the optimal weather factors needed to predict solar power generation.	태양광 발전량의 상관관계와 발전량 예측결과를 비교하여 태양광 에너지 발전량 예측에 활용되는 최적의 기상 요인을 검토한다.
+Legal Issues and legislative improvements of Drones used by Law Enforcement Agencies	법집행기관의 드론 이용에 관한 법적 쟁점과 입법적 개선 방안
+Efficient Fixed-Point Representation for ResNet-50 Convolutional Neural Network	ResNet-50 합성곱 신경망을 위한 고정 소수점 표현 방법
+Design of Optimized Radial Basis Function Neural Networks Classifier with the Aid of Principal Component Analysis and Linear Discriminant Analysis	주성분 분석법과 선형판별 분석법을 이용한 최적화된 방사형 기저 함수 신경회로망 분류기의 설계
+In this study, defense surveillance reconnaissance systems were implemented through deep learning networks such as OpenPose and deep neural networks(DNN), convolutional neural networks(CNN), and long short-term memory(LSTM).	본 연구에서는 국방 감시 정찰 시스템을 OpenPose와 DNN(Deep Neural Networks), CNN(Convolutional Neural Networks), LSTM(Long Short-Term Memory)과 같은 딥러닝 네트워크를 통해 구현하였다.
+Disease Recognition on Medical Images Using Neural Network	신경회로망에 의한 의료영상 질환인식
+Malware Detection Model with Skip-Connected LSTM RNN	Skip-Connected LSTM RNN을 이용한 악성코드 탐지 모델
+This study analyzes chat data of Twitch.tv, a popular online streaming service, to identify types of a mixture of text and emotes.	이 연구는 가장 큰 온라인 스트리밍 서비스 중 하나인 트위치(Twitch.tv)의 채팅 데이터를 분석하여 이러한 유형을 파악한다. 
+Hence, this study focused on design and implementation of a wearable sign language interpreter.	따라서, 이 연구는 웨어러블 수화 통역기의 설계와 구현에 초점을 맞췄다.
+Studying Psychology using Big Data	빅데이터를 이용한 심리학 연구 방법
+Detection of QR Code based on Mask R-CNN using Synthetic Image under Perspective Transform	사영 변환하의 합성 이미지를 이용한Mask R-CNN 기반 QR 코드 검출
+Recently, research on stock price analysis using stock news has been actively conducted, and research is underway to predict the future based on past time series data through artificial intelligence-based analysis.	최근 주가뉴스를 이용한 주가분석 연구가 활발히 진행되고 있으며, 인공지능 기반한 분석을 통하여 과거 시계열 데이터를 기반으로 미래를 예측하는 연구가 진행 중에 있다.
+A Short Guide to Machine Learning for Economists	머신 러닝을 이용한 경제분석
+Vision based Object Recognition for Autonomous Robot Navigation	로봇의 자율 항해를 위한 비전기반의 객체 인식
+Currently, the mainstream of image processing is artificial intelligence system.	현재 영상처리의 주류는 인공 지능 시스템이다.
+Existing studies have not been able to suggest the correlation between rain patterns and object detection performance in heavy rain environment because object detection and rain removal are studied independently.	기존의 연구는 객체 검출과 빗줄기 제거은 독립적으로 연구되고 있으므로 폭우 환경에서의 빗줄기 패턴과 객체 검출 성능과의 연관성을 제시하지 못하고 있다.
+Semi-Supervised Learning for Fault Detection and Classification of Plasma Etch Equipment	준지도학습 기반 반도체 공정 이상 상태 감지 및 분류
+CNN-based Drinking Assumption Technology using PPG Sensors	PPG 센서를 이용한 CNN 기반의 음주 상태 추정 기술
+Design of LSTM Model for Prediction of Number of Bitcoin Transactions	비트코인 트랜잭션 수 예측을 위한 LSTM 모델 설계
+With the emergence of various new technologies in the recent era of the 4th industrial revolution, the number of patent applications and inventions is rapidly increasing to claim the right to valuable new technologies.	최근 4차 산업혁명의 시대에서 다양한 신기술들이 등장함에 따라 가치 있는 신기술들에 대한 권리를 주장하기 위한 목적으로 특허 출원 및 발명 건수가 급증하고 있다.
+Autonomous Speedsprayer using Computer Vision and Fuzzy Logic	컴퓨터 시각과 퍼지논리를 이용한 스피드스프레이어의 자율주행
+A Study on Defect Prediction Method  Using Sensor Data and Machine Learning in Manufacturing Process	제조 공정에서 센서와 머신러닝을 활용한 불량예측 방안에 대한 연구
+Classification of Emotional Adjective for the Hospital Indoor Image Based on Deep Learning	딥러닝에 기반한 병원 실내이미지의 감성어휘 분류
+The Expression of Reformation Method for the Modern Architecture through Palimpsest	컬러인쇄물의 오류검사 알고리즘 구현에 관한 연구
+Effects of Learning Together cooperative Learning using real materials on academic achievement in the Lesson of "Machine Element" of Technology,Home Economics subject in middle school	중학교 기술,가정 교과 "기계 요소" 단원에서 실물을 활용한 함께 배우기 협동학습이 학업성취도에 미치는 효과
+Autonomous Navigation of Mobile Robot using Hybrid Map	Hybrid Map 기반 이동로봇 자율 주행 제어
+In this paper, we propose a scheme for detecting new and modified malicious codes as well as known malicious codes using LSTM.	본 연구에서는 LSTM를 이용하여 알려진 악성코드뿐만 아니라 신·변종 악성코드들을 탐지하는 모델을 제안한다.
+In this paper, we suggest an integrated clustering method that classifying sentence type by syntactic structure similarity and document genre by word similarity information.	본 논문에서는 각 문장의 문법적 구조 유사도에 따른 유형별분류 기법과, 단어 유사도 정보를 사용한 장르 구분법을 적용하여 기존의 두 기법을 통합하였다.
+Parturition is an important event for farmers as it provides economic gains for the farms.	가축의 분만은 농가에 경제적인 이득을 제공하기 때문에 농부들에게 중요한 행사이다.
+Communitycare Key words and Social Network Analysis based on Big Data	빅데이터 기반의 커뮤니티케어 키워드 및 사회연결망분석
+A Study on the Trend of Loss Avoidance in the Housing Market: Focusing on Machine Learning Methods	주택시장의 손실회피성향에 관한 연구: 머신러닝 방법을 중심으로
+Artificial Intelligence : A Bio-Inspired Modeling of Visual Information Processing for Action Recognition	인공지능 : 생체 기반 시각정보처리 동작인식 모델링
+STEAM education cases study analysis using Open Source : Focusing on the use of the Knitting Machine	오픈소스를 활용한 융합인재교육(STEAM) 사례분석 연구 : 니팅기의 활용을 중심으로
+Forecasting Sow`s Productivity using the Machine Learning Models	머신러닝을 활용한 모돈의 생산성 예측모델
+CNN-based Korean Font Classification for Digital Forensic	디지털 포렌식을 위한 CNN기반 한글 폰트 분류
+Investigations on data-driven stochastic optimal control and approximate-inference-based reinforcement learning methods	데이터 기반 확률론적 최적제어와 근사적 추론 기반 강화 학습 방법론에 관한 고찰
+The price of iron ore has continued to fluctuate with high demand and supply from many countries and companies.	철광석의 가격은 여러 국가와 기업들의 수요와 공급에 따라서 높은 변동성이 지속되고 있다.
+An Enhanced Feature Selection Method Based on the Impurity of Words Considering Unbalanced Distribution of Documents	문서의 불균등 분포를 고려한 단어 불순도 기반 특징 선택 방법
+A Case of Huge Craniopharyngioma Radically Removed	거대한 낭성 두개인두종의 완전적출 1례
+Building a Model of a Regional Development Cluster for Balanced Development in the Jecheon Area	균형발전을 위한 지역 클러스터의 모형 형성
+A Text Data Augmentation Technique based on Semantic Tensor Space Model	시맨틱 텐서공간모델 기반 텍스트데이터 증식기법
+Hardware Design of VLIW coprocessor for Computer Vision Application	컴퓨터 비전 응용을 위한 VLIW 보조프로세서의 하드웨어 설계
+We attempted to optimize the two layers simultaneously by encoding two layers in a chromosome.	우리는 두 층의 노드를 하나의 염색체에 표현하여 동시 최적화를 꾀하였다.
+Variation for Mental Health of Children of Marginalized Classes through Exercise Therapy using Deep Learning	딥러닝을 이용한 소외계층 아동의 스포츠 재활치료를 통한 정신 건강에 대한 변화
+Mammography, the process of using X-ray to examine the woman breast, is the one of the effective tools for detecting breast cancer at an early state.	X-ray를 이용한 여성의 유방암 검사인 유방조영술은 유방암의 초기 단계에서의 진단을 위한 효과적인 방법이다.
+Estimation of Chemical Composition of Al-Si Cast Alloys Using Image Recognition	화상인식을 이용한 Al-Si 주조용 합금의 화학조성 예측
+A Study on the Assessment of Shear Strength Parameter for Weathered Soils	신경망 모형을 이용한 달천의 수질예측 시스템 구축
+Electrical Arc Detection using Convolutional Neural Network	합성곱 신경망을 이용한 전기 아크 신호 검출
+Sensorless Speed Control of Direct Current Motor by Neural Network	신경회로망을 이용한 직류전동기의 센서리스 속도제어
+Feistel Cipher Design using Feedforward Neural Network	멀티태스크 러닝 심층신경망을 이용한 화자인증에서의 나이 정보 활용
+Consequently, with applying the data balancing algorithms, the average values of the sensitivities(3.1%∼6.6%), precisions(2.2%∼7.5%) and F1-scores(2.7%∼6.6%) increased significantly(p<0.05).	결과적으로 데이터 균형화 알고리즘 적용 후, 민감도(3.1%∼6.6%), 정밀도(2.2%∼7.5%), F1 점수(2.7%∼6.6%)의 평균 값이 크게 증가하였다(p<0.05).
+A Study on Object Tracking for Autonomous Mobile Robot using Vision Informantion	비젼 정보를 이용한 이동 자율로봇의 물체 추적에 관한 연구
+Performance Enhancement of Autonomous Driving By Adjusting Hyper-Parameters in CNN Structure	CNN 구조의 Hyper-parameter 를 조정한 자율주행의 성능 개선
+Especially a great deal of research has been carried out mainly on C-V2X(cellular V2X) based on LTE-A or 5G NR(New Radio) cellular network.	특히 LTE-A나 5G NR(New Radio) 셀룰러 네트워크를 기반으로 한 C-V2X(cellular V2X)를 중심으로 많은 연구가 이루어지고 있다.
+In simulation results, the CNN-based detection scheme detects FH signals under Rayleigh fading without learning the fading.	시뮬레이션 결과, CNN 기반 탐지 방법은 페이딩을 학습하지 않아도 Rayleigh 페이딩이 있는 FH 신호를 탐지한다.
+Coreference Resolution for Korean Pronouns using Pointer Networks	포인터 네트워크를 이용한 한국어 대명사 상호참조해결
+Machine Learning Based Dimension Reduction Technique for Efficient Surveillance Reconnaissance of UAV	무인항공기의 효율적인 감시정찰을 위한 머신러닝 기반 차원축소 기법
+Vision-based recognition of a simple non-verbal intent representation by head movements	고개운동에 의한 단순 비언어 의사표현의 비전인식
+However, traditional techniques require to the entire space where there are no density data, so there are problems that are inefficient in terms of the full simulation speed and that cannot be computed with the lack of GPU memory as input resolution increases.	그러나 기존의 기법은 밀도 데이터가 없는 전체 공간에 요구되기 때문에 전체 시뮬레이션 속도 측면에서 비효율적이고 입력 분해능이 증가함에 따라 GPU 메모리가 부족하여 계산할 수 없는 문제가 있다.
+Style Transfer Deep Learning Framework for Nighttime Robust Vehicle Detection in On-Road Mobile Platforms	Style Transfer를 이용한 주행 중인 이동체에서의 야간 차량 인식률 향상 방식
+Low dose limit for RED-CNN based denoising evaluation	RED-CNN에 기반한 X-ray dose에 따른 CT 영상에서의 denoising 평가
+Subsequently, experiments were carried out to insert various past data length into the recurrent neural networks(RNN, LSTM, GRU).	이어서 순환 신경망(RNN, LSTM, GRU)에 다양한 과거 데이터 길이를 삽입하기 위한 실험이 수행되었다.
+Hybrid Pruning of Deep Learning System	딥러닝을 위한 하이브리드 가지치기
+Linkage of Rainfall-Runoff-Water Level Data for Quality Control of Agricultural Reservoir Water Level Data	농업용 저수지 수위자료 품질관리를 위한 강우-유출-수위 자료의 연계방안
+A Recommender System for Selecting SVM Kernels	SVM 커널 선택을 위한 추천 시스템
+In experiments, we use TREC data of AP news for construction of latent semantic space and Wail Street Journal corpus for evaluation of target word selection.	실험에서는, 두 기법에서의 은닉 의미 공간을 구성하기 위하여 AP news의 TREC 데이터 활용하였고, 대역어 선택의 정확도를 평가하기 위하여 Wall Street Journal 말뭉치를 사용하였다.
+Development of Deep Learning Models for Multi-Class Sentiment Analysis	딥러닝 기반의 다범주 감성분석 모델 개발
+We measured and compared the performance of major optimizers using various datasets.	다양한 데이터에서 주요 옵티마이저들의 성능을 측정하고 비교하였다.
+In this paper, in order to solve this problem, compound noun decomposition problem is defined as tag sequence labeling problem and compound noun decomposition method to use syllable unit embedding and deep learning technique is proposed.	이 문제를 해결하기 위하여 본 논문에서 복합명사 분해 문제를 태그 열 부착(sequence labeling) 문제로 정의하고 음절 단위 임베딩과 딥러닝 기법을 이용하는 복합명사 분해 방법을 제안한다.
+Preliminary FE analysis revealed triaxialities at those regularly distributed reference points to obtain learning data creation of machine learning.	선행 유한요소해석은 머신 러닝의 학습데이터 생성을 위하여 규칙적으로 분포된 참조점에서 3축 특성 값(Triaxiality)으로 나타냈다.
+Sentiment Analysis of Movie Review Using Integrated CNN-LSTM Model	CNN-LSTM 조합모델을 이용한 영화리뷰 감성분석
+Recently, computer vision field based deep learning artificial intelligence has become a hot topic among various image analysis boundaries.	최근 딥러닝 인공지능 기반의 컴퓨터 비전 분야는 각종 영상분석 분야에서 화제로 떠오르고 있다.
+In an effort to solve these problems, this study set out to propose a Fuzzy-AHP-based movie recommendation system by applying the BRNN(Bidirectional Recurrent Neural Network) language model.	본 연구에서는 이러한 문제점을 해결하기 위해 양방향 순환 신경망 언어 모델을 이용한 Fuzzy-AHP 기반 영화 추천 시스템을 제안하였다.
+Development of Prediction of Electric Arc Risk using Object Dection Model	객체 탐지 모델을 활용한 전기 아크 위험성 예측 시스템 개발
+Programming Language : Gesture Recognition Using Stereo Tracking Initiator and HMM for Tele-Operation	화상 및 음성처리 : 스테레오 영상 추적 자동초기화와 HMM 을 이용한 원격 작업용 제스처 인식
+Sequence-Based Travel Route Recommendation Systems Using Deep Learning - A Case of Jeju Island	딥러닝을 이용한 시퀀스 기반의 여행경로 추천시스템 : 제주도 사례
+A Study on Discourse in Visual Culture depending on the Appearance of New Media: Focusing on the Analysis of Comparing the Media Theory of Benjamin With Adorno	뉴미디어의 도래에 따른 시감문화의 담론연구: 벤야민과 아도르노의 매체이론 비교분석을 중심으로
+And various studies have been conducted on two methods.	그리고 두 방법에 대한 다양한 연구들이 진행되고 있다.
+Hand Gesture Recognition Regardless of Sensor Misplacement for Circular EMG Sensor Array System	원형 근전도 센서 어레이 시스템의 센서 틀어짐에 강인한 손 제스쳐 인식
+An Enhanced Technologies of Intelligent HVAC PID Controller by Parameter Tuning based on Machine Learning	머신러닝기반 파라메타 튜닝에 의한 지능적 HAVC PID컨트롤러의 성능향상기술 연구
+Fase Positive Fire Detection Improvement Research using the Frame Similarity Principal based on Deep Learning	딥런닝 기반의 프레임 유사성을 이용한화재 오탐 검출 개선 연구
+Skeleton-Based Dynamic Gesture Recognition Using LSTM-RNN for Embbeded System	임베디드 시스템을 위한 LSTM-RNN을 이용한 Skeleton 기반 동적 제스처 인식
+Face Recognition Using Domain Knowledge	문제 영역에 관한 지식을 이용한 얼굴 인식
+PM prediction takes center stage in reducing the body’s exposure to PM(particulate matter).	미세먼지에 대한 신체 노출을 줄이기 위한 방법으로 미세먼지 예측이 떠오르고 있다.
+This research propose and simulate a solar power generation system monitoring system based on Modbus TCP communication using RaspberryPi, an IOT equipment, as a master and an inverter as a slave.	본 연구는 IOT 장비인 라즈베리파이를 마스터(master)로 이용하고 인버터를 슬레이브(slave)로 하여 모드버스 TCP 통신을 기반한 태양광 발전 모니터링 시스템을 제안하였다.
+Image Caption Generation using Recurrent Neural Network	Recurrent Neural Network를 이용한 이미지 캡션 생성
+CLINICAL APPLICATION OF COMPUTER IN PLASTIC SURGERY (II)	성형외과영역에 있어서 컴퓨터의 활용에 관한 연구(II)
+Learning Ability of Deterministic Boltzmann Machine with Non-Monotonic Neurons in Hidden Layer	은닉층에 비단조 뉴런을 갖는 결정론적 볼츠만 머신의 학습능력에 관한 연구
+The future price of a financial instrument is inversely proportional to the instrument’s size of future volatility.	금융상품의 미래가격 전망치는 그 상품의 미래 변동성의 크기에 반비례한다.
+Fast R-CNN based Auto Image Description System for Advanced Driver Assistance System(ADAS)	첨단운전자보조시스템(ADAS)을 위한 Fast R-CNN 기반 Auto Image Description 시스템
+The status of disease occurrence is divided into three categories(occurrence of disease of interest, occurrence of other disease, no occurrence).	질병 발생 상태를 세 개의 범주(질병에 걸리지 않음, 관심 주상병 발생, 다른 질병 방생)로 나누었다.
+The results showed 94.29% accuracy in jamming type and signal strength, and improved accuracy up to 97.14% as a result of applying the kNN(k Nearest Neighbors) classification method to resolve ambiguity of multi-class SVM.	시험결과 94.29% 정확도로 재밍 종류와 신호세기를 탐지하였고, 다중 클래스 SVM의 모호성 해결을 위해 kNN(k Nearest Neighbors) 분류법을 적용한 결과 97.14%까지 정확도를 향상하였다.
+The Study on the Status and Development of International Ubiquitous Computing	유비쿼터스 컴퓨팅의 실태와 발전에 관한 연구
+A Real-time Augmented Reality System using Hand Geometric Characteristics based on Computer Vision	손의 기하학적인 특성을 적용한 실시간 비전 기간 증강현실 시스템
+In the case of research using Convolutional Neural Network, ResNet, etc. for classification of malicious code, it can be confirmed that the performance improvement is higher than the existing classification method.	이 중 합성곱 신경망(CNN: Convolutional Neural Network), ResNet 등을 이용한 악성코드 분류 연구의 경우에는 기존의 분류 방법에 비해 정확도가 크게 향상된 것을 확인할 수 있다.
+Short-term Load Forecasting based on ResNet and LSTM	ResNet 과 LSTM 을 이용한 전력 수요 예측
+A Customer Scoring Model using Hybrid Support Vector Regression	하이브리드 Support Vector Regression을 이용한 고객 점수화 모형
+Thefore casting results of LSTM(Long Short-Term Memory), GRU(Gated Recurrent Units), and SVR(Support Vector Regression) models, which are mainly used for forecasting the time series data in most fields, were compared with the observed data to determine the optimal model parameters for forecasting outflow.	시계열 자료 예측 시 사용되는 주요 기계학습 모형인 LSTM(Long Short-TermMemory), GRU(Gated Recurrent Units), SVR(Support Vector Regression)모형을 적용하였으며 관측 값과 예측 값을 비교하는 오차지표를 통하여 방류량 예측의 최적의 모형을 선정하였다.
+Estimation of Road Surface Condition during Summer Season Using Machine Learning	기계학습을 통한 여름철 노면상태 추정 알고리즘 개발
+Deep learning-based small object detection	딥러닝 기반 소형 물체 검출 기법
+Although there are many parameters for the algorithms, we examined the relationship between numerical value and precision to find the optimal combination.	이 과정에서 여러 매개 변수가 존재하기 때문에 그수치와 정밀도의 관계에 대해 고찰하여 최적의 조합을 찾아 정확도 등 감성분석의 성능 개선을 시도한다.
+Ubiquitous healthcare model based on context recognition	상황인식에 기반한 유비쿼터스 헬스케어 모델
+We assess the usability of forecasting the bee swarming by an LSTM network model learned with the fused data.	LSTM 네트워크를 퓨전된 데이터를 사용하여 학습시켜, 분봉 발생 시기 예측이 가능함을 보인다.
+Humam Computer Interaction : Design and Evaluation of a Hand-held Device for Recognizing Mid-air Hand Gestures	인간 컴퓨터 상호작용 : 공중 손동작 인식을 위한 핸드 헬드형 기기의 설계 및 평가
+We also developed verification model for uncertain measurement data related to the turbine and generator output.	또한 불확실한 측정 데이터에 대한 검증 모델도 구성하였다.
+A Study on Foggy Image Dehazing Using Convolutional Neural Network	Convolutional Neural Network을 이용한 안개영상 개선에 관한 연구
+Regression Machine Learning using Bayesian Inference and Regularization	베이지안 추론과 정규화를 이용한 회귀 머신러닝
+Preliminary Study on Auto Milking Robot Development	자동 착유 로봇개발을 위한 기초 연구
+A Survey on Deep CNN-based Medical Image Classification	심층 CNN 기반 의료 영상 분류에 관한 기존 연구
+As a result of performance evaluation, the proposed HMI acceleration platform can be processed with 95% reduction in computation time compared to a single software-based design.	성능 평가 결과, 제안된 HMI 가속 플랫폼은 단일 소프트웨어 기반 구조에 비해 연산 시간을 95% 단축가능한 것을 확인하였다.
+Structural Design of Radial Basis Function-based Polynomial Neural Networks by Using Multiobjective Particle Swarm Optimization	FNN에 의한 선박의 제어
+Accordingly, academia and security industry are conducting various researches on malicious code detection.	이러한 흐름에 따라 학계와 보안 업계에서는 악성코드 탐지를 위한 다양한 연구를 진행하고 있다.
+The results of this study could be used to predict the route of HPAI propagation and to select routes or areas to focus on quarantine and to reduce HPAI spread.	본 연구 결과를 활용하여 HPAI가 전파되는 경로를 예측하여 방역에 중점을 둘 경로 또는 지역을 선정해 HPAI 확산을 줄이는 데 이용될 수 있을 것이다.
+The satellite has various missions such as ground/marine observation, communication, broadcasting, etc.	인공위성은 지상/해양 관측이나 통신, 방송 등의 다양한 임무를 가진다.
+As a result, it was confirmed through an experiment that it was reduced from a minimum of 3% to a maximum of 35%.	그 결과 최소 3%에서 최대 35%까지 감소되었음을 실험을 통해 확인하였다.
+The forecasting model with the characteristics of the dataset needs to be optimized to increase the accuracy of the forecasting model.	예측 모델의 정확도를 높이기 위해서 데이터셋의 성격을 고려하여 예측 모델을 최적화하는 것이 필요하다.
+CNN(Convolutional Neural Networks) is a neural network that models animal visual information processing.	CNN(Convolutional Neural Networks)은 동물의 시각정보처리과정을 모델링한 신경망이다.
+Signal Prediction Using Neural Networks and TDL Structures	신경망과 TDL 구조에 의한 신호예측
+In this paper, a training dataset collection process is suggested by diversifying the weather, illumination, sensor position, type and counts of vehicles in the simulator environment that simulates the domestic road situation according to the domestic situation.	본 논문에서는 국내 실정에 맞게 국내 도로 상황을 모사한 시뮬레이터 환경 안에 날씨와 조도, 차량의 종류와 대수, 센서의 위치를 다양화하여 학습데이터를 수집하였다. 
+The development of CAI systems for an efficient education of image processing	효율적인 영상처리 교육을 위한 통합 환경 개발에 관한 연구
+Development and Evaluation of the CombML Models for the Dam Inflow Prediction	댐 유입량 예측을 위한 CombML 개발 및 평가
+Comparative Analysis of Learning Methods of Fuzzy Clustering-based Neural Network Pattern Classifier	퍼지 클러스터링기반 신경회로망 패턴 분류기의 학습 방법 비교 분석
+Experimental results show that the LSTM method improves the prediction accuracy by 18.04% compared with the existing artificial neural network system.	실험 결과 LSTM 기법을 사용할 경우 기존 인공신경망 구조에 비해 18.04%의 정확도 향상을 보였다.
+Limitations of Legal Regulations for Data Processing Performed by Machine Learning Algorithm : With Respect to Data Privacy and Anti-Discrimination	머신러닝 알고리즘의 데이터 처리에 대한 법적 제한의 한계 :개인정보보호와 차별금지의 측면에서
+Jellyfish has a property of moving in groups.	해파리는 무리 지어서 이동하는 특징이 있다.
+Estimation of Fine Dust Pollution Using The Atmospheric Images	대기 이미지를 활용한 미세먼지 오염도 추정
+A Modified Deterministic Boltzmann Machine Learning Algorithm for Networks with Quantized Connection	양자화 결합 네트워크를 위한 수정된 결정론적 볼츠만머신 학습 알고리즘
+The learning result showed that the RMSE value of the RNN-LSTM model was 0.102 which was lower than the RMSE value of the DNN model.	학습 결과, RNN-LSTM 모델의 RMSE 값이 0.102로 DNN모델보다 낮았다.
+The series of values observed orderly over time is called time series data or simply time series which is used to predict future data or patterns of data.	미래의 자료나 혹은 자료의 패턴을 예측하는데 사용되는 자료로서 시간에 따라 연속적으로 관측된값의 계열을 시계열 자료 혹은 간단히 시계열이라고 한다.
+Inferring Method of Height and Weight from Smartphone Sensor Data Using Deep Learning and Clustering	군집화와 딥러닝을 활용한 스마트폰 센서 데이터로부터의 신장과 체중 추론 기법
+Noise Removal using Fuzzy Mask Filter	퍼지 마스크 필터를 이용한 잡음 제거
+Hangul Handwriting Recognition using Recurrent Neural Networks	순환신경망을 이용한 한글 필기체 인식
+Rotating Modulation Collimator(RMC) Reconstruction Algorithm Using Convolutional Neural Network	Convolutional Neural Network(CNN)을 이용한 회전 변조 시준기(RMC) 영상화 알고리즘
+Detection of unauthorized person using AI-based clothing information analysis	AI기반 의류정보를 이용한 비인가 접근감지
+Overlap of Multi-layered Spacetime in Fantasy Fairy Tale	판타지동화에 나타난 시공간의 중층성과 교차 양상
+Posthuman Imagination in Japanese Science Fiction	일본 SF소설 속 ‘포스트휴먼’적 상상력의 현재
+Intelligent Image Analysis System for Worker Safety in the Industrial Site	산업현장에서 작업자 안전을 위한지능형 영상분석 시스템
+An Open Architecture and Open API for e-Commerce Recommendation Model Development Platform	전자상거래 추천 모델 개발 플랫폼을 위한 오픈 아키텍쳐 및 Open API
+A Deep Learning based Inter-Layer Reference Picture Generation Method for Improving SHVC Coding Performance	SHVC 부호화 성능 개선을 위한 딥러닝 기반 계층간 참조 픽처 생성 방법
+Predictive Modeling of Pavement Damage Using Machine Learning and Big Data Processing	빅데이터 처리 활용 및 머신러닝 기법 적용으로 인한 도로 손상 예측 모형 개발
+Application of Machine Learning to Estimation of Moving Target Direction	표적의 이동 방향 추정을 위한 기계 학습의 적용
+3D shape model generation based on a stereo vision system	스테레오 비전 시스템을 이용한 3차원 형상모델 생성
+Smart Beehive using Data Fused Preprocessing and Artificial Neural networks	데이터 퓨전 전처리와 인공신경망을 활용한 스마트 양봉
+To do so, it is needed that relationships between query-words are to be visible after recovering words lost during formulated, and that an intention structure/elements is to be established.	이렇게 하기 위하여, 의도 구조와 요소를 설정함과 아울러 쿼리 단어의 생략된 관계에 해당하는 단어를 복원하여 가시화하는 과정이 필요하다.
+A Study on Performance Comparison for Risk classification of Internal data leakage depended on Deep Learning Model	내부정보유출 위험등급 판단을 위한 딥 러닝 모델 성능비교에 관한 연구
+We expect that efficient demand management by experts will be achieved if the application of the proposed model.	제안하는 모델을 적용한다면 전문가의 효율적인 수요 관리가 이루어질 수 있을 것으로 기대한다.
+Parallel Learning System Optimization using ADMM	ADMM을 이용한 병렬 학습 시스템 최적화
+Graphical Illustration of the Learning Process in Simple Neural Networks	인공신경망 학습 과정의 시각적 해석
+As the fourth industrial revolution is emerging, many companies are increasingly interested in smart factories and the importance of sensors is being emphasized.	4차 산업 혁명이 진행되며 많은 회사들의 스마트 팩토리에 대한 관심이 커지고 있으며 센서의 중요성 또한 대두되고있다.
+A New Hidden Error Function for Training of Multilayer Perceptrons	다층 퍼셉트론의 층별 학습 가속을 위한 중간층 오차 함수
+A Study on Lightweight Machine Learning for IoT Abnormal Detection	경량 환경에서의 머신러닝 기반 이상징후 탐지 기술 연구
+A Study of Predicting Method of Residual Stress Using Artificial Neural Network in $CO_2$ Arc Welding	인공신경회로망을 이용한 탄산가스 아크 용접의 잔류응력 예측에 관한 연구
+Research on Korea Text Recognition in Images Using Deep Learning	딥 러닝 기법을 활용한 이미지 내 한글 텍스트 인식에 관한 연구
+Feature Selection for Creative People Based on Big 5 Personality traits and Machine Learning Algorithms	Big 5 성격 요소와 머신 러닝 알고리즘을 통한 창의적인 사람들의 특징 연구
+The result of this study, that is, the developed modular instructional material is consist of 3 sub-units such as the meaning and development of machine, the constituent of machine, and various moving mechanism.	이 연구에서 개발된 ‘기계의 이해’ 단원을 위한 모듈식 수업 자료의 모듈은 기계의 뜻과 발달, 기계요소, 여러 가지 운동기구 등 3가지 주제로 구성하였다.
+Developing Wind Power Forecasting Algorithm Based on the Support Vector Machine and Gradient Boosting Machine for the KPX Wind Power Forecasting Competition	Support Vector Machine과 Gradient Boosting Machine 기반의 풍력발전량 예측 알고리즘 개발과 전력거래소 풍력발전량 예측 대회를 통한 알고리즘 성능 검증
+Tourist Data Analysis using ARIMA Model and LSTM	ARIMA 모델과 LSTM을 이용한 관광객 수요 예측
+In order to cultivate these SW convergence gifted, reinforcing competence of teachers in charge should be made first.	이러한 SW융합영재를 양성하기 위해서는 담당교원의 역량 강화가 선결되어야 할 것이다.
+Development of a Real-time Lip Recognition for Improving English Pronunciation using Deep Learning	영어발음 향상을 위한 실시간 인공지능 입모양 인식 프로그램 개발
+Active Object-Based Integration of A Computer Vision System in Manufacturing Environment	능동 객체에 기반을 둔 제조 공정 환경에서의 컴퓨터 시각 시스템 통합
+A Study on Improving the Performance 01 Financial Market Forecasting Using Large Exogenous Variables and Deep Neural Network	대규모 외생 변수와 Deep Neural Network를 사용한 금융 시장 예측의 성능 향상에 관한 연구
+Parameter Generation Algorithm for LSTM-RNN-based Speech Synthesis	LSTM-RNN 기반 음성합성을 위한 파라미터 생성 알고리즘
+ A system that can predict amount of generation fluctuating according to the weather changes is required for stable operation of the power system.	안정적인 전력계통 운영을 위해서는 기상 변화에 따라 변동되는 발전량을 예측할 수 있는 시스템이 수반되어야 한다.
+A CNN Model for Image based Behavior Learning of Path Tracking Simulated Driving Vehicle	경로 추종 시뮬레이티드 운전 차량의 영상 기반 행동 학습을 위한 심층신경망 모델
+Monthly Inflow Forecasting of Soyang River Dam Using VARMA and Machine Learning Models	VARMA와 머신러닝 모형을 이용한 소양강댐 월유입량 예측
+In this appear we present simple iterative Kernel Adatron algorithm for function approximation and compare it with standard SVM algorithm using QP.	본 논문에서는 함수근사를 위해 커널-애더트론 알고리즘을 이용한 SVM을 제안하고 QP를 이용한 SVM과 성능을 비교하고자 한다.
+The Analysis of the Effect of Visual Information Volume on the Preference of Commercial Streetscape - Using the Computer Vision Techniques	상업가로경관의 시각적 정보량이 선호도에 미치는 영향 분석 - 컴퓨터 비전 기법을 활용하여
+A Study of Fine Tuning Pre-Trained Korean BERT for Question Answering Performance Development	사전 학습된 한국어 BERT의 전이학습을 통한 한국어 기계독해 성능개선에 관한 연구
+This paper proposes a deep learning approach for spatial information extraction for Korean language using a two-step bidirectional LSTM-CRF ensemble model.	이 논문은 2단계 양방향 LSTM-CRF 앙상블 모델을 사용하여 한국어 공간정보를 추출할 수 있는 심층 학습 방법을 제안한다.
+This study examined how ad-techs such as big data and machine learning are used for digital advertising targeting through case studies.	본 연구는 사례연구를 통하여 빅데이터와 머신러닝의 애드태크 기술이 디지털광고의 타겟팅에 어떻게 활용되는가를 살펴보았다.
+A method for creating the Scene closed-caption metadata based on RNN-LSTM	RNN-LSTM 기반 장면 자막 메타데이터 생성 방법
+In this paper, a power prediction model based on bi-directional LSTM algorithm, which is a deep learning based algorithm and the most popular algorithm in recent years, has been established along with LSTM.	본 연구에서는 딥 러닝 기반의 알고리즘인 LSTM과 더불어 최근에 각광받고 있는 알고리즘인 양방향(Bi-Directional) LSTM 알고리즘을 활용한 전력 예측 모형을 수립하였다.
+Geometrical Posture Adjustment of a Robot and Determination of Camera Location for Handling Budged Object	가변 작업 대상물의 핸들링을 위한 카메라 위치 결정과 로봇의 기하학적 자세보정
+The FCS is based on the fuzzy controller system combined with machine learning.	FSC는 기계학습의 방법을 퍼지 제어기의 개념에 적용한 것이다.
+Classification Learning Data using Maximum Entropy Theory	최대 엔트로피 이론을 이용한 학습 데이터 분류
+The possibility of spatio-temporal drought was analyzed using calculated spatio-temporal SGI.	산정된 시공간적 SGI를 이용하여 시공간적 가뭄 발생 가능성에 대해 분석하였다.
+A Case Study on the Transition Education for Vocational Rehabilitation of Students with Visual Impairments	시각장애학생의 직업재활을 위한 전환교육 사례 연구
+As a result, convergence time was reduced by about 20% when fine-tuning, and about 20% to 70% when used as a feature extractor.	그 결과, 미세조정한 경우 수렴 시간이 약 20% 줄었고, 피쳐 추출기로써 사용한 경우 약 20%에서 70% 줄었다.
+In order to recognize the hand pose of the user, CNN (Convolutional Neural Network) was used.	사용자의 손 포즈를 인식하기 위하여 CNN(Convolutional Neural Network)을 사용하였다.
+Posthuman Onto-epistemology and the Transition of Learner subjectivity	포스트휴먼적 존재인식론과 학습주체성의 변화
+Short-term wind power forecast using hourly LSTM technique	시간별 기법을 이용한 단기풍력발전 예측
+Measurement System of the MFT Upper Extremity Movement using Depth Information and Trigonometric Functions	깊이정보와 삼각함수기법을 이용한 MFT의 상지전방거상 측정시스템
+Second, we present another strategy of combining multiple machine learning classifiers.	둘째로, 여러 분류기의 결합을 통해 문서분류의 성능을 개선한다.
+Long Short-Term Memory RNN based Speech Recognition System for Recording Data	녹취 데이터 인식을 위한 LSTM RNN 기반 음성인식 시스템
+Big Data Analysis: Application to Environmental Research and Service Ⅲ	환경 빅데이터 분석 및 서비스 개발 Ⅲ
+A Study on the Effectiveness of Machine Translators for University Freshmen in Translating Korean Writing into English	대학 신입생이 한국어 작문을 영어로 번역할 때 기계 번역기를 학습 도구로 사용 시 영어 작문에 미치는 효과에 관한 연구
+A Study on Rotating Object Classification using Deep Neural Networks	깊은신경망을 이용한 회전객체 분류 연구
+A study on complexity of deep learning model	딥러닝 모형의 복잡도에 관한 연구
+Experimental results of the proposed scheme are compared with those of rule-based fault diagnosis algorithm in terms of AUC(Area Under the Curve) and ROC(Receiver Operating Characteristic) curve.	제안한 방식의 실험 결과를 ROC 곡선과 AUC(Area under the curve)를 이용하여 Rule 기반 고장 진단 알고리즘과 비교하였다.
+As machine learning has been increasingly used in many fields, we have to jump into the AI industry to move forward in our 21st century society.	이처럼 많은 분야에 머신러닝이 점차 쓰이면서 이제 우리 21세기 사회에서 앞으로 나아가려면 AI산업으로 뛰어들어야 한다.
+Data Fusion is a method that combines and utilizes various sensor data to obtain more accurate and useful data than the data acquired by individual sensors.	데이터 퓨전은 다양한 센서 데이터를 조합하여 활용하는 방법으로, 개별 센서가 취득한 데이터보다 정확하고 유용한 자료를 얻을 수 있다.
+Big Data Analysis of Software Performance Trend and Process Control using Machine Learning	기계 학습을 이용한 소프트웨어 성능 변화의 빅 데이터 분석과 공정 제어
+A Design of Du-CNN based on the Hybrid Machine Characters to Classify Target and Clutter in The IR Image	적외선 영상에서의 표적과 클러터 구분을 위한 Hybrid Machine Character 기반의 Du-CNN 설계
+Recently, the infection of new and modified malicious codes is rapidly spreading through the vulnerability of security patches on personal PCs and various mobile devices, and various damages such as personal information leakage, certificate stealing, and cryptocurrency mining are rapidly increasing.	최근, 개인용 PC 및 다양한 모바일 디바이스에 보안 패치의 취약점을 통해 신종 및 변종 악성코드의 감염이 빠르게 확산되어 개인 정보 유출, 공인 인증서 탈취, 암호화폐 채굴 등의 다양한 피해가 급증되고 있다.
+Directionality of skin AI learning DB drawn in the result of this study may be utilized in the development of skin AI deep learning, and will make convergent contribution in terms of AI industry, economy, and technology.	본 연구의 결과에서 도출된 스킨 인공지능 학습 DB구축에 대한 방향성은 스킨 인공지능 딥러닝 개발에 활용 가능하며, 인공지능 산업적, 경제적, 기술적 측면에서 융합적 기여를 할 것이다.
+Also, RNN and LSTM, which are time series deep learning networks, were learned quickly and steadily compared to DNN.	또한, DNN에 비해 시계열 딥러닝 네트워크인 RNN과 LSTM이 빠르고 안정적으로 학습하였다.
+A New Hidden Error Function for Layer - By - Layer Training of Multilayer Perceptrons	다층 퍼셉트론의 층별 학습을 위한 중간층 오차 함수
+Objects Detection based on Faster R-CNN and Robotic Grasp based on Deep Neural Network	Faster R-CNN 기반의 물체 인식 및 심층 신경망 기반의 로봇 파지
+As a result of the study, we confirmed that the accuracy of 97% can be achieved even with a small amount of data by applying the Memory Augmented Neural Networks model.	메모리가 추가된 신경망(MANN: Memory Augmented Neural Networks) 모델을 이용하였고, 데이터셋에 대해 최대 97%까지 정확도로 분류할 수있음을 확인하였다.
+The qualitative evaluation was also confirmed to be grammatically correct and contextually natural.	정성평가 역시 문법적으로 정확하고 문맥적으로 충분히 자연스러운 결과임을 확인하였다.
+Optimization of fore-end filter for CNN to recognize the handwriting	필기체 인식을 위한 CNN 구현에서 입력단 필터의 최적화
+Effective Nonlinear Filters with Visual Perception Characteristics for Extracting Sketch Features	인간시각 인식특성을 지닌 효율적 비선형 스케치 특징추출 필터
+Dynamic Visual Acuity and Dynamic Stereoacuity of Athletes and Nonathletes	운동선수와 대학생 남녀의 동체 시력 및 동적 입체시에 관한 비교 연구
+The Implementation of Virtual Environment by Using Stereo Vision	스테레오 비전을 이용한 가상환경구현
+How Machine Design Technicians Learn in their Workplace	기계설계 기술자의 기업내 학습의 행태
+Solar Power Prediction Based on Machine Learning Scheme And Its Error Analysis	기계학습 기반의 태양광 출력예측 및 예측 오차 분석
+Groundwater monitoring wells in this country may have missing values due to a malfunction of sensor or an abnormal power supply.	국내 설치 운영 중인 지하수 관측정은 계측 센서의 고장 또는 전원 장치의 이상 등으로 결측이 발생하기도한다.
+However, there has been few studies which apply the denoising filter that improves the performance of predictions removing the noise of financial data.	그러나 디노이징 필터를 적용하여 금융 데이터의 노이즈를 제거함으로써 예측 모형의 성능을 높이는 연구는 거의 이루어지지 않고 있다.
+CNN Architecture Design for Simultaneous Recognition of Object Type, Position, and Rotation Angle Required for Robot Handling	로봇 핸들링에 필요한 물체 종류, 위치, 회전각을 동시에 인식 가능한 CNN 아키텍처 설계
+Variational Recurrent Neural Networks with Relational Memory Core Architectures	관계적 메모리 코어 구조를 적용한 변분적 순환신경망
+The time unit of prediction was set up for 24 hours per month, and the space unit was designated as district ‘gu’, land-use type, and road and off the road.	이를 위해 예측의 시간단위는 월별 24시간을 기준으로 하고, 공간단위는 자치구, 토지이용유형, 도로 및 도로 외로 설계하였다.
+Face Tracking Using Face Feature and Color Information	색상과 얼굴 특징 정보를 이용한 얼굴 추적
+Bayesian Logistic Regression for Human Detection	Human Detection을 위한 Bayesian Logistic Regression
+Development of an Automatic Recognition System of Nuclear Fuel rod Numbers	핵 연료봉번호 자동인식 시스템 개발
+Research on the Necessity and Prerequisite Problems which Chinese Classical written language works in Machine translation	한문고전 인공지능 번역 연구의 필요성과 선결 과제
+A Study On Decision of the Number of Hidden-layer Nodes on Neural Network Using Genetic Algorithms	유전자 알고리즘을 이용한 신경망 은닉노드 수 결정에 관한 연구
+Real-time Interactive Particle-art with Human Motion Based on Computer Vision Techniques	컴퓨터 비전 기술을 활용한 관객의 움직임과 상호작용이 가능한 실시간 파티클 아트
+A Computer Aided Diagnosis Algorithm for Classification of Malignant Melanoma based on Deep Learning	딥 러닝 기반의 악성흑색종 분류를 위한 컴퓨터 보조진단 알고리즘
+A Study on Multi-Layered Meanings and Relationship of Body-Place found in Site-Specific Installation Art of Ann Hamilton	앤 해밀턴의 장소특정 설치미술에 나타난 신체-장소의 관계성과다층적 의미에 관한 연구
+In this paper, the experiment results based on the proposed model using the real-world data shows the superior performance, which showed a positive impact on improving the PV power in a peak time forecast performance targeted in this study.	본 연구에서 제안한 모델을 기반으로 실 데이터를 통한 실험 결과, 단기 및 장기적 관점에서 높은 성능을 보였으며, 이는 본 연구에서 목표로 한 피크시간의 태양광 발전량 예측 성능 향상에 긍정적인 영향을 나타내었음을 보여준다.
+Turtle neck syndrome is a posture in which the head is forward compared to the torso due to longer front muscles in the neck and shorter upper muscles, and it is more effective to fix the usual posture habits than surgery or medication.	거북목 증후군은 목의 앞 근육이 길어지고, 위쪽 근육이 짧아져 몸통에 비해 머리가 앞으로 나와 있는 자세이며, 수술이나 약물치료보다 평소의 자세 습관을 고치는 방법이 효과적이다.
+Through the accumulation of educational materials, it is possible to improve Korean language education by securing big data and continuously supplementing the system.	교육 자료의 축적을 통해서 빅데이터를 확보하고 시스템을 지속적으로 보완함으로써 한국어 교육을 개선할 수 있다.
+Implementation of saliency map model using independent component analysis	독립성분해석을 이용한 Saliency map 모델 구현
+The Elements for the Construction of Visual Programing Environment	시각적 프로그래밍 환경 구축을 위한 원소
+First, the study of recommendation system needs a methodology to apply study to deep learning model by analyzing information such as image and voice out of current image or text.	첫째, 국내 딥러닝 기반 추천 시스템의 연구가 이미지나 텍스트 등의 정보 분석에서 벗어나 영상과 음성 등을 딥러닝 모델에 적용하는 방법적 연구가 필요하다.
+A Study on Chemical Accident Response using Machine Learning Technique	머신러닝을 이용한 화학사고 대응에 관한 연구
+We considered both Gaussian noise and impulse noise to test the performance of our CNN model. Experimental results on several images show that the patch-based CNN model yields significantly superior image quality and better MAE (mean absolute error) and PSNR (peak signal-to-noise ratio).	영상실험은 가우시안 잡음영상과 임펄스 잡음영상 모두를 고려하였고 실험결과, 패치기반 CNN 모형은 다른 방법보다 좋은 화질의 영상을 도출하였고 또한 MAE (mean absolute error)와 PSNR (peak signal-to-noise ratio) 면에서도 좋은 성능을 지님을 알 수 있었다.
+Development of a Computer Vision System to Measure Low Flow Rate of Solid particles	컴퓨터 시각에 의한 고형 입자의 소량 유동을 측정장치 개발
+Machine Learning Based Anti-Collision Arbitration Algorithm for RFID Tag Recognition Process	머신 러닝 기반 RFID 태그인식 프로세스를 위한 충돌방지 중재 알고리즘
+Extended SURF Algorithm with Color Invariant Feature and Global Feature	컬러 불변 특징과 광역 특징을 갖는 확장 SURF(Speeded Up Robust Features) 알고리즘
+Real-time construction machine data processing and fault prediction system	실시간 건설기계 데이터 처리 및 이상 유무 예측 시스템
+Data Driven Proposal and Deep Learning-based Small Infrared Drone Detection	데이터 기반 영역 제안 및 심층 학습 분류 네트워크를 이용한 소형 적외선 드론 검출
+Predicting Win-Loss of League of Legends Using Bidirectional LSTM Embedding	양방향 순환신경망 임베딩을 이용한 리그오브레전드 승패 예측
